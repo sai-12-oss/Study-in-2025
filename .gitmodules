@@ -1,0 +1,6 @@
+[submodule "Sem_4/UMC-203-AI and ML/Textbook-codes/prml"]
+	path = Sem_4/UMC-203-AI and ML/Textbook-codes/prml
+	url = https://github.com/gerdm/prml
+[submodule "Sem_4/UMC-203-AI and ML/Textbook-codes/Murphy-book"]
+	path = Sem_4/UMC-203-AI and ML/Textbook-codes/Murphy-book
+	url = https://github.com/probml/pyprobml
