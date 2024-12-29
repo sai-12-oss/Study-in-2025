@@ -15,7 +15,7 @@ class Node:
         self.right = None
         self.attr = None
         self.vote = None
-    
+
 
 
 if __name__ == '__main__':
