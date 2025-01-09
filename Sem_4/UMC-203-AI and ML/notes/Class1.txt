@@ -1,0 +1,13 @@
+Topics Discussed: 
+Bayes Classifier,Gaussian Bayes Classifier,How efficient is Bayes Classifier 
+
+Order of Study:
+1) Pattern Recognition - Duda and Hart - 2nd Chapter(Named Bayesian Decision Theory) complete for the entire Bayes Classifier Part 
+2) https://www.cs.cmu.edu/~aarti/Class/10701_Spring23/lecs.html lec2 and also if possible do the cmu homework releated to this 
+3) https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote05.html very good video and resource for understanding and very concise
+4) http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/CSC411_Fall16.html#schedule - 9th lecture almost exact of what taught in class -check video and assigments
+good but too advanced i feel as of now:
+https://funglee.github.io/ml/slides/Lecture5-NaiveBayes-Notes.pdf
+
+
+Homework given - I forgot to note it down - will do later 
