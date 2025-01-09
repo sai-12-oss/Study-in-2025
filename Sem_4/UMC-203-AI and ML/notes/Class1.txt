@@ -11,3 +11,5 @@ https://funglee.github.io/ml/slides/Lecture5-NaiveBayes-Notes.pdf
 
 
 Homework given - I forgot to note it down - will do later 
+
+Hi my name is sandesh and i am a student of UMC-203-AI and ML
