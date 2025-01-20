@@ -1,0 +1,33 @@
+Initial number of communities = 7115
+
+Iteration number: 1
+Number of communities after iteration: 1044
+
+Iteration number: 2
+Number of communities after iteration: 210
+
+Iteration number: 3
+Number of communities after iteration: 72
+
+Iteration number: 4
+Number of communities after iteration: 64 
+
+Iteration number: 5
+Number of communities after iteration: 62
+
+Iteration number: 6
+Number of communities after iteration: 60
+
+Iteration number: 7
+Number of communities after iteration: 59
+
+Iteration number: 8
+Number of communities after iteration: 59
+
+Iteration number: 9
+Number of communities after iteration: 59
+
+Iteration number: 10
+Number of communities after iteration: 59
+
+Total runtime: 3.0 seconds

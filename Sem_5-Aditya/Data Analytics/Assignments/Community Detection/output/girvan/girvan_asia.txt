@@ -1,0 +1,7545 @@
+Initial number of communities: 1
+
+Iteration number: 1
+Edge removed: (3103, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 2
+Edge removed: (4356, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 3
+Edge removed: (6101, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 4
+Edge removed: (645, 3544)
+Number of communities after edge removal: 1
+
+Iteration number: 5
+Edge removed: (2600, 2854)
+Number of communities after edge removal: 1
+
+Iteration number: 6
+Edge removed: (4356, 5454)
+Number of communities after edge removal: 1
+
+Iteration number: 7
+Edge removed: (3450, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 8
+Edge removed: (5127, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 9
+Edge removed: (5274, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 10
+Edge removed: (2600, 4338)
+Number of communities after edge removal: 1
+
+Iteration number: 11
+Edge removed: (4146, 5127)
+Number of communities after edge removal: 1
+
+Iteration number: 12
+Edge removed: (1300, 3504)
+Number of communities after edge removal: 1
+
+Iteration number: 13
+Edge removed: (4356, 6101)
+Number of communities after edge removal: 1
+
+Iteration number: 14
+Edge removed: (1698, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 15
+Edge removed: (1795, 3181)
+Number of communities after edge removal: 1
+
+Iteration number: 16
+Edge removed: (1795, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 17
+Edge removed: (2854, 5127)
+Number of communities after edge removal: 1
+
+Iteration number: 18
+Edge removed: (4356, 5441)
+Number of communities after edge removal: 1
+
+Iteration number: 19
+Edge removed: (3210, 4356)
+Number of communities after edge removal: 1
+
+Iteration number: 20
+Edge removed: (543, 4338)
+Number of communities after edge removal: 1
+
+Iteration number: 21
+Edge removed: (1947, 6101)
+Number of communities after edge removal: 1
+
+Iteration number: 22
+Edge removed: (1348, 4248)
+Number of communities after edge removal: 1
+
+Iteration number: 23
+Edge removed: (897, 4338)
+Number of communities after edge removal: 1
+
+Iteration number: 24
+Edge removed: (2854, 3240)
+Number of communities after edge removal: 1
+
+Iteration number: 25
+Edge removed: (3381, 3544)
+Number of communities after edge removal: 1
+
+Iteration number: 26
+Edge removed: (2854, 5454)
+Number of communities after edge removal: 1
+
+Iteration number: 27
+Edge removed: (7199, 7339)
+Number of communities after edge removal: 1
+
+Iteration number: 28
+Edge removed: (1348, 2854)
+Number of communities after edge removal: 1
+
+Iteration number: 29
+Edge removed: (1850, 4125)
+Number of communities after edge removal: 1
+
+Iteration number: 30
+Edge removed: (1792, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 31
+Edge removed: (524, 4146)
+Number of communities after edge removal: 1
+
+Iteration number: 32
+Edge removed: (3653, 6712)
+Number of communities after edge removal: 1
+
+Iteration number: 33
+Edge removed: (1812, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 34
+Edge removed: (3322, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 35
+Edge removed: (6502, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 36
+Edge removed: (674, 4356)
+Number of communities after edge removal: 1
+
+Iteration number: 37
+Edge removed: (4356, 7012)
+Number of communities after edge removal: 1
+
+Iteration number: 38
+Edge removed: (3873, 4900)
+Number of communities after edge removal: 1
+
+Iteration number: 39
+Edge removed: (1376, 4338)
+Number of communities after edge removal: 1
+
+Iteration number: 40
+Edge removed: (3584, 4206)
+Number of communities after edge removal: 1
+
+Iteration number: 41
+Edge removed: (4876, 4900)
+Number of communities after edge removal: 1
+
+Iteration number: 42
+Edge removed: (3873, 6108)
+Number of communities after edge removal: 1
+
+Iteration number: 43
+Edge removed: (5755, 6519)
+Number of communities after edge removal: 1
+
+Iteration number: 44
+Edge removed: (2961, 5876)
+Number of communities after edge removal: 1
+
+Iteration number: 45
+Edge removed: (3979, 4356)
+Number of communities after edge removal: 1
+
+Iteration number: 46
+Edge removed: (110, 5489)
+Number of communities after edge removal: 1
+
+Iteration number: 47
+Edge removed: (1011, 7030)
+Number of communities after edge removal: 1
+
+Iteration number: 48
+Edge removed: (110, 6973)
+Number of communities after edge removal: 1
+
+Iteration number: 49
+Edge removed: (4356, 7351)
+Number of communities after edge removal: 1
+
+Iteration number: 50
+Edge removed: (2473, 7565)
+Number of communities after edge removal: 1
+
+Iteration number: 51
+Edge removed: (1737, 1937)
+Number of communities after edge removal: 1
+
+Iteration number: 52
+Edge removed: (2473, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 53
+Edge removed: (1462, 2020)
+Number of communities after edge removal: 1
+
+Iteration number: 54
+Edge removed: (3544, 5110)
+Number of communities after edge removal: 1
+
+Iteration number: 55
+Edge removed: (1348, 4846)
+Number of communities after edge removal: 1
+
+Iteration number: 56
+Edge removed: (4356, 6843)
+Number of communities after edge removal: 1
+
+Iteration number: 57
+Edge removed: (5646, 7365)
+Number of communities after edge removal: 1
+
+Iteration number: 58
+Edge removed: (1795, 4515)
+Number of communities after edge removal: 1
+
+Iteration number: 59
+Edge removed: (1897, 3650)
+Number of communities after edge removal: 1
+
+Iteration number: 60
+Edge removed: (2694, 3582)
+Number of communities after edge removal: 1
+
+Iteration number: 61
+Edge removed: (1897, 7535)
+Number of communities after edge removal: 1
+
+Iteration number: 62
+Edge removed: (1618, 4785)
+Number of communities after edge removal: 1
+
+Iteration number: 63
+Edge removed: (299, 1897)
+Number of communities after edge removal: 1
+
+Iteration number: 64
+Edge removed: (4239, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 65
+Edge removed: (244, 1376)
+Number of communities after edge removal: 1
+
+Iteration number: 66
+Edge removed: (221, 2854)
+Number of communities after edge removal: 1
+
+Iteration number: 67
+Edge removed: (898, 5454)
+Number of communities after edge removal: 1
+
+Iteration number: 68
+Edge removed: (4338, 5370)
+Number of communities after edge removal: 1
+
+Iteration number: 69
+Edge removed: (2892, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 70
+Edge removed: (2816, 3544)
+Number of communities after edge removal: 1
+
+Iteration number: 71
+Edge removed: (1897, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 72
+Edge removed: (2091, 2304)
+Number of communities after edge removal: 1
+
+Iteration number: 73
+Edge removed: (1689, 2730)
+Number of communities after edge removal: 1
+
+Iteration number: 74
+Edge removed: (1689, 3584)
+Number of communities after edge removal: 1
+
+Iteration number: 75
+Edge removed: (1376, 4563)
+Number of communities after edge removal: 1
+
+Iteration number: 76
+Edge removed: (4811, 6478)
+Number of communities after edge removal: 1
+
+Iteration number: 77
+Edge removed: (3961, 4880)
+Number of communities after edge removal: 1
+
+Iteration number: 78
+Edge removed: (4206, 4900)
+Number of communities after edge removal: 1
+
+Iteration number: 79
+Edge removed: (380, 5454)
+Number of communities after edge removal: 1
+
+Iteration number: 80
+Edge removed: (3181, 7141)
+Number of communities after edge removal: 1
+
+Iteration number: 81
+Edge removed: (6337, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 82
+Edge removed: (2260, 3855)
+Number of communities after edge removal: 1
+
+Iteration number: 83
+Edge removed: (5653, 6241)
+Number of communities after edge removal: 1
+
+Iteration number: 84
+Edge removed: (1250, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 85
+Edge removed: (1250, 3906)
+Number of communities after edge removal: 1
+
+Iteration number: 86
+Edge removed: (1706, 3584)
+Number of communities after edge removal: 1
+
+Iteration number: 87
+Edge removed: (3023, 3544)
+Number of communities after edge removal: 1
+
+Iteration number: 88
+Edge removed: (3400, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 89
+Edge removed: (985, 3130)
+Number of communities after edge removal: 1
+
+Iteration number: 90
+Edge removed: (1271, 2600)
+Number of communities after edge removal: 1
+
+Iteration number: 91
+Edge removed: (766, 4146)
+Number of communities after edge removal: 1
+
+Iteration number: 92
+Edge removed: (381, 1706)
+Number of communities after edge removal: 1
+
+Iteration number: 93
+Edge removed: (1250, 4175)
+Number of communities after edge removal: 1
+
+Iteration number: 94
+Edge removed: (1817, 6921)
+Number of communities after edge removal: 1
+
+Iteration number: 95
+Edge removed: (2713, 6365)
+Number of communities after edge removal: 1
+
+Iteration number: 96
+Edge removed: (5581, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 97
+Edge removed: (3584, 5581)
+Number of communities after edge removal: 1
+
+Iteration number: 98
+Edge removed: (1905, 4146)
+Number of communities after edge removal: 1
+
+Iteration number: 99
+Edge removed: (54, 3994)
+Number of communities after edge removal: 1
+
+Iteration number: 100
+Edge removed: (4141, 4146)
+Number of communities after edge removal: 1
+
+Iteration number: 101
+Edge removed: (5892, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 102
+Edge removed: (3855, 6047)
+Number of communities after edge removal: 1
+
+Iteration number: 103
+Edge removed: (418, 4146)
+Number of communities after edge removal: 1
+
+Iteration number: 104
+Edge removed: (3258, 6101)
+Number of communities after edge removal: 1
+
+Iteration number: 105
+Edge removed: (4121, 4785)
+Number of communities after edge removal: 1
+
+Iteration number: 106
+Edge removed: (1230, 2122)
+Number of communities after edge removal: 1
+
+Iteration number: 107
+Edge removed: (3859, 6101)
+Number of communities after edge removal: 1
+
+Iteration number: 108
+Edge removed: (4356, 6647)
+Number of communities after edge removal: 1
+
+Iteration number: 109
+Edge removed: (4801, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 110
+Edge removed: (1698, 4811)
+Number of communities after edge removal: 1
+
+Iteration number: 111
+Edge removed: (3530, 4811)
+Number of communities after edge removal: 1
+
+Iteration number: 112
+Edge removed: (2988, 5653)
+Number of communities after edge removal: 1
+
+Iteration number: 113
+Edge removed: (989, 1897)
+Number of communities after edge removal: 1
+
+Iteration number: 114
+Edge removed: (1724, 4916)
+Number of communities after edge removal: 1
+
+Iteration number: 115
+Edge removed: (1849, 7170)
+Number of communities after edge removal: 1
+
+Iteration number: 116
+Edge removed: (1230, 4968)
+Number of communities after edge removal: 1
+
+Iteration number: 117
+Edge removed: (3346, 4673)
+Number of communities after edge removal: 1
+
+Iteration number: 118
+Edge removed: (393, 5063)
+Number of communities after edge removal: 1
+
+Iteration number: 119
+Edge removed: (5612, 6036)
+Number of communities after edge removal: 1
+
+Iteration number: 120
+Edge removed: (1509, 4556)
+Number of communities after edge removal: 1
+
+Iteration number: 121
+Edge removed: (130, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 122
+Edge removed: (7118, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 123
+Edge removed: (1178, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 124
+Edge removed: (5964, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 125
+Edge removed: (3130, 6491)
+Number of communities after edge removal: 1
+
+Iteration number: 126
+Edge removed: (2707, 4611)
+Number of communities after edge removal: 1
+
+Iteration number: 127
+Edge removed: (1812, 5646)
+Number of communities after edge removal: 1
+
+Iteration number: 128
+Edge removed: (1875, 4356)
+Number of communities after edge removal: 1
+
+Iteration number: 129
+Edge removed: (5110, 5454)
+Number of communities after edge removal: 1
+
+Iteration number: 130
+Edge removed: (5454, 6174)
+Number of communities after edge removal: 1
+
+Iteration number: 131
+Edge removed: (1350, 5540)
+Number of communities after edge removal: 1
+
+Iteration number: 132
+Edge removed: (989, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 133
+Edge removed: (4165, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 134
+Edge removed: (2299, 7565)
+Number of communities after edge removal: 1
+
+Iteration number: 135
+Edge removed: (3855, 5745)
+Number of communities after edge removal: 1
+
+Iteration number: 136
+Edge removed: (985, 7552)
+Number of communities after edge removal: 1
+
+Iteration number: 137
+Edge removed: (3596, 4723)
+Number of communities after edge removal: 1
+
+Iteration number: 138
+Edge removed: (5532, 6415)
+Number of communities after edge removal: 1
+
+Iteration number: 139
+Edge removed: (891, 4121)
+Number of communities after edge removal: 1
+
+Iteration number: 140
+Edge removed: (1689, 6255)
+Number of communities after edge removal: 1
+
+Iteration number: 141
+Edge removed: (221, 5110)
+Number of communities after edge removal: 1
+
+Iteration number: 142
+Edge removed: (1787, 4338)
+Number of communities after edge removal: 1
+
+Iteration number: 143
+Edge removed: (1250, 4846)
+Number of communities after edge removal: 1
+
+Iteration number: 144
+Edge removed: (3584, 6657)
+Number of communities after edge removal: 1
+
+Iteration number: 145
+Edge removed: (1376, 3986)
+Number of communities after edge removal: 1
+
+Iteration number: 146
+Edge removed: (1281, 3898)
+Number of communities after edge removal: 1
+
+Iteration number: 147
+Edge removed: (1941, 2058)
+Number of communities after edge removal: 1
+
+Iteration number: 148
+Edge removed: (985, 5335)
+Number of communities after edge removal: 1
+
+Iteration number: 149
+Edge removed: (4648, 7074)
+Number of communities after edge removal: 1
+
+Iteration number: 150
+Edge removed: (166, 4901)
+Number of communities after edge removal: 1
+
+Iteration number: 151
+Edge removed: (704, 4900)
+Number of communities after edge removal: 1
+
+Iteration number: 152
+Edge removed: (1986, 3133)
+Number of communities after edge removal: 1
+
+Iteration number: 153
+Edge removed: (1547, 5047)
+Number of communities after edge removal: 1
+
+Iteration number: 154
+Edge removed: (4069, 7415)
+Number of communities after edge removal: 1
+
+Iteration number: 155
+Edge removed: (1781, 3544)
+Number of communities after edge removal: 1
+
+Iteration number: 156
+Edge removed: (4524, 4900)
+Number of communities after edge removal: 1
+
+Iteration number: 157
+Edge removed: (3181, 5536)
+Number of communities after edge removal: 1
+
+Iteration number: 158
+Edge removed: (1911, 4355)
+Number of communities after edge removal: 1
+
+Iteration number: 159
+Edge removed: (3544, 4477)
+Number of communities after edge removal: 1
+
+Iteration number: 160
+Edge removed: (1724, 2369)
+Number of communities after edge removal: 1
+
+Iteration number: 161
+Edge removed: (543, 5335)
+Number of communities after edge removal: 1
+
+Iteration number: 162
+Edge removed: (1776, 3613)
+Number of communities after edge removal: 1
+
+Iteration number: 163
+Edge removed: (6496, 7141)
+Number of communities after edge removal: 1
+
+Iteration number: 164
+Edge removed: (432, 3701)
+Number of communities after edge removal: 1
+
+Iteration number: 165
+Edge removed: (2044, 6001)
+Number of communities after edge removal: 1
+
+Iteration number: 166
+Edge removed: (5510, 6785)
+Number of communities after edge removal: 1
+
+Iteration number: 167
+Edge removed: (85, 1689)
+Number of communities after edge removal: 1
+
+Iteration number: 168
+Edge removed: (2600, 6101)
+Number of communities after edge removal: 1
+
+Iteration number: 169
+Edge removed: (599, 647)
+Number of communities after edge removal: 1
+
+Iteration number: 170
+Edge removed: (1875, 6003)
+Number of communities after edge removal: 1
+
+Iteration number: 171
+Edge removed: (344, 2229)
+Number of communities after edge removal: 1
+
+Iteration number: 172
+Edge removed: (613, 2566)
+Number of communities after edge removal: 1
+
+Iteration number: 173
+Edge removed: (159, 399)
+Number of communities after edge removal: 1
+
+Iteration number: 174
+Edge removed: (2488, 5381)
+Number of communities after edge removal: 1
+
+Iteration number: 175
+Edge removed: (5578, 6459)
+Number of communities after edge removal: 1
+
+Iteration number: 176
+Edge removed: (2170, 4531)
+Number of communities after edge removal: 1
+
+Iteration number: 177
+Edge removed: (4994, 7245)
+Number of communities after edge removal: 1
+
+Iteration number: 178
+Edge removed: (5090, 7118)
+Number of communities after edge removal: 1
+
+Iteration number: 179
+Edge removed: (378, 2737)
+Number of communities after edge removal: 1
+
+Iteration number: 180
+Edge removed: (2600, 4337)
+Number of communities after edge removal: 1
+
+Iteration number: 181
+Edge removed: (543, 5905)
+Number of communities after edge removal: 1
+
+Iteration number: 182
+Edge removed: (6519, 6656)
+Number of communities after edge removal: 1
+
+Iteration number: 183
+Edge removed: (985, 3514)
+Number of communities after edge removal: 1
+
+Iteration number: 184
+Edge removed: (2510, 4357)
+Number of communities after edge removal: 1
+
+Iteration number: 185
+Edge removed: (3544, 7566)
+Number of communities after edge removal: 1
+
+Iteration number: 186
+Edge removed: (4145, 5653)
+Number of communities after edge removal: 1
+
+Iteration number: 187
+Edge removed: (1698, 3775)
+Number of communities after edge removal: 1
+
+Iteration number: 188
+Edge removed: (3439, 5127)
+Number of communities after edge removal: 1
+
+Iteration number: 189
+Edge removed: (3544, 3692)
+Number of communities after edge removal: 1
+
+Iteration number: 190
+Edge removed: (1334, 7352)
+Number of communities after edge removal: 1
+
+Iteration number: 191
+Edge removed: (139, 6664)
+Number of communities after edge removal: 1
+
+Iteration number: 192
+Edge removed: (1781, 6219)
+Number of communities after edge removal: 1
+
+Iteration number: 193
+Edge removed: (2600, 4416)
+Number of communities after edge removal: 1
+
+Iteration number: 194
+Edge removed: (3461, 7480)
+Number of communities after edge removal: 1
+
+Iteration number: 195
+Edge removed: (2149, 3614)
+Number of communities after edge removal: 1
+
+Iteration number: 196
+Edge removed: (2600, 6583)
+Number of communities after edge removal: 1
+
+Iteration number: 197
+Edge removed: (3249, 5463)
+Number of communities after edge removal: 1
+
+Iteration number: 198
+Edge removed: (3341, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 199
+Edge removed: (2370, 5793)
+Number of communities after edge removal: 1
+
+Iteration number: 200
+Edge removed: (4623, 5047)
+Number of communities after edge removal: 1
+
+Iteration number: 201
+Edge removed: (3584, 4914)
+Number of communities after edge removal: 1
+
+Iteration number: 202
+Edge removed: (4122, 7237)
+Number of communities after edge removal: 1
+
+Iteration number: 203
+Edge removed: (6252, 7170)
+Number of communities after edge removal: 1
+
+Iteration number: 204
+Edge removed: (5040, 5162)
+Number of communities after edge removal: 1
+
+Iteration number: 205
+Edge removed: (344, 1947)
+Number of communities after edge removal: 1
+
+Iteration number: 206
+Edge removed: (646, 2412)
+Number of communities after edge removal: 1
+
+Iteration number: 207
+Edge removed: (1611, 4737)
+Number of communities after edge removal: 1
+
+Iteration number: 208
+Edge removed: (482, 2854)
+Number of communities after edge removal: 1
+
+Iteration number: 209
+Edge removed: (989, 4384)
+Number of communities after edge removal: 1
+
+Iteration number: 210
+Edge removed: (9, 6441)
+Number of communities after edge removal: 1
+
+Iteration number: 211
+Edge removed: (566, 4482)
+Number of communities after edge removal: 1
+
+Iteration number: 212
+Edge removed: (1795, 5153)
+Number of communities after edge removal: 1
+
+Iteration number: 213
+Edge removed: (1426, 5625)
+Number of communities after edge removal: 1
+
+Iteration number: 214
+Edge removed: (374, 3279)
+Number of communities after edge removal: 1
+
+Iteration number: 215
+Edge removed: (2805, 3279)
+Number of communities after edge removal: 1
+
+Iteration number: 216
+Edge removed: (1224, 4399)
+Number of communities after edge removal: 1
+
+Iteration number: 217
+Edge removed: (68, 2882)
+Number of communities after edge removal: 1
+
+Iteration number: 218
+Edge removed: (2399, 3977)
+Number of communities after edge removal: 1
+
+Iteration number: 219
+Edge removed: (372, 2510)
+Number of communities after edge removal: 1
+
+Iteration number: 220
+Edge removed: (1137, 3181)
+Number of communities after edge removal: 1
+
+Iteration number: 221
+Edge removed: (221, 5425)
+Number of communities after edge removal: 1
+
+Iteration number: 222
+Edge removed: (736, 3137)
+Number of communities after edge removal: 1
+
+Iteration number: 223
+Edge removed: (1737, 6269)
+Number of communities after edge removal: 1
+
+Iteration number: 224
+Edge removed: (1627, 3829)
+Number of communities after edge removal: 1
+
+Iteration number: 225
+Edge removed: (1508, 2122)
+Number of communities after edge removal: 1
+
+Iteration number: 226
+Edge removed: (2788, 3390)
+Number of communities after edge removal: 1
+
+Iteration number: 227
+Edge removed: (3585, 6882)
+Number of communities after edge removal: 1
+
+Iteration number: 228
+Edge removed: (898, 2893)
+Number of communities after edge removal: 1
+
+Iteration number: 229
+Edge removed: (2143, 3944)
+Number of communities after edge removal: 1
+
+Iteration number: 230
+Edge removed: (898, 6441)
+Number of communities after edge removal: 1
+
+Iteration number: 231
+Edge removed: (2504, 4146)
+Number of communities after edge removal: 1
+
+Iteration number: 232
+Edge removed: (4506, 7356)
+Number of communities after edge removal: 1
+
+Iteration number: 233
+Edge removed: (3212, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 234
+Edge removed: (2600, 3912)
+Number of communities after edge removal: 1
+
+Iteration number: 235
+Edge removed: (2456, 2600)
+Number of communities after edge removal: 1
+
+Iteration number: 236
+Edge removed: (2600, 6373)
+Number of communities after edge removal: 1
+
+Iteration number: 237
+Edge removed: (2600, 5579)
+Number of communities after edge removal: 1
+
+Iteration number: 238
+Edge removed: (344, 4309)
+Number of communities after edge removal: 1
+
+Iteration number: 239
+Edge removed: (2809, 7592)
+Number of communities after edge removal: 1
+
+Iteration number: 240
+Edge removed: (1902, 3415)
+Number of communities after edge removal: 1
+
+Iteration number: 241
+Edge removed: (5047, 6656)
+Number of communities after edge removal: 1
+
+Iteration number: 242
+Edge removed: (3694, 7270)
+Number of communities after edge removal: 1
+
+Iteration number: 243
+Edge removed: (1798, 4432)
+Number of communities after edge removal: 1
+
+Iteration number: 244
+Edge removed: (3181, 7339)
+Number of communities after edge removal: 1
+
+Iteration number: 245
+Edge removed: (1776, 6656)
+Number of communities after edge removal: 1
+
+Iteration number: 246
+Edge removed: (2295, 6445)
+Number of communities after edge removal: 1
+
+Iteration number: 247
+Edge removed: (4238, 4846)
+Number of communities after edge removal: 1
+
+Iteration number: 248
+Edge removed: (1929, 7170)
+Number of communities after edge removal: 1
+
+Iteration number: 249
+Edge removed: (3249, 4031)
+Number of communities after edge removal: 1
+
+Iteration number: 250
+Edge removed: (1689, 1781)
+Number of communities after edge removal: 1
+
+Iteration number: 251
+Edge removed: (438, 5905)
+Number of communities after edge removal: 1
+
+Iteration number: 252
+Edge removed: (3160, 4549)
+Number of communities after edge removal: 1
+
+Iteration number: 253
+Edge removed: (721, 4243)
+Number of communities after edge removal: 1
+
+Iteration number: 254
+Edge removed: (3584, 6820)
+Number of communities after edge removal: 1
+
+Iteration number: 255
+Edge removed: (1105, 3614)
+Number of communities after edge removal: 1
+
+Iteration number: 256
+Edge removed: (4648, 6483)
+Number of communities after edge removal: 1
+
+Iteration number: 257
+Edge removed: (1219, 4777)
+Number of communities after edge removal: 1
+
+Iteration number: 258
+Edge removed: (5233, 6359)
+Number of communities after edge removal: 1
+
+Iteration number: 259
+Edge removed: (6115, 7085)
+Number of communities after edge removal: 1
+
+Iteration number: 260
+Edge removed: (3535, 4997)
+Number of communities after edge removal: 1
+
+Iteration number: 261
+Edge removed: (845, 4763)
+Number of communities after edge removal: 1
+
+Iteration number: 262
+Edge removed: (290, 1244)
+Number of communities after edge removal: 1
+
+Iteration number: 263
+Edge removed: (3047, 3688)
+Number of communities after edge removal: 1
+
+Iteration number: 264
+Edge removed: (1325, 1575)
+Number of communities after edge removal: 1
+
+Iteration number: 265
+Edge removed: (1155, 3181)
+Number of communities after edge removal: 1
+
+Iteration number: 266
+Edge removed: (704, 2236)
+Number of communities after edge removal: 1
+
+Iteration number: 267
+Edge removed: (282, 3459)
+Number of communities after edge removal: 1
+
+Iteration number: 268
+Edge removed: (2588, 6675)
+Number of communities after edge removal: 1
+
+Iteration number: 269
+Edge removed: (1339, 6783)
+Number of communities after edge removal: 1
+
+Iteration number: 270
+Edge removed: (4357, 7032)
+Number of communities after edge removal: 1
+
+Iteration number: 271
+Edge removed: (4357, 5278)
+Number of communities after edge removal: 1
+
+Iteration number: 272
+Edge removed: (1347, 3239)
+Number of communities after edge removal: 1
+
+Iteration number: 273
+Edge removed: (4146, 5425)
+Number of communities after edge removal: 1
+
+Iteration number: 274
+Edge removed: (6134, 7556)
+Number of communities after edge removal: 1
+
+Iteration number: 275
+Edge removed: (1878, 2110)
+Number of communities after edge removal: 1
+
+Iteration number: 276
+Edge removed: (3439, 5454)
+Number of communities after edge removal: 1
+
+Iteration number: 277
+Edge removed: (654, 5314)
+Number of communities after edge removal: 1
+
+Iteration number: 278
+Edge removed: (2299, 7002)
+Number of communities after edge removal: 1
+
+Iteration number: 279
+Edge removed: (3585, 6269)
+Number of communities after edge removal: 1
+
+Iteration number: 280
+Edge removed: (1689, 5574)
+Number of communities after edge removal: 1
+
+Iteration number: 281
+Edge removed: (3596, 5518)
+Number of communities after edge removal: 1
+
+Iteration number: 282
+Edge removed: (3181, 7260)
+Number of communities after edge removal: 1
+
+Iteration number: 283
+Edge removed: (1878, 7118)
+Number of communities after edge removal: 1
+
+Iteration number: 284
+Edge removed: (3181, 5110)
+Number of communities after edge removal: 1
+
+Iteration number: 285
+Edge removed: (5653, 6459)
+Number of communities after edge removal: 1
+
+Iteration number: 286
+Edge removed: (1835, 3390)
+Number of communities after edge removal: 1
+
+Iteration number: 287
+Edge removed: (4785, 7114)
+Number of communities after edge removal: 1
+
+Iteration number: 288
+Edge removed: (1377, 3725)
+Number of communities after edge removal: 1
+
+Iteration number: 289
+Edge removed: (5169, 5454)
+Number of communities after edge removal: 1
+
+Iteration number: 290
+Edge removed: (6020, 7402)
+Number of communities after edge removal: 1
+
+Iteration number: 291
+Edge removed: (3661, 4006)
+Number of communities after edge removal: 1
+
+Iteration number: 292
+Edge removed: (3561, 6115)
+Number of communities after edge removal: 1
+
+Iteration number: 293
+Edge removed: (119, 7260)
+Number of communities after edge removal: 1
+
+Iteration number: 294
+Edge removed: (1441, 3711)
+Number of communities after edge removal: 1
+
+Iteration number: 295
+Edge removed: (2600, 6817)
+Number of communities after edge removal: 1
+
+Iteration number: 296
+Edge removed: (1781, 5493)
+Number of communities after edge removal: 1
+
+Iteration number: 297
+Edge removed: (1835, 5653)
+Number of communities after edge removal: 1
+
+Iteration number: 298
+Edge removed: (3335, 5583)
+Number of communities after edge removal: 1
+
+Iteration number: 299
+Edge removed: (1835, 5300)
+Number of communities after edge removal: 1
+
+Iteration number: 300
+Edge removed: (855, 6653)
+Number of communities after edge removal: 1
+
+Iteration number: 301
+Edge removed: (3159, 4272)
+Number of communities after edge removal: 1
+
+Iteration number: 302
+Edge removed: (3181, 5391)
+Number of communities after edge removal: 1
+
+Iteration number: 303
+Edge removed: (5110, 6441)
+Number of communities after edge removal: 1
+
+Iteration number: 304
+Edge removed: (1009, 1250)
+Number of communities after edge removal: 1
+
+Iteration number: 305
+Edge removed: (1250, 7202)
+Number of communities after edge removal: 1
+
+Iteration number: 306
+Edge removed: (3692, 6819)
+Number of communities after edge removal: 1
+
+Iteration number: 307
+Edge removed: (1643, 4934)
+Number of communities after edge removal: 1
+
+Iteration number: 308
+Edge removed: (3181, 6174)
+Number of communities after edge removal: 1
+
+Iteration number: 309
+Edge removed: (566, 5454)
+Number of communities after edge removal: 1
+
+Iteration number: 310
+Edge removed: (405, 3249)
+Number of communities after edge removal: 1
+
+Iteration number: 311
+Edge removed: (3481, 4356)
+Number of communities after edge removal: 1
+
+Iteration number: 312
+Edge removed: (583, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 313
+Edge removed: (6824, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 314
+Edge removed: (898, 5243)
+Number of communities after edge removal: 1
+
+Iteration number: 315
+Edge removed: (989, 5592)
+Number of communities after edge removal: 1
+
+Iteration number: 316
+Edge removed: (989, 5942)
+Number of communities after edge removal: 1
+
+Iteration number: 317
+Edge removed: (23, 4248)
+Number of communities after edge removal: 1
+
+Iteration number: 318
+Edge removed: (6736, 6909)
+Number of communities after edge removal: 1
+
+Iteration number: 319
+Edge removed: (2023, 6355)
+Number of communities after edge removal: 1
+
+Iteration number: 320
+Edge removed: (2444, 3700)
+Number of communities after edge removal: 1
+
+Iteration number: 321
+Edge removed: (3584, 4691)
+Number of communities after edge removal: 1
+
+Iteration number: 322
+Edge removed: (506, 3181)
+Number of communities after edge removal: 1
+
+Iteration number: 323
+Edge removed: (4006, 4224)
+Number of communities after edge removal: 1
+
+Iteration number: 324
+Edge removed: (766, 2504)
+Number of communities after edge removal: 1
+
+Iteration number: 325
+Edge removed: (259, 4470)
+Number of communities after edge removal: 1
+
+Iteration number: 326
+Edge removed: (204, 3439)
+Number of communities after edge removal: 1
+
+Iteration number: 327
+Edge removed: (2855, 6903)
+Number of communities after edge removal: 1
+
+Iteration number: 328
+Edge removed: (3507, 7287)
+Number of communities after edge removal: 1
+
+Iteration number: 329
+Edge removed: (1666, 2807)
+Number of communities after edge removal: 1
+
+Iteration number: 330
+Edge removed: (3754, 7527)
+Number of communities after edge removal: 1
+
+Iteration number: 331
+Edge removed: (654, 4916)
+Number of communities after edge removal: 1
+
+Iteration number: 332
+Edge removed: (449, 4284)
+Number of communities after edge removal: 1
+
+Iteration number: 333
+Edge removed: (3453, 3859)
+Number of communities after edge removal: 1
+
+Iteration number: 334
+Edge removed: (1812, 5162)
+Number of communities after edge removal: 1
+
+Iteration number: 335
+Edge removed: (625, 4780)
+Number of communities after edge removal: 1
+
+Iteration number: 336
+Edge removed: (3215, 6319)
+Number of communities after edge removal: 1
+
+Iteration number: 337
+Edge removed: (147, 6767)
+Number of communities after edge removal: 1
+
+Iteration number: 338
+Edge removed: (5250, 7026)
+Number of communities after edge removal: 1
+
+Iteration number: 339
+Edge removed: (4916, 5391)
+Number of communities after edge removal: 1
+
+Iteration number: 340
+Edge removed: (4176, 5233)
+Number of communities after edge removal: 1
+
+Iteration number: 341
+Edge removed: (2868, 2908)
+Number of communities after edge removal: 1
+
+Iteration number: 342
+Edge removed: (175, 7415)
+Number of communities after edge removal: 1
+
+Iteration number: 343
+Edge removed: (2240, 3528)
+Number of communities after edge removal: 1
+
+Iteration number: 344
+Edge removed: (566, 6174)
+Number of communities after edge removal: 1
+
+Iteration number: 345
+Edge removed: (3584, 6913)
+Number of communities after edge removal: 1
+
+Iteration number: 346
+Edge removed: (720, 5110)
+Number of communities after edge removal: 1
+
+Iteration number: 347
+Edge removed: (837, 2001)
+Number of communities after edge removal: 1
+
+Iteration number: 348
+Edge removed: (873, 3584)
+Number of communities after edge removal: 1
+
+Iteration number: 349
+Edge removed: (6033, 7205)
+Number of communities after edge removal: 1
+
+Iteration number: 350
+Edge removed: (313, 2096)
+Number of communities after edge removal: 1
+
+Iteration number: 351
+Edge removed: (3258, 4631)
+Number of communities after edge removal: 1
+
+Iteration number: 352
+Edge removed: (1250, 3772)
+Number of communities after edge removal: 1
+
+Iteration number: 353
+Edge removed: (23, 1854)
+Number of communities after edge removal: 1
+
+Iteration number: 354
+Edge removed: (3305, 3877)
+Number of communities after edge removal: 1
+
+Iteration number: 355
+Edge removed: (7102, 7141)
+Number of communities after edge removal: 1
+
+Iteration number: 356
+Edge removed: (5110, 7504)
+Number of communities after edge removal: 1
+
+Iteration number: 357
+Edge removed: (3439, 6866)
+Number of communities after edge removal: 1
+
+Iteration number: 358
+Edge removed: (2966, 6297)
+Number of communities after edge removal: 1
+
+Iteration number: 359
+Edge removed: (1488, 3439)
+Number of communities after edge removal: 1
+
+Iteration number: 360
+Edge removed: (221, 3573)
+Number of communities after edge removal: 1
+
+Iteration number: 361
+Edge removed: (1077, 5110)
+Number of communities after edge removal: 1
+
+Iteration number: 362
+Edge removed: (5098, 6274)
+Number of communities after edge removal: 1
+
+Iteration number: 363
+Edge removed: (827, 3135)
+Number of communities after edge removal: 1
+
+Iteration number: 364
+Edge removed: (161, 2150)
+Number of communities after edge removal: 1
+
+Iteration number: 365
+Edge removed: (1684, 3584)
+Number of communities after edge removal: 1
+
+Iteration number: 366
+Edge removed: (1250, 6145)
+Number of communities after edge removal: 1
+
+Iteration number: 367
+Edge removed: (501, 4146)
+Number of communities after edge removal: 1
+
+Iteration number: 368
+Edge removed: (3584, 5833)
+Number of communities after edge removal: 1
+
+Iteration number: 369
+Edge removed: (3910, 5647)
+Number of communities after edge removal: 1
+
+Iteration number: 370
+Edge removed: (1684, 2730)
+Number of communities after edge removal: 1
+
+Iteration number: 371
+Edge removed: (1376, 6029)
+Number of communities after edge removal: 1
+
+Iteration number: 372
+Edge removed: (2095, 3543)
+Number of communities after edge removal: 1
+
+Iteration number: 373
+Edge removed: (4958, 7205)
+Number of communities after edge removal: 1
+
+Iteration number: 374
+Edge removed: (774, 794)
+Number of communities after edge removal: 1
+
+Iteration number: 375
+Edge removed: (3994, 4380)
+Number of communities after edge removal: 1
+
+Iteration number: 376
+Edge removed: (5900, 6880)
+Number of communities after edge removal: 1
+
+Iteration number: 377
+Edge removed: (3750, 5204)
+Number of communities after edge removal: 1
+
+Iteration number: 378
+Edge removed: (3755, 4286)
+Number of communities after edge removal: 1
+
+Iteration number: 379
+Edge removed: (1250, 1459)
+Number of communities after edge removal: 1
+
+Iteration number: 380
+Edge removed: (898, 7199)
+Number of communities after edge removal: 1
+
+Iteration number: 381
+Edge removed: (221, 6998)
+Number of communities after edge removal: 1
+
+Iteration number: 382
+Edge removed: (4427, 5638)
+Number of communities after edge removal: 1
+
+Iteration number: 383
+Edge removed: (1250, 1288)
+Number of communities after edge removal: 1
+
+Iteration number: 384
+Edge removed: (1740, 5653)
+Number of communities after edge removal: 1
+
+Iteration number: 385
+Edge removed: (1117, 2141)
+Number of communities after edge removal: 1
+
+Iteration number: 386
+Edge removed: (308, 6115)
+Number of communities after edge removal: 1
+
+Iteration number: 387
+Edge removed: (23, 646)
+Number of communities after edge removal: 1
+
+Iteration number: 388
+Edge removed: (1548, 3994)
+Number of communities after edge removal: 1
+
+Iteration number: 389
+Edge removed: (1812, 7071)
+Number of communities after edge removal: 1
+
+Iteration number: 390
+Edge removed: (209, 3043)
+Number of communities after edge removal: 1
+
+Iteration number: 391
+Edge removed: (2646, 7317)
+Number of communities after edge removal: 1
+
+Iteration number: 392
+Edge removed: (1963, 5105)
+Number of communities after edge removal: 1
+
+Iteration number: 393
+Edge removed: (4631, 4810)
+Number of communities after edge removal: 1
+
+Iteration number: 394
+Edge removed: (175, 5153)
+Number of communities after edge removal: 1
+
+Iteration number: 395
+Edge removed: (3942, 5594)
+Number of communities after edge removal: 1
+
+Iteration number: 396
+Edge removed: (4470, 5491)
+Number of communities after edge removal: 1
+
+Iteration number: 397
+Edge removed: (3799, 3859)
+Number of communities after edge removal: 1
+
+Iteration number: 398
+Edge removed: (2104, 4811)
+Number of communities after edge removal: 1
+
+Iteration number: 399
+Edge removed: (803, 815)
+Number of communities after edge removal: 1
+
+Iteration number: 400
+Edge removed: (251, 3538)
+Number of communities after edge removal: 1
+
+Iteration number: 401
+Edge removed: (1812, 6929)
+Number of communities after edge removal: 1
+
+Iteration number: 402
+Edge removed: (1146, 3434)
+Number of communities after edge removal: 1
+
+Iteration number: 403
+Edge removed: (512, 5700)
+Number of communities after edge removal: 1
+
+Iteration number: 404
+Edge removed: (1899, 7156)
+Number of communities after edge removal: 1
+
+Iteration number: 405
+Edge removed: (482, 4647)
+Number of communities after edge removal: 1
+
+Iteration number: 406
+Edge removed: (627, 4146)
+Number of communities after edge removal: 1
+
+Iteration number: 407
+Edge removed: (2345, 6957)
+Number of communities after edge removal: 1
+
+Iteration number: 408
+Edge removed: (2504, 6817)
+Number of communities after edge removal: 1
+
+Iteration number: 409
+Edge removed: (3805, 5036)
+Number of communities after edge removal: 1
+
+Iteration number: 410
+Edge removed: (685, 1270)
+Number of communities after edge removal: 1
+
+Iteration number: 411
+Edge removed: (5060, 5819)
+Number of communities after edge removal: 1
+
+Iteration number: 412
+Edge removed: (246, 6441)
+Number of communities after edge removal: 1
+
+Iteration number: 413
+Edge removed: (82, 2809)
+Number of communities after edge removal: 1
+
+Iteration number: 414
+Edge removed: (1516, 3085)
+Number of communities after edge removal: 1
+
+Iteration number: 415
+Edge removed: (67, 7555)
+Number of communities after edge removal: 1
+
+Iteration number: 416
+Edge removed: (63, 4616)
+Number of communities after edge removal: 1
+
+Iteration number: 417
+Edge removed: (1600, 1684)
+Number of communities after edge removal: 1
+
+Iteration number: 418
+Edge removed: (3994, 5997)
+Number of communities after edge removal: 1
+
+Iteration number: 419
+Edge removed: (602, 1585)
+Number of communities after edge removal: 1
+
+Iteration number: 420
+Edge removed: (1213, 4916)
+Number of communities after edge removal: 1
+
+Iteration number: 421
+Edge removed: (566, 1213)
+Number of communities after edge removal: 1
+
+Iteration number: 422
+Edge removed: (3874, 6817)
+Number of communities after edge removal: 1
+
+Iteration number: 423
+Edge removed: (3077, 4338)
+Number of communities after edge removal: 1
+
+Iteration number: 424
+Edge removed: (2504, 2964)
+Number of communities after edge removal: 1
+
+Iteration number: 425
+Edge removed: (1899, 6828)
+Number of communities after edge removal: 1
+
+Iteration number: 426
+Edge removed: (447, 1812)
+Number of communities after edge removal: 1
+
+Iteration number: 427
+Edge removed: (566, 6449)
+Number of communities after edge removal: 1
+
+Iteration number: 428
+Edge removed: (6229, 6441)
+Number of communities after edge removal: 1
+
+Iteration number: 429
+Edge removed: (3305, 6927)
+Number of communities after edge removal: 1
+
+Iteration number: 430
+Edge removed: (1243, 2062)
+Number of communities after edge removal: 1
+
+Iteration number: 431
+Edge removed: (2731, 7329)
+Number of communities after edge removal: 1
+
+Iteration number: 432
+Edge removed: (2332, 3481)
+Number of communities after edge removal: 1
+
+Iteration number: 433
+Edge removed: (864, 2916)
+Number of communities after edge removal: 2
+
+Modularity: 0.4296757112913249
+
+Iteration number: 434
+Edge removed: (2468, 4900)
+Number of communities after edge removal: 2
+
+Iteration number: 435
+Edge removed: (4039, 4319)
+Number of communities after edge removal: 2
+
+Iteration number: 436
+Edge removed: (1849, 3198)
+Number of communities after edge removal: 2
+
+Iteration number: 437
+Edge removed: (3652, 5854)
+Number of communities after edge removal: 2
+
+Iteration number: 438
+Edge removed: (3039, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 439
+Edge removed: (1280, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 440
+Edge removed: (4039, 6095)
+Number of communities after edge removal: 2
+
+Iteration number: 441
+Edge removed: (924, 1698)
+Number of communities after edge removal: 2
+
+Iteration number: 442
+Edge removed: (2854, 4039)
+Number of communities after edge removal: 2
+
+Iteration number: 443
+Edge removed: (2143, 4900)
+Number of communities after edge removal: 2
+
+Iteration number: 444
+Edge removed: (4900, 7592)
+Number of communities after edge removal: 2
+
+Iteration number: 445
+Edge removed: (5454, 7339)
+Number of communities after edge removal: 2
+
+Iteration number: 446
+Edge removed: (2854, 4338)
+Number of communities after edge removal: 2
+
+Iteration number: 447
+Edge removed: (2854, 7305)
+Number of communities after edge removal: 2
+
+Iteration number: 448
+Edge removed: (4338, 6296)
+Number of communities after edge removal: 2
+
+Iteration number: 449
+Edge removed: (299, 2024)
+Number of communities after edge removal: 2
+
+Iteration number: 450
+Edge removed: (4900, 5943)
+Number of communities after edge removal: 2
+
+Iteration number: 451
+Edge removed: (4900, 5785)
+Number of communities after edge removal: 2
+
+Iteration number: 452
+Edge removed: (4338, 5822)
+Number of communities after edge removal: 2
+
+Iteration number: 453
+Edge removed: (5454, 7558)
+Number of communities after edge removal: 2
+
+Iteration number: 454
+Edge removed: (2854, 6023)
+Number of communities after edge removal: 2
+
+Iteration number: 455
+Edge removed: (1618, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 456
+Edge removed: (4900, 5285)
+Number of communities after edge removal: 2
+
+Iteration number: 457
+Edge removed: (4785, 7352)
+Number of communities after edge removal: 2
+
+Iteration number: 458
+Edge removed: (2206, 3701)
+Number of communities after edge removal: 2
+
+Iteration number: 459
+Edge removed: (113, 2707)
+Number of communities after edge removal: 2
+
+Iteration number: 460
+Edge removed: (4359, 7595)
+Number of communities after edge removal: 2
+
+Iteration number: 461
+Edge removed: (98, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 462
+Edge removed: (1031, 5370)
+Number of communities after edge removal: 2
+
+Iteration number: 463
+Edge removed: (3317, 5370)
+Number of communities after edge removal: 2
+
+Iteration number: 464
+Edge removed: (1744, 2510)
+Number of communities after edge removal: 2
+
+Iteration number: 465
+Edge removed: (2707, 7032)
+Number of communities after edge removal: 2
+
+Iteration number: 466
+Edge removed: (3341, 7165)
+Number of communities after edge removal: 2
+
+Iteration number: 467
+Edge removed: (2854, 5817)
+Number of communities after edge removal: 2
+
+Iteration number: 468
+Edge removed: (4393, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 469
+Edge removed: (4125, 4299)
+Number of communities after edge removal: 2
+
+Iteration number: 470
+Edge removed: (2510, 6419)
+Number of communities after edge removal: 2
+
+Iteration number: 471
+Edge removed: (1689, 6463)
+Number of communities after edge removal: 2
+
+Iteration number: 472
+Edge removed: (4350, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 473
+Edge removed: (3705, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 474
+Edge removed: (2229, 4369)
+Number of communities after edge removal: 2
+
+Iteration number: 475
+Edge removed: (3969, 5072)
+Number of communities after edge removal: 2
+
+Iteration number: 476
+Edge removed: (2889, 6564)
+Number of communities after edge removal: 2
+
+Iteration number: 477
+Edge removed: (167, 4356)
+Number of communities after edge removal: 2
+
+Iteration number: 478
+Edge removed: (2470, 4356)
+Number of communities after edge removal: 2
+
+Iteration number: 479
+Edge removed: (3701, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 480
+Edge removed: (2020, 5564)
+Number of communities after edge removal: 2
+
+Iteration number: 481
+Edge removed: (6519, 6891)
+Number of communities after edge removal: 2
+
+Iteration number: 482
+Edge removed: (5370, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 483
+Edge removed: (998, 1677)
+Number of communities after edge removal: 2
+
+Iteration number: 484
+Edge removed: (2229, 6757)
+Number of communities after edge removal: 2
+
+Iteration number: 485
+Edge removed: (3325, 4356)
+Number of communities after edge removal: 2
+
+Iteration number: 486
+Edge removed: (4119, 4426)
+Number of communities after edge removal: 2
+
+Iteration number: 487
+Edge removed: (1174, 4338)
+Number of communities after edge removal: 2
+
+Iteration number: 488
+Edge removed: (1698, 6467)
+Number of communities after edge removal: 2
+
+Iteration number: 489
+Edge removed: (2854, 6644)
+Number of communities after edge removal: 2
+
+Iteration number: 490
+Edge removed: (4338, 7202)
+Number of communities after edge removal: 2
+
+Iteration number: 491
+Edge removed: (4900, 5020)
+Number of communities after edge removal: 2
+
+Iteration number: 492
+Edge removed: (3869, 4359)
+Number of communities after edge removal: 2
+
+Iteration number: 493
+Edge removed: (4359, 4461)
+Number of communities after edge removal: 2
+
+Iteration number: 494
+Edge removed: (1689, 7089)
+Number of communities after edge removal: 2
+
+Iteration number: 495
+Edge removed: (2091, 3502)
+Number of communities after edge removal: 2
+
+Iteration number: 496
+Edge removed: (1258, 4880)
+Number of communities after edge removal: 2
+
+Iteration number: 497
+Edge removed: (5060, 6301)
+Number of communities after edge removal: 2
+
+Iteration number: 498
+Edge removed: (5060, 5978)
+Number of communities after edge removal: 2
+
+Iteration number: 499
+Edge removed: (3392, 4338)
+Number of communities after edge removal: 2
+
+Iteration number: 500
+Edge removed: (1272, 4338)
+Number of communities after edge removal: 2
+
+Iteration number: 501
+Edge removed: (2386, 3081)
+Number of communities after edge removal: 2
+
+Iteration number: 502
+Edge removed: (3979, 6891)
+Number of communities after edge removal: 2
+
+Iteration number: 503
+Edge removed: (1068, 3880)
+Number of communities after edge removal: 2
+
+Iteration number: 504
+Edge removed: (3107, 3751)
+Number of communities after edge removal: 2
+
+Iteration number: 505
+Edge removed: (3948, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 506
+Edge removed: (713, 5854)
+Number of communities after edge removal: 2
+
+Iteration number: 507
+Edge removed: (4338, 5793)
+Number of communities after edge removal: 2
+
+Iteration number: 508
+Edge removed: (3014, 7226)
+Number of communities after edge removal: 2
+
+Iteration number: 509
+Edge removed: (6101, 7105)
+Number of communities after edge removal: 2
+
+Iteration number: 510
+Edge removed: (1986, 7133)
+Number of communities after edge removal: 2
+
+Iteration number: 511
+Edge removed: (1011, 1462)
+Number of communities after edge removal: 2
+
+Iteration number: 512
+Edge removed: (1897, 6252)
+Number of communities after edge removal: 2
+
+Iteration number: 513
+Edge removed: (5514, 7022)
+Number of communities after edge removal: 2
+
+Iteration number: 514
+Edge removed: (1897, 6882)
+Number of communities after edge removal: 2
+
+Iteration number: 515
+Edge removed: (2746, 7028)
+Number of communities after edge removal: 2
+
+Iteration number: 516
+Edge removed: (3022, 3317)
+Number of communities after edge removal: 2
+
+Iteration number: 517
+Edge removed: (3317, 4479)
+Number of communities after edge removal: 2
+
+Iteration number: 518
+Edge removed: (299, 2494)
+Number of communities after edge removal: 2
+
+Iteration number: 519
+Edge removed: (2132, 6960)
+Number of communities after edge removal: 2
+
+Iteration number: 520
+Edge removed: (7237, 7589)
+Number of communities after edge removal: 2
+
+Iteration number: 521
+Edge removed: (2854, 4365)
+Number of communities after edge removal: 2
+
+Iteration number: 522
+Edge removed: (6142, 6359)
+Number of communities after edge removal: 2
+
+Iteration number: 523
+Edge removed: (4296, 6505)
+Number of communities after edge removal: 2
+
+Iteration number: 524
+Edge removed: (3611, 3625)
+Number of communities after edge removal: 2
+
+Iteration number: 525
+Edge removed: (1706, 3833)
+Number of communities after edge removal: 2
+
+Iteration number: 526
+Edge removed: (3093, 4563)
+Number of communities after edge removal: 2
+
+Iteration number: 527
+Edge removed: (4792, 6876)
+Number of communities after edge removal: 2
+
+Iteration number: 528
+Edge removed: (3136, 5556)
+Number of communities after edge removal: 2
+
+Iteration number: 529
+Edge removed: (1178, 4125)
+Number of communities after edge removal: 2
+
+Iteration number: 530
+Edge removed: (6272, 6514)
+Number of communities after edge removal: 2
+
+Iteration number: 531
+Edge removed: (1253, 5461)
+Number of communities after edge removal: 2
+
+Iteration number: 532
+Edge removed: (2750, 3073)
+Number of communities after edge removal: 2
+
+Iteration number: 533
+Edge removed: (3073, 5065)
+Number of communities after edge removal: 2
+
+Iteration number: 534
+Edge removed: (1691, 2488)
+Number of communities after edge removal: 2
+
+Iteration number: 535
+Edge removed: (106, 4039)
+Number of communities after edge removal: 2
+
+Iteration number: 536
+Edge removed: (4908, 7213)
+Number of communities after edge removal: 2
+
+Iteration number: 537
+Edge removed: (4338, 6470)
+Number of communities after edge removal: 2
+
+Iteration number: 538
+Edge removed: (1808, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 539
+Edge removed: (2854, 4738)
+Number of communities after edge removal: 2
+
+Iteration number: 540
+Edge removed: (1752, 2624)
+Number of communities after edge removal: 2
+
+Iteration number: 541
+Edge removed: (1350, 4614)
+Number of communities after edge removal: 2
+
+Iteration number: 542
+Edge removed: (1752, 4254)
+Number of communities after edge removal: 2
+
+Iteration number: 543
+Edge removed: (1689, 4767)
+Number of communities after edge removal: 2
+
+Iteration number: 544
+Edge removed: (1744, 7090)
+Number of communities after edge removal: 2
+
+Iteration number: 545
+Edge removed: (4785, 5480)
+Number of communities after edge removal: 2
+
+Iteration number: 546
+Edge removed: (1618, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 547
+Edge removed: (2707, 3263)
+Number of communities after edge removal: 2
+
+Iteration number: 548
+Edge removed: (916, 1271)
+Number of communities after edge removal: 2
+
+Iteration number: 549
+Edge removed: (3130, 4145)
+Number of communities after edge removal: 2
+
+Iteration number: 550
+Edge removed: (900, 3921)
+Number of communities after edge removal: 2
+
+Iteration number: 551
+Edge removed: (1752, 7032)
+Number of communities after edge removal: 2
+
+Iteration number: 552
+Edge removed: (3692, 7339)
+Number of communities after edge removal: 2
+
+Iteration number: 553
+Edge removed: (109, 1233)
+Number of communities after edge removal: 2
+
+Iteration number: 554
+Edge removed: (3022, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 555
+Edge removed: (6530, 7107)
+Number of communities after edge removal: 2
+
+Iteration number: 556
+Edge removed: (1785, 4811)
+Number of communities after edge removal: 2
+
+Iteration number: 557
+Edge removed: (1618, 7580)
+Number of communities after edge removal: 2
+
+Iteration number: 558
+Edge removed: (3107, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 559
+Edge removed: (2488, 5933)
+Number of communities after edge removal: 2
+
+Iteration number: 560
+Edge removed: (1306, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 561
+Edge removed: (1618, 2132)
+Number of communities after edge removal: 2
+
+Iteration number: 562
+Edge removed: (2707, 7352)
+Number of communities after edge removal: 2
+
+Iteration number: 563
+Edge removed: (2280, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 564
+Edge removed: (2178, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 565
+Edge removed: (7, 6931)
+Number of communities after edge removal: 2
+
+Iteration number: 566
+Edge removed: (2854, 4575)
+Number of communities after edge removal: 2
+
+Iteration number: 567
+Edge removed: (1014, 6219)
+Number of communities after edge removal: 2
+
+Iteration number: 568
+Edge removed: (2488, 5293)
+Number of communities after edge removal: 2
+
+Iteration number: 569
+Edge removed: (4681, 7023)
+Number of communities after edge removal: 2
+
+Iteration number: 570
+Edge removed: (4941, 6477)
+Number of communities after edge removal: 2
+
+Iteration number: 571
+Edge removed: (1348, 6232)
+Number of communities after edge removal: 2
+
+Iteration number: 572
+Edge removed: (6408, 7558)
+Number of communities after edge removal: 2
+
+Iteration number: 573
+Edge removed: (2928, 3459)
+Number of communities after edge removal: 2
+
+Iteration number: 574
+Edge removed: (6852, 7558)
+Number of communities after edge removal: 2
+
+Iteration number: 575
+Edge removed: (5564, 6529)
+Number of communities after edge removal: 2
+
+Iteration number: 576
+Edge removed: (5370, 6065)
+Number of communities after edge removal: 2
+
+Iteration number: 577
+Edge removed: (2959, 4900)
+Number of communities after edge removal: 2
+
+Iteration number: 578
+Edge removed: (4039, 4411)
+Number of communities after edge removal: 2
+
+Iteration number: 579
+Edge removed: (2531, 3544)
+Number of communities after edge removal: 2
+
+Iteration number: 580
+Edge removed: (2488, 6537)
+Number of communities after edge removal: 2
+
+Iteration number: 581
+Edge removed: (1645, 6293)
+Number of communities after edge removal: 2
+
+Iteration number: 582
+Edge removed: (3653, 4900)
+Number of communities after edge removal: 2
+
+Iteration number: 583
+Edge removed: (290, 4039)
+Number of communities after edge removal: 2
+
+Iteration number: 584
+Edge removed: (1808, 7366)
+Number of communities after edge removal: 2
+
+Iteration number: 585
+Edge removed: (3544, 4039)
+Number of communities after edge removal: 2
+
+Iteration number: 586
+Edge removed: (113, 1316)
+Number of communities after edge removal: 2
+
+Iteration number: 587
+Edge removed: (440, 4941)
+Number of communities after edge removal: 2
+
+Iteration number: 588
+Edge removed: (4083, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 589
+Edge removed: (5370, 6529)
+Number of communities after edge removal: 2
+
+Iteration number: 590
+Edge removed: (6642, 7237)
+Number of communities after edge removal: 2
+
+Iteration number: 591
+Edge removed: (2201, 6378)
+Number of communities after edge removal: 2
+
+Iteration number: 592
+Edge removed: (6529, 6633)
+Number of communities after edge removal: 2
+
+Iteration number: 593
+Edge removed: (5370, 7237)
+Number of communities after edge removal: 2
+
+Iteration number: 594
+Edge removed: (1544, 2994)
+Number of communities after edge removal: 2
+
+Iteration number: 595
+Edge removed: (2140, 3736)
+Number of communities after edge removal: 2
+
+Iteration number: 596
+Edge removed: (2488, 2708)
+Number of communities after edge removal: 2
+
+Iteration number: 597
+Edge removed: (2510, 6769)
+Number of communities after edge removal: 2
+
+Iteration number: 598
+Edge removed: (3530, 6463)
+Number of communities after edge removal: 2
+
+Iteration number: 599
+Edge removed: (3509, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 600
+Edge removed: (5461, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 601
+Edge removed: (2560, 5127)
+Number of communities after edge removal: 2
+
+Iteration number: 602
+Edge removed: (5724, 6418)
+Number of communities after edge removal: 2
+
+Iteration number: 603
+Edge removed: (1, 2194)
+Number of communities after edge removal: 2
+
+Iteration number: 604
+Edge removed: (1, 2204)
+Number of communities after edge removal: 2
+
+Iteration number: 605
+Edge removed: (2510, 6843)
+Number of communities after edge removal: 2
+
+Iteration number: 606
+Edge removed: (295, 5793)
+Number of communities after edge removal: 2
+
+Iteration number: 607
+Edge removed: (6478, 6529)
+Number of communities after edge removal: 2
+
+Iteration number: 608
+Edge removed: (3317, 6664)
+Number of communities after edge removal: 2
+
+Iteration number: 609
+Edge removed: (5876, 7028)
+Number of communities after edge removal: 2
+
+Iteration number: 610
+Edge removed: (421, 5876)
+Number of communities after edge removal: 2
+
+Iteration number: 611
+Edge removed: (3158, 5646)
+Number of communities after edge removal: 2
+
+Iteration number: 612
+Edge removed: (2631, 5370)
+Number of communities after edge removal: 2
+
+Iteration number: 613
+Edge removed: (5014, 5370)
+Number of communities after edge removal: 2
+
+Iteration number: 614
+Edge removed: (2631, 3948)
+Number of communities after edge removal: 2
+
+Iteration number: 615
+Edge removed: (2993, 3880)
+Number of communities after edge removal: 2
+
+Iteration number: 616
+Edge removed: (3313, 5461)
+Number of communities after edge removal: 2
+
+Iteration number: 617
+Edge removed: (4648, 4914)
+Number of communities after edge removal: 2
+
+Iteration number: 618
+Edge removed: (3979, 5062)
+Number of communities after edge removal: 2
+
+Iteration number: 619
+Edge removed: (3979, 4198)
+Number of communities after edge removal: 2
+
+Iteration number: 620
+Edge removed: (3948, 4945)
+Number of communities after edge removal: 2
+
+Iteration number: 621
+Edge removed: (997, 2750)
+Number of communities after edge removal: 2
+
+Iteration number: 622
+Edge removed: (1155, 6359)
+Number of communities after edge removal: 2
+
+Iteration number: 623
+Edge removed: (4059, 6514)
+Number of communities after edge removal: 2
+
+Iteration number: 624
+Edge removed: (43, 2893)
+Number of communities after edge removal: 2
+
+Iteration number: 625
+Edge removed: (708, 5557)
+Number of communities after edge removal: 2
+
+Iteration number: 626
+Edge removed: (933, 3158)
+Number of communities after edge removal: 2
+
+Iteration number: 627
+Edge removed: (1698, 3767)
+Number of communities after edge removal: 2
+
+Iteration number: 628
+Edge removed: (613, 3400)
+Number of communities after edge removal: 2
+
+Iteration number: 629
+Edge removed: (20, 6463)
+Number of communities after edge removal: 2
+
+Iteration number: 630
+Edge removed: (3822, 6463)
+Number of communities after edge removal: 2
+
+Iteration number: 631
+Edge removed: (52, 2510)
+Number of communities after edge removal: 2
+
+Iteration number: 632
+Edge removed: (1528, 3039)
+Number of communities after edge removal: 2
+
+Iteration number: 633
+Edge removed: (514, 4788)
+Number of communities after edge removal: 2
+
+Iteration number: 634
+Edge removed: (514, 6463)
+Number of communities after edge removal: 2
+
+Iteration number: 635
+Edge removed: (32, 1312)
+Number of communities after edge removal: 2
+
+Iteration number: 636
+Edge removed: (1618, 3210)
+Number of communities after edge removal: 2
+
+Iteration number: 637
+Edge removed: (5065, 7607)
+Number of communities after edge removal: 2
+
+Iteration number: 638
+Edge removed: (75, 3855)
+Number of communities after edge removal: 2
+
+Iteration number: 639
+Edge removed: (92, 2475)
+Number of communities after edge removal: 2
+
+Iteration number: 640
+Edge removed: (1258, 5287)
+Number of communities after edge removal: 2
+
+Iteration number: 641
+Edge removed: (1611, 6018)
+Number of communities after edge removal: 2
+
+Iteration number: 642
+Edge removed: (5876, 7607)
+Number of communities after edge removal: 2
+
+Iteration number: 643
+Edge removed: (3987, 5876)
+Number of communities after edge removal: 2
+
+Iteration number: 644
+Edge removed: (2073, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 645
+Edge removed: (5052, 5287)
+Number of communities after edge removal: 2
+
+Iteration number: 646
+Edge removed: (1258, 3574)
+Number of communities after edge removal: 2
+
+Iteration number: 647
+Edge removed: (2814, 4729)
+Number of communities after edge removal: 2
+
+Iteration number: 648
+Edge removed: (671, 4711)
+Number of communities after edge removal: 2
+
+Iteration number: 649
+Edge removed: (710, 1250)
+Number of communities after edge removal: 2
+
+Iteration number: 650
+Edge removed: (2158, 3130)
+Number of communities after edge removal: 2
+
+Iteration number: 651
+Edge removed: (2510, 3013)
+Number of communities after edge removal: 2
+
+Iteration number: 652
+Edge removed: (3055, 6478)
+Number of communities after edge removal: 2
+
+Iteration number: 653
+Edge removed: (287, 6960)
+Number of communities after edge removal: 2
+
+Iteration number: 654
+Edge removed: (287, 659)
+Number of communities after edge removal: 2
+
+Iteration number: 655
+Edge removed: (3986, 7508)
+Number of communities after edge removal: 2
+
+Iteration number: 656
+Edge removed: (3751, 4811)
+Number of communities after edge removal: 2
+
+Iteration number: 657
+Edge removed: (2366, 3210)
+Number of communities after edge removal: 2
+
+Iteration number: 658
+Edge removed: (708, 2140)
+Number of communities after edge removal: 2
+
+Iteration number: 659
+Edge removed: (4365, 6537)
+Number of communities after edge removal: 2
+
+Iteration number: 660
+Edge removed: (2020, 6463)
+Number of communities after edge removal: 2
+
+Iteration number: 661
+Edge removed: (2854, 7366)
+Number of communities after edge removal: 2
+
+Iteration number: 662
+Edge removed: (508, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 663
+Edge removed: (675, 7089)
+Number of communities after edge removal: 2
+
+Iteration number: 664
+Edge removed: (4115, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 665
+Edge removed: (4575, 6683)
+Number of communities after edge removal: 2
+
+Iteration number: 666
+Edge removed: (175, 3666)
+Number of communities after edge removal: 2
+
+Iteration number: 667
+Edge removed: (2018, 5555)
+Number of communities after edge removal: 2
+
+Iteration number: 668
+Edge removed: (2988, 4302)
+Number of communities after edge removal: 2
+
+Iteration number: 669
+Edge removed: (174, 933)
+Number of communities after edge removal: 2
+
+Iteration number: 670
+Edge removed: (958, 3482)
+Number of communities after edge removal: 2
+
+Iteration number: 671
+Edge removed: (3853, 6878)
+Number of communities after edge removal: 2
+
+Iteration number: 672
+Edge removed: (1250, 7295)
+Number of communities after edge removal: 2
+
+Iteration number: 673
+Edge removed: (1693, 3317)
+Number of communities after edge removal: 2
+
+Iteration number: 674
+Edge removed: (3014, 5775)
+Number of communities after edge removal: 2
+
+Iteration number: 675
+Edge removed: (5370, 6456)
+Number of communities after edge removal: 2
+
+Iteration number: 676
+Edge removed: (2629, 5876)
+Number of communities after edge removal: 2
+
+Iteration number: 677
+Edge removed: (2521, 6048)
+Number of communities after edge removal: 2
+
+Iteration number: 678
+Edge removed: (3013, 7558)
+Number of communities after edge removal: 2
+
+Iteration number: 679
+Edge removed: (1255, 2206)
+Number of communities after edge removal: 2
+
+Iteration number: 680
+Edge removed: (3845, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 681
+Edge removed: (71, 3994)
+Number of communities after edge removal: 2
+
+Iteration number: 682
+Edge removed: (2361, 2831)
+Number of communities after edge removal: 2
+
+Iteration number: 683
+Edge removed: (1792, 7162)
+Number of communities after edge removal: 2
+
+Iteration number: 684
+Edge removed: (1796, 6359)
+Number of communities after edge removal: 2
+
+Iteration number: 685
+Edge removed: (2047, 6279)
+Number of communities after edge removal: 2
+
+Iteration number: 686
+Edge removed: (649, 1766)
+Number of communities after edge removal: 2
+
+Iteration number: 687
+Edge removed: (429, 3594)
+Number of communities after edge removal: 2
+
+Iteration number: 688
+Edge removed: (3125, 3757)
+Number of communities after edge removal: 2
+
+Iteration number: 689
+Edge removed: (1778, 3873)
+Number of communities after edge removal: 2
+
+Iteration number: 690
+Edge removed: (2593, 2755)
+Number of communities after edge removal: 2
+
+Iteration number: 691
+Edge removed: (3708, 4321)
+Number of communities after edge removal: 2
+
+Iteration number: 692
+Edge removed: (3185, 3833)
+Number of communities after edge removal: 2
+
+Iteration number: 693
+Edge removed: (1598, 6642)
+Number of communities after edge removal: 2
+
+Iteration number: 694
+Edge removed: (5236, 6642)
+Number of communities after edge removal: 2
+
+Iteration number: 695
+Edge removed: (2201, 6529)
+Number of communities after edge removal: 2
+
+Iteration number: 696
+Edge removed: (1527, 5793)
+Number of communities after edge removal: 2
+
+Iteration number: 697
+Edge removed: (5754, 6139)
+Number of communities after edge removal: 2
+
+Iteration number: 698
+Edge removed: (2862, 5423)
+Number of communities after edge removal: 2
+
+Iteration number: 699
+Edge removed: (3655, 3855)
+Number of communities after edge removal: 2
+
+Iteration number: 700
+Edge removed: (3107, 5480)
+Number of communities after edge removal: 2
+
+Iteration number: 701
+Edge removed: (4604, 7165)
+Number of communities after edge removal: 2
+
+Iteration number: 702
+Edge removed: (2919, 6519)
+Number of communities after edge removal: 2
+
+Iteration number: 703
+Edge removed: (3022, 6529)
+Number of communities after edge removal: 2
+
+Iteration number: 704
+Edge removed: (5370, 6187)
+Number of communities after edge removal: 2
+
+Iteration number: 705
+Edge removed: (3462, 5370)
+Number of communities after edge removal: 2
+
+Iteration number: 706
+Edge removed: (5454, 6432)
+Number of communities after edge removal: 2
+
+Iteration number: 707
+Edge removed: (358, 1263)
+Number of communities after edge removal: 2
+
+Iteration number: 708
+Edge removed: (4086, 4469)
+Number of communities after edge removal: 2
+
+Iteration number: 709
+Edge removed: (4000, 6759)
+Number of communities after edge removal: 2
+
+Iteration number: 710
+Edge removed: (3873, 5941)
+Number of communities after edge removal: 2
+
+Iteration number: 711
+Edge removed: (2987, 4900)
+Number of communities after edge removal: 2
+
+Iteration number: 712
+Edge removed: (1281, 6419)
+Number of communities after edge removal: 2
+
+Iteration number: 713
+Edge removed: (1618, 7501)
+Number of communities after edge removal: 2
+
+Iteration number: 714
+Edge removed: (3530, 4051)
+Number of communities after edge removal: 2
+
+Iteration number: 715
+Edge removed: (1689, 4183)
+Number of communities after edge removal: 2
+
+Iteration number: 716
+Edge removed: (2056, 3845)
+Number of communities after edge removal: 2
+
+Iteration number: 717
+Edge removed: (514, 5700)
+Number of communities after edge removal: 2
+
+Iteration number: 718
+Edge removed: (1316, 5324)
+Number of communities after edge removal: 2
+
+Iteration number: 719
+Edge removed: (2896, 5526)
+Number of communities after edge removal: 2
+
+Iteration number: 720
+Edge removed: (1253, 3873)
+Number of communities after edge removal: 2
+
+Iteration number: 721
+Edge removed: (2337, 3184)
+Number of communities after edge removal: 2
+
+Iteration number: 722
+Edge removed: (2510, 4464)
+Number of communities after edge removal: 2
+
+Iteration number: 723
+Edge removed: (3862, 7317)
+Number of communities after edge removal: 2
+
+Iteration number: 724
+Edge removed: (3482, 6358)
+Number of communities after edge removal: 2
+
+Iteration number: 725
+Edge removed: (1616, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 726
+Edge removed: (2854, 6684)
+Number of communities after edge removal: 2
+
+Iteration number: 727
+Edge removed: (1275, 3873)
+Number of communities after edge removal: 2
+
+Iteration number: 728
+Edge removed: (484, 6022)
+Number of communities after edge removal: 2
+
+Iteration number: 729
+Edge removed: (3528, 7129)
+Number of communities after edge removal: 2
+
+Iteration number: 730
+Edge removed: (4206, 7581)
+Number of communities after edge removal: 2
+
+Iteration number: 731
+Edge removed: (1258, 2560)
+Number of communities after edge removal: 2
+
+Iteration number: 732
+Edge removed: (1618, 6537)
+Number of communities after edge removal: 2
+
+Iteration number: 733
+Edge removed: (2988, 4995)
+Number of communities after edge removal: 2
+
+Iteration number: 734
+Edge removed: (1792, 3855)
+Number of communities after edge removal: 2
+
+Iteration number: 735
+Edge removed: (4319, 4941)
+Number of communities after edge removal: 2
+
+Iteration number: 736
+Edge removed: (3330, 4319)
+Number of communities after edge removal: 2
+
+Iteration number: 737
+Edge removed: (4319, 7178)
+Number of communities after edge removal: 2
+
+Iteration number: 738
+Edge removed: (6165, 6728)
+Number of communities after edge removal: 2
+
+Iteration number: 739
+Edge removed: (1233, 7352)
+Number of communities after edge removal: 2
+
+Iteration number: 740
+Edge removed: (358, 2142)
+Number of communities after edge removal: 2
+
+Iteration number: 741
+Edge removed: (1261, 6378)
+Number of communities after edge removal: 2
+
+Iteration number: 742
+Edge removed: (5306, 6463)
+Number of communities after edge removal: 2
+
+Iteration number: 743
+Edge removed: (5277, 6566)
+Number of communities after edge removal: 2
+
+Iteration number: 744
+Edge removed: (2056, 3822)
+Number of communities after edge removal: 2
+
+Iteration number: 745
+Edge removed: (1610, 1792)
+Number of communities after edge removal: 2
+
+Iteration number: 746
+Edge removed: (1436, 1618)
+Number of communities after edge removal: 2
+
+Iteration number: 747
+Edge removed: (6460, 6477)
+Number of communities after edge removal: 2
+
+Iteration number: 748
+Edge removed: (713, 4039)
+Number of communities after edge removal: 2
+
+Iteration number: 749
+Edge removed: (3617, 5447)
+Number of communities after edge removal: 2
+
+Iteration number: 750
+Edge removed: (287, 2815)
+Number of communities after edge removal: 2
+
+Iteration number: 751
+Edge removed: (3074, 6370)
+Number of communities after edge removal: 2
+
+Iteration number: 752
+Edge removed: (4785, 6865)
+Number of communities after edge removal: 2
+
+Iteration number: 753
+Edge removed: (319, 2239)
+Number of communities after edge removal: 2
+
+Iteration number: 754
+Edge removed: (2854, 3010)
+Number of communities after edge removal: 2
+
+Iteration number: 755
+Edge removed: (2854, 3547)
+Number of communities after edge removal: 2
+
+Iteration number: 756
+Edge removed: (2030, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 757
+Edge removed: (2854, 7396)
+Number of communities after edge removal: 2
+
+Iteration number: 758
+Edge removed: (2073, 2142)
+Number of communities after edge removal: 2
+
+Iteration number: 759
+Edge removed: (2854, 5489)
+Number of communities after edge removal: 2
+
+Iteration number: 760
+Edge removed: (2854, 6978)
+Number of communities after edge removal: 2
+
+Iteration number: 761
+Edge removed: (1495, 5319)
+Number of communities after edge removal: 2
+
+Iteration number: 762
+Edge removed: (3249, 6528)
+Number of communities after edge removal: 2
+
+Iteration number: 763
+Edge removed: (1519, 3837)
+Number of communities after edge removal: 2
+
+Iteration number: 764
+Edge removed: (708, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 765
+Edge removed: (4792, 4795)
+Number of communities after edge removal: 2
+
+Iteration number: 766
+Edge removed: (177, 6385)
+Number of communities after edge removal: 2
+
+Iteration number: 767
+Edge removed: (3855, 4629)
+Number of communities after edge removal: 2
+
+Iteration number: 768
+Edge removed: (114, 7061)
+Number of communities after edge removal: 2
+
+Iteration number: 769
+Edge removed: (1559, 3107)
+Number of communities after edge removal: 2
+
+Iteration number: 770
+Edge removed: (3107, 5963)
+Number of communities after edge removal: 2
+
+Iteration number: 771
+Edge removed: (3612, 7352)
+Number of communities after edge removal: 2
+
+Iteration number: 772
+Edge removed: (3185, 5120)
+Number of communities after edge removal: 2
+
+Iteration number: 773
+Edge removed: (4623, 5803)
+Number of communities after edge removal: 2
+
+Iteration number: 774
+Edge removed: (5526, 7264)
+Number of communities after edge removal: 2
+
+Iteration number: 775
+Edge removed: (5370, 6808)
+Number of communities after edge removal: 2
+
+Iteration number: 776
+Edge removed: (2195, 5461)
+Number of communities after edge removal: 2
+
+Iteration number: 777
+Edge removed: (5461, 6529)
+Number of communities after edge removal: 2
+
+Iteration number: 778
+Edge removed: (3022, 3462)
+Number of communities after edge removal: 2
+
+Iteration number: 779
+Edge removed: (3942, 6782)
+Number of communities after edge removal: 2
+
+Iteration number: 780
+Edge removed: (4711, 6642)
+Number of communities after edge removal: 2
+
+Iteration number: 781
+Edge removed: (3437, 5874)
+Number of communities after edge removal: 2
+
+Iteration number: 782
+Edge removed: (5454, 6082)
+Number of communities after edge removal: 2
+
+Iteration number: 783
+Edge removed: (4970, 5454)
+Number of communities after edge removal: 2
+
+Iteration number: 784
+Edge removed: (2591, 3107)
+Number of communities after edge removal: 2
+
+Iteration number: 785
+Edge removed: (688, 4785)
+Number of communities after edge removal: 2
+
+Iteration number: 786
+Edge removed: (1945, 2056)
+Number of communities after edge removal: 2
+
+Iteration number: 787
+Edge removed: (3400, 7067)
+Number of communities after edge removal: 2
+
+Iteration number: 788
+Edge removed: (219, 7352)
+Number of communities after edge removal: 2
+
+Iteration number: 789
+Edge removed: (900, 2158)
+Number of communities after edge removal: 2
+
+Iteration number: 790
+Edge removed: (1328, 5065)
+Number of communities after edge removal: 2
+
+Iteration number: 791
+Edge removed: (2056, 4309)
+Number of communities after edge removal: 2
+
+Iteration number: 792
+Edge removed: (1921, 2056)
+Number of communities after edge removal: 2
+
+Iteration number: 793
+Edge removed: (4549, 4934)
+Number of communities after edge removal: 2
+
+Iteration number: 794
+Edge removed: (4614, 5065)
+Number of communities after edge removal: 2
+
+Iteration number: 795
+Edge removed: (1808, 7224)
+Number of communities after edge removal: 2
+
+Iteration number: 796
+Edge removed: (3097, 7162)
+Number of communities after edge removal: 2
+
+Iteration number: 797
+Edge removed: (3493, 6139)
+Number of communities after edge removal: 2
+
+Iteration number: 798
+Edge removed: (2323, 7089)
+Number of communities after edge removal: 2
+
+Iteration number: 799
+Edge removed: (2329, 7089)
+Number of communities after edge removal: 2
+
+Iteration number: 800
+Edge removed: (1618, 7044)
+Number of communities after edge removal: 2
+
+Iteration number: 801
+Edge removed: (3890, 6537)
+Number of communities after edge removal: 2
+
+Iteration number: 802
+Edge removed: (3234, 5240)
+Number of communities after edge removal: 2
+
+Iteration number: 803
+Edge removed: (1126, 3185)
+Number of communities after edge removal: 2
+
+Iteration number: 804
+Edge removed: (1255, 1479)
+Number of communities after edge removal: 2
+
+Iteration number: 805
+Edge removed: (1610, 3097)
+Number of communities after edge removal: 2
+
+Iteration number: 806
+Edge removed: (3977, 6460)
+Number of communities after edge removal: 2
+
+Iteration number: 807
+Edge removed: (440, 6460)
+Number of communities after edge removal: 2
+
+Iteration number: 808
+Edge removed: (1168, 4051)
+Number of communities after edge removal: 2
+
+Iteration number: 809
+Edge removed: (1689, 5236)
+Number of communities after edge removal: 2
+
+Iteration number: 810
+Edge removed: (3210, 6432)
+Number of communities after edge removal: 2
+
+Iteration number: 811
+Edge removed: (3462, 6378)
+Number of communities after edge removal: 2
+
+Iteration number: 812
+Edge removed: (1495, 4682)
+Number of communities after edge removal: 2
+
+Iteration number: 813
+Edge removed: (4995, 5660)
+Number of communities after edge removal: 2
+
+Iteration number: 814
+Edge removed: (1814, 2992)
+Number of communities after edge removal: 2
+
+Iteration number: 815
+Edge removed: (2050, 7170)
+Number of communities after edge removal: 2
+
+Iteration number: 816
+Edge removed: (708, 5040)
+Number of communities after edge removal: 2
+
+Iteration number: 817
+Edge removed: (3368, 4469)
+Number of communities after edge removal: 2
+
+Iteration number: 818
+Edge removed: (257, 3462)
+Number of communities after edge removal: 2
+
+Iteration number: 819
+Edge removed: (3154, 6808)
+Number of communities after edge removal: 2
+
+Iteration number: 820
+Edge removed: (2195, 3462)
+Number of communities after edge removal: 2
+
+Iteration number: 821
+Edge removed: (1808, 4000)
+Number of communities after edge removal: 2
+
+Iteration number: 822
+Edge removed: (2056, 6208)
+Number of communities after edge removal: 2
+
+Iteration number: 823
+Edge removed: (1202, 5450)
+Number of communities after edge removal: 2
+
+Iteration number: 824
+Edge removed: (3984, 6460)
+Number of communities after edge removal: 2
+
+Iteration number: 825
+Edge removed: (7, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 826
+Edge removed: (794, 3181)
+Number of communities after edge removal: 2
+
+Iteration number: 827
+Edge removed: (6759, 7178)
+Number of communities after edge removal: 2
+
+Iteration number: 828
+Edge removed: (3097, 3757)
+Number of communities after edge removal: 2
+
+Iteration number: 829
+Edge removed: (2056, 5728)
+Number of communities after edge removal: 2
+
+Iteration number: 830
+Edge removed: (607, 5829)
+Number of communities after edge removal: 2
+
+Iteration number: 831
+Edge removed: (3662, 7056)
+Number of communities after edge removal: 2
+
+Iteration number: 832
+Edge removed: (594, 5291)
+Number of communities after edge removal: 2
+
+Iteration number: 833
+Edge removed: (4119, 6969)
+Number of communities after edge removal: 2
+
+Iteration number: 834
+Edge removed: (3097, 4330)
+Number of communities after edge removal: 2
+
+Iteration number: 835
+Edge removed: (5526, 6969)
+Number of communities after edge removal: 2
+
+Iteration number: 836
+Edge removed: (5526, 6733)
+Number of communities after edge removal: 2
+
+Iteration number: 837
+Edge removed: (3097, 6529)
+Number of communities after edge removal: 2
+
+Iteration number: 838
+Edge removed: (3777, 4711)
+Number of communities after edge removal: 2
+
+Iteration number: 839
+Edge removed: (2406, 7352)
+Number of communities after edge removal: 2
+
+Iteration number: 840
+Edge removed: (2510, 4738)
+Number of communities after edge removal: 2
+
+Iteration number: 841
+Edge removed: (3725, 7601)
+Number of communities after edge removal: 2
+
+Iteration number: 842
+Edge removed: (6794, 7601)
+Number of communities after edge removal: 2
+
+Iteration number: 843
+Edge removed: (1255, 4112)
+Number of communities after edge removal: 2
+
+Iteration number: 844
+Edge removed: (175, 6408)
+Number of communities after edge removal: 2
+
+Iteration number: 845
+Edge removed: (4266, 5214)
+Number of communities after edge removal: 2
+
+Iteration number: 846
+Edge removed: (5984, 6466)
+Number of communities after edge removal: 2
+
+Iteration number: 847
+Edge removed: (519, 6460)
+Number of communities after edge removal: 2
+
+Iteration number: 848
+Edge removed: (738, 6342)
+Number of communities after edge removal: 2
+
+Iteration number: 849
+Edge removed: (2831, 5489)
+Number of communities after edge removal: 2
+
+Iteration number: 850
+Edge removed: (2023, 2622)
+Number of communities after edge removal: 2
+
+Iteration number: 851
+Edge removed: (2142, 4005)
+Number of communities after edge removal: 2
+
+Iteration number: 852
+Edge removed: (3942, 7363)
+Number of communities after edge removal: 2
+
+Iteration number: 853
+Edge removed: (63, 4284)
+Number of communities after edge removal: 2
+
+Iteration number: 854
+Edge removed: (744, 6316)
+Number of communities after edge removal: 2
+
+Iteration number: 855
+Edge removed: (4900, 6832)
+Number of communities after edge removal: 2
+
+Iteration number: 856
+Edge removed: (7, 6250)
+Number of communities after edge removal: 2
+
+Iteration number: 857
+Edge removed: (1689, 5884)
+Number of communities after edge removal: 2
+
+Iteration number: 858
+Edge removed: (6241, 7387)
+Number of communities after edge removal: 2
+
+Iteration number: 859
+Edge removed: (7402, 7601)
+Number of communities after edge removal: 2
+
+Iteration number: 860
+Edge removed: (733, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 861
+Edge removed: (2854, 5799)
+Number of communities after edge removal: 2
+
+Iteration number: 862
+Edge removed: (708, 2616)
+Number of communities after edge removal: 2
+
+Iteration number: 863
+Edge removed: (2854, 5137)
+Number of communities after edge removal: 2
+
+Iteration number: 864
+Edge removed: (177, 436)
+Number of communities after edge removal: 2
+
+Iteration number: 865
+Edge removed: (2067, 3587)
+Number of communities after edge removal: 2
+
+Iteration number: 866
+Edge removed: (6541, 6884)
+Number of communities after edge removal: 2
+
+Iteration number: 867
+Edge removed: (3536, 4343)
+Number of communities after edge removal: 2
+
+Iteration number: 868
+Edge removed: (6460, 7601)
+Number of communities after edge removal: 2
+
+Iteration number: 869
+Edge removed: (5319, 7601)
+Number of communities after edge removal: 2
+
+Iteration number: 870
+Edge removed: (1341, 2854)
+Number of communities after edge removal: 2
+
+Iteration number: 871
+Edge removed: (2742, 7601)
+Number of communities after edge removal: 2
+
+Iteration number: 872
+Edge removed: (2023, 6769)
+Number of communities after edge removal: 2
+
+Iteration number: 873
+Edge removed: (1680, 2802)
+Number of communities after edge removal: 2
+
+Iteration number: 874
+Edge removed: (3314, 6903)
+Number of communities after edge removal: 2
+
+Iteration number: 875
+Edge removed: (4464, 7046)
+Number of communities after edge removal: 2
+
+Iteration number: 876
+Edge removed: (375, 4738)
+Number of communities after edge removal: 2
+
+Iteration number: 877
+Edge removed: (651, 4738)
+Number of communities after edge removal: 2
+
+Iteration number: 878
+Edge removed: (1406, 5137)
+Number of communities after edge removal: 2
+
+Iteration number: 879
+Edge removed: (2138, 6759)
+Number of communities after edge removal: 2
+
+Iteration number: 880
+Edge removed: (2940, 4232)
+Number of communities after edge removal: 2
+
+Iteration number: 881
+Edge removed: (513, 5513)
+Number of communities after edge removal: 2
+
+Iteration number: 882
+Edge removed: (573, 5660)
+Number of communities after edge removal: 2
+
+Iteration number: 883
+Edge removed: (7, 177)
+Number of communities after edge removal: 2
+
+Iteration number: 884
+Edge removed: (1253, 7300)
+Number of communities after edge removal: 2
+
+Iteration number: 885
+Edge removed: (4187, 6183)
+Number of communities after edge removal: 2
+
+Iteration number: 886
+Edge removed: (375, 6759)
+Number of communities after edge removal: 2
+
+Iteration number: 887
+Edge removed: (828, 7242)
+Number of communities after edge removal: 2
+
+Iteration number: 888
+Edge removed: (863, 7118)
+Number of communities after edge removal: 2
+
+Iteration number: 889
+Edge removed: (4810, 5036)
+Number of communities after edge removal: 2
+
+Iteration number: 890
+Edge removed: (4053, 7459)
+Number of communities after edge removal: 2
+
+Iteration number: 891
+Edge removed: (3107, 6165)
+Number of communities after edge removal: 2
+
+Iteration number: 892
+Edge removed: (3107, 3942)
+Number of communities after edge removal: 2
+
+Iteration number: 893
+Edge removed: (513, 3107)
+Number of communities after edge removal: 2
+
+Iteration number: 894
+Edge removed: (1385, 5012)
+Number of communities after edge removal: 2
+
+Iteration number: 895
+Edge removed: (1680, 5984)
+Number of communities after edge removal: 2
+
+Iteration number: 896
+Edge removed: (2190, 7273)
+Number of communities after edge removal: 2
+
+Iteration number: 897
+Edge removed: (651, 7204)
+Number of communities after edge removal: 2
+
+Iteration number: 898
+Edge removed: (708, 7300)
+Number of communities after edge removal: 2
+
+Iteration number: 899
+Edge removed: (708, 1341)
+Number of communities after edge removal: 2
+
+Iteration number: 900
+Edge removed: (513, 5331)
+Number of communities after edge removal: 2
+
+Iteration number: 901
+Edge removed: (973, 1357)
+Number of communities after edge removal: 2
+
+Iteration number: 902
+Edge removed: (2820, 3002)
+Number of communities after edge removal: 2
+
+Iteration number: 903
+Edge removed: (177, 7329)
+Number of communities after edge removal: 2
+
+Iteration number: 904
+Edge removed: (733, 5984)
+Number of communities after edge removal: 2
+
+Iteration number: 905
+Edge removed: (5984, 6954)
+Number of communities after edge removal: 2
+
+Iteration number: 906
+Edge removed: (1917, 2023)
+Number of communities after edge removal: 2
+
+Iteration number: 907
+Edge removed: (5426, 5984)
+Number of communities after edge removal: 3
+
+Modularity: 0.6382216917701524
+
+Iteration number: 908
+Edge removed: (4384, 7199)
+Number of communities after edge removal: 3
+
+Iteration number: 909
+Edge removed: (6341, 6772)
+Number of communities after edge removal: 3
+
+Iteration number: 910
+Edge removed: (6275, 7199)
+Number of communities after edge removal: 3
+
+Iteration number: 911
+Edge removed: (2128, 7199)
+Number of communities after edge removal: 3
+
+Iteration number: 912
+Edge removed: (3569, 7199)
+Number of communities after edge removal: 3
+
+Iteration number: 913
+Edge removed: (1834, 6347)
+Number of communities after edge removal: 3
+
+Iteration number: 914
+Edge removed: (1897, 6772)
+Number of communities after edge removal: 3
+
+Iteration number: 915
+Edge removed: (1986, 6775)
+Number of communities after edge removal: 3
+
+Iteration number: 916
+Edge removed: (1284, 1986)
+Number of communities after edge removal: 3
+
+Iteration number: 917
+Edge removed: (1462, 6347)
+Number of communities after edge removal: 3
+
+Iteration number: 918
+Edge removed: (7104, 7315)
+Number of communities after edge removal: 3
+
+Iteration number: 919
+Edge removed: (5478, 6194)
+Number of communities after edge removal: 3
+
+Iteration number: 920
+Edge removed: (1426, 3324)
+Number of communities after edge removal: 3
+
+Iteration number: 921
+Edge removed: (3186, 7199)
+Number of communities after edge removal: 3
+
+Iteration number: 922
+Edge removed: (4879, 6772)
+Number of communities after edge removal: 3
+
+Iteration number: 923
+Edge removed: (6907, 7199)
+Number of communities after edge removal: 3
+
+Iteration number: 924
+Edge removed: (2183, 2816)
+Number of communities after edge removal: 3
+
+Iteration number: 925
+Edge removed: (4710, 6153)
+Number of communities after edge removal: 3
+
+Iteration number: 926
+Edge removed: (6365, 7001)
+Number of communities after edge removal: 3
+
+Iteration number: 927
+Edge removed: (7128, 7188)
+Number of communities after edge removal: 3
+
+Iteration number: 928
+Edge removed: (3792, 5058)
+Number of communities after edge removal: 3
+
+Iteration number: 929
+Edge removed: (3584, 7008)
+Number of communities after edge removal: 3
+
+Iteration number: 930
+Edge removed: (1918, 3584)
+Number of communities after edge removal: 3
+
+Iteration number: 931
+Edge removed: (218, 6772)
+Number of communities after edge removal: 3
+
+Iteration number: 932
+Edge removed: (2881, 5478)
+Number of communities after edge removal: 3
+
+Iteration number: 933
+Edge removed: (2251, 7155)
+Number of communities after edge removal: 3
+
+Iteration number: 934
+Edge removed: (985, 4410)
+Number of communities after edge removal: 3
+
+Iteration number: 935
+Edge removed: (6256, 6612)
+Number of communities after edge removal: 3
+
+Iteration number: 936
+Edge removed: (1301, 5643)
+Number of communities after edge removal: 3
+
+Iteration number: 937
+Edge removed: (1781, 2693)
+Number of communities after edge removal: 3
+
+Iteration number: 938
+Edge removed: (2600, 3298)
+Number of communities after edge removal: 3
+
+Iteration number: 939
+Edge removed: (2298, 3469)
+Number of communities after edge removal: 3
+
+Iteration number: 940
+Edge removed: (4380, 4988)
+Number of communities after edge removal: 3
+
+Iteration number: 941
+Edge removed: (1445, 7199)
+Number of communities after edge removal: 3
+
+Iteration number: 942
+Edge removed: (5856, 6799)
+Number of communities after edge removal: 3
+
+Iteration number: 943
+Edge removed: (1762, 6994)
+Number of communities after edge removal: 3
+
+Iteration number: 944
+Edge removed: (6472, 7199)
+Number of communities after edge removal: 4
+
+Modularity: 0.6649876949503228
+
+Iteration number: 945
+Edge removed: (4033, 4319)
+Number of communities after edge removal: 4
+
+Iteration number: 946
+Edge removed: (2390, 4785)
+Number of communities after edge removal: 4
+
+Iteration number: 947
+Edge removed: (6490, 7237)
+Number of communities after edge removal: 4
+
+Iteration number: 948
+Edge removed: (3597, 6621)
+Number of communities after edge removal: 4
+
+Iteration number: 949
+Edge removed: (378, 5510)
+Number of communities after edge removal: 4
+
+Iteration number: 950
+Edge removed: (2510, 3130)
+Number of communities after edge removal: 4
+
+Iteration number: 951
+Edge removed: (426, 4359)
+Number of communities after edge removal: 4
+
+Iteration number: 952
+Edge removed: (2854, 6172)
+Number of communities after edge removal: 4
+
+Iteration number: 953
+Edge removed: (1275, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 954
+Edge removed: (1376, 4811)
+Number of communities after edge removal: 4
+
+Iteration number: 955
+Edge removed: (3597, 4527)
+Number of communities after edge removal: 4
+
+Iteration number: 956
+Edge removed: (935, 2854)
+Number of communities after edge removal: 4
+
+Iteration number: 957
+Edge removed: (5454, 5933)
+Number of communities after edge removal: 4
+
+Iteration number: 958
+Edge removed: (3873, 7592)
+Number of communities after edge removal: 4
+
+Iteration number: 959
+Edge removed: (1691, 3006)
+Number of communities after edge removal: 4
+
+Iteration number: 960
+Edge removed: (5060, 5439)
+Number of communities after edge removal: 4
+
+Iteration number: 961
+Edge removed: (2233, 4900)
+Number of communities after edge removal: 4
+
+Iteration number: 962
+Edge removed: (1553, 1792)
+Number of communities after edge removal: 4
+
+Iteration number: 963
+Edge removed: (4929, 7110)
+Number of communities after edge removal: 4
+
+Iteration number: 964
+Edge removed: (1486, 6337)
+Number of communities after edge removal: 4
+
+Iteration number: 965
+Edge removed: (2023, 2854)
+Number of communities after edge removal: 4
+
+Iteration number: 966
+Edge removed: (968, 1406)
+Number of communities after edge removal: 4
+
+Iteration number: 967
+Edge removed: (2854, 4995)
+Number of communities after edge removal: 4
+
+Iteration number: 968
+Edge removed: (4555, 4946)
+Number of communities after edge removal: 4
+
+Iteration number: 969
+Edge removed: (1792, 7482)
+Number of communities after edge removal: 4
+
+Iteration number: 970
+Edge removed: (1792, 2157)
+Number of communities after edge removal: 4
+
+Iteration number: 971
+Edge removed: (3873, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 972
+Edge removed: (2897, 5314)
+Number of communities after edge removal: 4
+
+Iteration number: 973
+Edge removed: (1553, 3210)
+Number of communities after edge removal: 4
+
+Iteration number: 974
+Edge removed: (3181, 3845)
+Number of communities after edge removal: 4
+
+Iteration number: 975
+Edge removed: (3751, 6566)
+Number of communities after edge removal: 4
+
+Iteration number: 976
+Edge removed: (3632, 7488)
+Number of communities after edge removal: 4
+
+Iteration number: 977
+Edge removed: (1262, 2713)
+Number of communities after edge removal: 4
+
+Iteration number: 978
+Edge removed: (2381, 4657)
+Number of communities after edge removal: 4
+
+Iteration number: 979
+Edge removed: (3758, 6566)
+Number of communities after edge removal: 4
+
+Iteration number: 980
+Edge removed: (4146, 5682)
+Number of communities after edge removal: 4
+
+Iteration number: 981
+Edge removed: (1183, 3210)
+Number of communities after edge removal: 4
+
+Iteration number: 982
+Edge removed: (1792, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 983
+Edge removed: (3158, 3528)
+Number of communities after edge removal: 4
+
+Iteration number: 984
+Edge removed: (3855, 4865)
+Number of communities after edge removal: 4
+
+Iteration number: 985
+Edge removed: (5314, 6648)
+Number of communities after edge removal: 4
+
+Iteration number: 986
+Edge removed: (6717, 7256)
+Number of communities after edge removal: 4
+
+Iteration number: 987
+Edge removed: (2576, 6724)
+Number of communities after edge removal: 4
+
+Iteration number: 988
+Edge removed: (3210, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 989
+Edge removed: (3655, 6241)
+Number of communities after edge removal: 4
+
+Iteration number: 990
+Edge removed: (2936, 3317)
+Number of communities after edge removal: 4
+
+Iteration number: 991
+Edge removed: (5454, 5534)
+Number of communities after edge removal: 4
+
+Iteration number: 992
+Edge removed: (2386, 3655)
+Number of communities after edge removal: 4
+
+Iteration number: 993
+Edge removed: (1262, 5543)
+Number of communities after edge removal: 4
+
+Iteration number: 994
+Edge removed: (1262, 1553)
+Number of communities after edge removal: 4
+
+Iteration number: 995
+Edge removed: (3751, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 996
+Edge removed: (3181, 4720)
+Number of communities after edge removal: 4
+
+Iteration number: 997
+Edge removed: (1792, 3181)
+Number of communities after edge removal: 4
+
+Iteration number: 998
+Edge removed: (1792, 5964)
+Number of communities after edge removal: 4
+
+Iteration number: 999
+Edge removed: (2805, 5921)
+Number of communities after edge removal: 4
+
+Iteration number: 1000
+Edge removed: (2938, 4374)
+Number of communities after edge removal: 4
+
+Iteration number: 1001
+Edge removed: (5454, 6876)
+Number of communities after edge removal: 4
+
+Iteration number: 1002
+Edge removed: (5454, 6427)
+Number of communities after edge removal: 4
+
+Iteration number: 1003
+Edge removed: (3181, 7256)
+Number of communities after edge removal: 4
+
+Iteration number: 1004
+Edge removed: (2381, 4842)
+Number of communities after edge removal: 4
+
+Iteration number: 1005
+Edge removed: (3994, 5543)
+Number of communities after edge removal: 4
+
+Iteration number: 1006
+Edge removed: (3181, 6427)
+Number of communities after edge removal: 4
+
+Iteration number: 1007
+Edge removed: (4452, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1008
+Edge removed: (3638, 5014)
+Number of communities after edge removal: 4
+
+Iteration number: 1009
+Edge removed: (2299, 7317)
+Number of communities after edge removal: 4
+
+Iteration number: 1010
+Edge removed: (3809, 6390)
+Number of communities after edge removal: 4
+
+Iteration number: 1011
+Edge removed: (7482, 7615)
+Number of communities after edge removal: 4
+
+Iteration number: 1012
+Edge removed: (2017, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1013
+Edge removed: (47, 3181)
+Number of communities after edge removal: 4
+
+Iteration number: 1014
+Edge removed: (2523, 3006)
+Number of communities after edge removal: 4
+
+Iteration number: 1015
+Edge removed: (3751, 5847)
+Number of communities after edge removal: 4
+
+Iteration number: 1016
+Edge removed: (235, 6816)
+Number of communities after edge removal: 4
+
+Iteration number: 1017
+Edge removed: (1250, 2812)
+Number of communities after edge removal: 4
+
+Iteration number: 1018
+Edge removed: (2473, 5258)
+Number of communities after edge removal: 4
+
+Iteration number: 1019
+Edge removed: (5454, 5543)
+Number of communities after edge removal: 4
+
+Iteration number: 1020
+Edge removed: (3181, 4898)
+Number of communities after edge removal: 4
+
+Iteration number: 1021
+Edge removed: (1497, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1022
+Edge removed: (2023, 6903)
+Number of communities after edge removal: 4
+
+Iteration number: 1023
+Edge removed: (3507, 7162)
+Number of communities after edge removal: 4
+
+Iteration number: 1024
+Edge removed: (4692, 4865)
+Number of communities after edge removal: 4
+
+Iteration number: 1025
+Edge removed: (1698, 6609)
+Number of communities after edge removal: 4
+
+Iteration number: 1026
+Edge removed: (932, 4865)
+Number of communities after edge removal: 4
+
+Iteration number: 1027
+Edge removed: (1262, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1028
+Edge removed: (3181, 4511)
+Number of communities after edge removal: 4
+
+Iteration number: 1029
+Edge removed: (141, 2369)
+Number of communities after edge removal: 4
+
+Iteration number: 1030
+Edge removed: (3632, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1031
+Edge removed: (3637, 4359)
+Number of communities after edge removal: 4
+
+Iteration number: 1032
+Edge removed: (464, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1033
+Edge removed: (1563, 3398)
+Number of communities after edge removal: 4
+
+Iteration number: 1034
+Edge removed: (1553, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1035
+Edge removed: (968, 4995)
+Number of communities after edge removal: 4
+
+Iteration number: 1036
+Edge removed: (204, 4359)
+Number of communities after edge removal: 4
+
+Iteration number: 1037
+Edge removed: (204, 6408)
+Number of communities after edge removal: 4
+
+Iteration number: 1038
+Edge removed: (287, 3210)
+Number of communities after edge removal: 4
+
+Iteration number: 1039
+Edge removed: (1312, 1530)
+Number of communities after edge removal: 4
+
+Iteration number: 1040
+Edge removed: (1262, 4916)
+Number of communities after edge removal: 4
+
+Iteration number: 1041
+Edge removed: (2609, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1042
+Edge removed: (5454, 7482)
+Number of communities after edge removal: 4
+
+Iteration number: 1043
+Edge removed: (4726, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1044
+Edge removed: (720, 1262)
+Number of communities after edge removal: 4
+
+Iteration number: 1045
+Edge removed: (3138, 3181)
+Number of communities after edge removal: 4
+
+Iteration number: 1046
+Edge removed: (3181, 3994)
+Number of communities after edge removal: 4
+
+Iteration number: 1047
+Edge removed: (2808, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1048
+Edge removed: (3450, 4767)
+Number of communities after edge removal: 4
+
+Iteration number: 1049
+Edge removed: (1409, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1050
+Edge removed: (935, 6408)
+Number of communities after edge removal: 4
+
+Iteration number: 1051
+Edge removed: (3994, 4916)
+Number of communities after edge removal: 4
+
+Iteration number: 1052
+Edge removed: (4165, 6408)
+Number of communities after edge removal: 4
+
+Iteration number: 1053
+Edge removed: (4036, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1054
+Edge removed: (2786, 5566)
+Number of communities after edge removal: 4
+
+Iteration number: 1055
+Edge removed: (540, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1056
+Edge removed: (3449, 4375)
+Number of communities after edge removal: 4
+
+Iteration number: 1057
+Edge removed: (5454, 7395)
+Number of communities after edge removal: 4
+
+Iteration number: 1058
+Edge removed: (3459, 5314)
+Number of communities after edge removal: 4
+
+Iteration number: 1059
+Edge removed: (375, 5012)
+Number of communities after edge removal: 4
+
+Iteration number: 1060
+Edge removed: (1212, 2168)
+Number of communities after edge removal: 4
+
+Iteration number: 1061
+Edge removed: (112, 6782)
+Number of communities after edge removal: 4
+
+Iteration number: 1062
+Edge removed: (5454, 5890)
+Number of communities after edge removal: 4
+
+Iteration number: 1063
+Edge removed: (5454, 6441)
+Number of communities after edge removal: 4
+
+Iteration number: 1064
+Edge removed: (2132, 6359)
+Number of communities after edge removal: 4
+
+Iteration number: 1065
+Edge removed: (738, 3013)
+Number of communities after edge removal: 4
+
+Iteration number: 1066
+Edge removed: (3542, 3994)
+Number of communities after edge removal: 4
+
+Iteration number: 1067
+Edge removed: (2345, 3994)
+Number of communities after edge removal: 4
+
+Iteration number: 1068
+Edge removed: (204, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1069
+Edge removed: (3370, 4490)
+Number of communities after edge removal: 4
+
+Iteration number: 1070
+Edge removed: (1922, 6186)
+Number of communities after edge removal: 4
+
+Iteration number: 1071
+Edge removed: (4522, 5258)
+Number of communities after edge removal: 4
+
+Iteration number: 1072
+Edge removed: (3439, 5029)
+Number of communities after edge removal: 4
+
+Iteration number: 1073
+Edge removed: (935, 3181)
+Number of communities after edge removal: 4
+
+Iteration number: 1074
+Edge removed: (4165, 5454)
+Number of communities after edge removal: 4
+
+Iteration number: 1075
+Edge removed: (3507, 7459)
+Number of communities after edge removal: 4
+
+Iteration number: 1076
+Edge removed: (1332, 2132)
+Number of communities after edge removal: 4
+
+Iteration number: 1077
+Edge removed: (1126, 6991)
+Number of communities after edge removal: 4
+
+Iteration number: 1078
+Edge removed: (1624, 6293)
+Number of communities after edge removal: 4
+
+Iteration number: 1079
+Edge removed: (258, 2497)
+Number of communities after edge removal: 4
+
+Iteration number: 1080
+Edge removed: (573, 651)
+Number of communities after edge removal: 4
+
+Iteration number: 1081
+Edge removed: (1935, 2193)
+Number of communities after edge removal: 4
+
+Iteration number: 1082
+Edge removed: (883, 3818)
+Number of communities after edge removal: 4
+
+Iteration number: 1083
+Edge removed: (3449, 5012)
+Number of communities after edge removal: 4
+
+Iteration number: 1084
+Edge removed: (1935, 4241)
+Number of communities after edge removal: 4
+
+Iteration number: 1085
+Edge removed: (973, 1121)
+Number of communities after edge removal: 4
+
+Iteration number: 1086
+Edge removed: (1332, 6165)
+Number of communities after edge removal: 4
+
+Iteration number: 1087
+Edge removed: (2235, 6441)
+Number of communities after edge removal: 4
+
+Iteration number: 1088
+Edge removed: (6828, 7156)
+Number of communities after edge removal: 4
+
+Iteration number: 1089
+Edge removed: (2723, 4822)
+Number of communities after edge removal: 4
+
+Iteration number: 1090
+Edge removed: (1504, 4811)
+Number of communities after edge removal: 5
+
+Modularity: 0.7046300716078734
+
+Iteration number: 1091
+Edge removed: (113, 6621)
+Number of communities after edge removal: 5
+
+Iteration number: 1092
+Edge removed: (6296, 6519)
+Number of communities after edge removal: 5
+
+Iteration number: 1093
+Edge removed: (4900, 5011)
+Number of communities after edge removal: 5
+
+Iteration number: 1094
+Edge removed: (1316, 3614)
+Number of communities after edge removal: 5
+
+Iteration number: 1095
+Edge removed: (3670, 4338)
+Number of communities after edge removal: 5
+
+Iteration number: 1096
+Edge removed: (2289, 6468)
+Number of communities after edge removal: 5
+
+Iteration number: 1097
+Edge removed: (3921, 4338)
+Number of communities after edge removal: 5
+
+Iteration number: 1098
+Edge removed: (2624, 4338)
+Number of communities after edge removal: 5
+
+Iteration number: 1099
+Edge removed: (1691, 2140)
+Number of communities after edge removal: 5
+
+Iteration number: 1100
+Edge removed: (1559, 7226)
+Number of communities after edge removal: 5
+
+Iteration number: 1101
+Edge removed: (998, 2058)
+Number of communities after edge removal: 5
+
+Iteration number: 1102
+Edge removed: (4785, 6585)
+Number of communities after edge removal: 5
+
+Iteration number: 1103
+Edge removed: (633, 3544)
+Number of communities after edge removal: 5
+
+Iteration number: 1104
+Edge removed: (792, 5854)
+Number of communities after edge removal: 5
+
+Iteration number: 1105
+Edge removed: (1207, 7226)
+Number of communities after edge removal: 5
+
+Iteration number: 1106
+Edge removed: (4741, 5274)
+Number of communities after edge removal: 5
+
+Iteration number: 1107
+Edge removed: (1350, 4338)
+Number of communities after edge removal: 5
+
+Iteration number: 1108
+Edge removed: (3873, 5283)
+Number of communities after edge removal: 5
+
+Iteration number: 1109
+Edge removed: (4338, 7545)
+Number of communities after edge removal: 5
+
+Iteration number: 1110
+Edge removed: (296, 5060)
+Number of communities after edge removal: 5
+
+Iteration number: 1111
+Edge removed: (4338, 5060)
+Number of communities after edge removal: 5
+
+Iteration number: 1112
+Edge removed: (2337, 2854)
+Number of communities after edge removal: 5
+
+Iteration number: 1113
+Edge removed: (2908, 4338)
+Number of communities after edge removal: 5
+
+Iteration number: 1114
+Edge removed: (6468, 6884)
+Number of communities after edge removal: 5
+
+Iteration number: 1115
+Edge removed: (827, 1224)
+Number of communities after edge removal: 5
+
+Iteration number: 1116
+Edge removed: (1041, 3538)
+Number of communities after edge removal: 5
+
+Iteration number: 1117
+Edge removed: (1859, 6468)
+Number of communities after edge removal: 5
+
+Iteration number: 1118
+Edge removed: (706, 7178)
+Number of communities after edge removal: 5
+
+Iteration number: 1119
+Edge removed: (2140, 4543)
+Number of communities after edge removal: 5
+
+Iteration number: 1120
+Edge removed: (2943, 3317)
+Number of communities after edge removal: 5
+
+Iteration number: 1121
+Edge removed: (4338, 4873)
+Number of communities after edge removal: 5
+
+Iteration number: 1122
+Edge removed: (5060, 5715)
+Number of communities after edge removal: 5
+
+Iteration number: 1123
+Edge removed: (226, 2236)
+Number of communities after edge removal: 5
+
+Iteration number: 1124
+Edge removed: (1663, 6912)
+Number of communities after edge removal: 5
+
+Iteration number: 1125
+Edge removed: (2510, 2707)
+Number of communities after edge removal: 5
+
+Iteration number: 1126
+Edge removed: (5218, 6296)
+Number of communities after edge removal: 5
+
+Iteration number: 1127
+Edge removed: (1128, 6022)
+Number of communities after edge removal: 5
+
+Iteration number: 1128
+Edge removed: (5060, 7338)
+Number of communities after edge removal: 5
+
+Iteration number: 1129
+Edge removed: (1756, 7366)
+Number of communities after edge removal: 5
+
+Iteration number: 1130
+Edge removed: (2710, 7587)
+Number of communities after edge removal: 5
+
+Iteration number: 1131
+Edge removed: (454, 2337)
+Number of communities after edge removal: 5
+
+Iteration number: 1132
+Edge removed: (3921, 6186)
+Number of communities after edge removal: 5
+
+Iteration number: 1133
+Edge removed: (3921, 6520)
+Number of communities after edge removal: 5
+
+Iteration number: 1134
+Edge removed: (899, 2624)
+Number of communities after edge removal: 5
+
+Iteration number: 1135
+Edge removed: (2430, 6468)
+Number of communities after edge removal: 5
+
+Iteration number: 1136
+Edge removed: (4338, 4779)
+Number of communities after edge removal: 5
+
+Iteration number: 1137
+Edge removed: (2430, 7545)
+Number of communities after edge removal: 5
+
+Iteration number: 1138
+Edge removed: (1376, 5926)
+Number of communities after edge removal: 5
+
+Iteration number: 1139
+Edge removed: (1376, 6390)
+Number of communities after edge removal: 5
+
+Iteration number: 1140
+Edge removed: (105, 5581)
+Number of communities after edge removal: 5
+
+Iteration number: 1141
+Edge removed: (1278, 5060)
+Number of communities after edge removal: 5
+
+Iteration number: 1142
+Edge removed: (2236, 5020)
+Number of communities after edge removal: 5
+
+Iteration number: 1143
+Edge removed: (3496, 5060)
+Number of communities after edge removal: 5
+
+Iteration number: 1144
+Edge removed: (2143, 3014)
+Number of communities after edge removal: 5
+
+Iteration number: 1145
+Edge removed: (4873, 5020)
+Number of communities after edge removal: 5
+
+Iteration number: 1146
+Edge removed: (4873, 6228)
+Number of communities after edge removal: 5
+
+Iteration number: 1147
+Edge removed: (3875, 4673)
+Number of communities after edge removal: 5
+
+Iteration number: 1148
+Edge removed: (2854, 6537)
+Number of communities after edge removal: 5
+
+Iteration number: 1149
+Edge removed: (2854, 3330)
+Number of communities after edge removal: 5
+
+Iteration number: 1150
+Edge removed: (2337, 4949)
+Number of communities after edge removal: 5
+
+Iteration number: 1151
+Edge removed: (443, 3642)
+Number of communities after edge removal: 5
+
+Iteration number: 1152
+Edge removed: (2140, 6390)
+Number of communities after edge removal: 5
+
+Iteration number: 1153
+Edge removed: (4319, 4450)
+Number of communities after edge removal: 5
+
+Iteration number: 1154
+Edge removed: (171, 2854)
+Number of communities after edge removal: 5
+
+Iteration number: 1155
+Edge removed: (2337, 2511)
+Number of communities after edge removal: 5
+
+Iteration number: 1156
+Edge removed: (1199, 7488)
+Number of communities after edge removal: 5
+
+Iteration number: 1157
+Edge removed: (833, 2854)
+Number of communities after edge removal: 5
+
+Iteration number: 1158
+Edge removed: (2327, 5205)
+Number of communities after edge removal: 5
+
+Iteration number: 1159
+Edge removed: (4033, 6684)
+Number of communities after edge removal: 5
+
+Iteration number: 1160
+Edge removed: (2327, 3720)
+Number of communities after edge removal: 5
+
+Iteration number: 1161
+Edge removed: (3530, 4946)
+Number of communities after edge removal: 5
+
+Iteration number: 1162
+Edge removed: (482, 1691)
+Number of communities after edge removal: 5
+
+Iteration number: 1163
+Edge removed: (3084, 5060)
+Number of communities after edge removal: 5
+
+Iteration number: 1164
+Edge removed: (1250, 3084)
+Number of communities after edge removal: 5
+
+Iteration number: 1165
+Edge removed: (4779, 6468)
+Number of communities after edge removal: 5
+
+Iteration number: 1166
+Edge removed: (5706, 6683)
+Number of communities after edge removal: 5
+
+Iteration number: 1167
+Edge removed: (1376, 7545)
+Number of communities after edge removal: 5
+
+Iteration number: 1168
+Edge removed: (2140, 6822)
+Number of communities after edge removal: 5
+
+Iteration number: 1169
+Edge removed: (2337, 7035)
+Number of communities after edge removal: 5
+
+Iteration number: 1170
+Edge removed: (2142, 2337)
+Number of communities after edge removal: 5
+
+Iteration number: 1171
+Edge removed: (2337, 7335)
+Number of communities after edge removal: 5
+
+Iteration number: 1172
+Edge removed: (6441, 7172)
+Number of communities after edge removal: 5
+
+Iteration number: 1173
+Edge removed: (2854, 4941)
+Number of communities after edge removal: 5
+
+Iteration number: 1174
+Edge removed: (5543, 7545)
+Number of communities after edge removal: 5
+
+Iteration number: 1175
+Edge removed: (171, 7035)
+Number of communities after edge removal: 5
+
+Iteration number: 1176
+Edge removed: (2624, 4139)
+Number of communities after edge removal: 5
+
+Iteration number: 1177
+Edge removed: (374, 5056)
+Number of communities after edge removal: 5
+
+Iteration number: 1178
+Edge removed: (3921, 7545)
+Number of communities after edge removal: 5
+
+Iteration number: 1179
+Edge removed: (6468, 7545)
+Number of communities after edge removal: 5
+
+Iteration number: 1180
+Edge removed: (482, 1405)
+Number of communities after edge removal: 5
+
+Iteration number: 1181
+Edge removed: (415, 2023)
+Number of communities after edge removal: 5
+
+Iteration number: 1182
+Edge removed: (1680, 2854)
+Number of communities after edge removal: 5
+
+Iteration number: 1183
+Edge removed: (2854, 5516)
+Number of communities after edge removal: 5
+
+Iteration number: 1184
+Edge removed: (3064, 6121)
+Number of communities after edge removal: 5
+
+Iteration number: 1185
+Edge removed: (1041, 2337)
+Number of communities after edge removal: 5
+
+Iteration number: 1186
+Edge removed: (4880, 5060)
+Number of communities after edge removal: 5
+
+Iteration number: 1187
+Edge removed: (2337, 5234)
+Number of communities after edge removal: 5
+
+Iteration number: 1188
+Edge removed: (1406, 2854)
+Number of communities after edge removal: 5
+
+Iteration number: 1189
+Edge removed: (2854, 6460)
+Number of communities after edge removal: 5
+
+Iteration number: 1190
+Edge removed: (1436, 2337)
+Number of communities after edge removal: 5
+
+Iteration number: 1191
+Edge removed: (713, 6537)
+Number of communities after edge removal: 5
+
+Iteration number: 1192
+Edge removed: (1410, 2913)
+Number of communities after edge removal: 5
+
+Iteration number: 1193
+Edge removed: (171, 2754)
+Number of communities after edge removal: 5
+
+Iteration number: 1194
+Edge removed: (2854, 4483)
+Number of communities after edge removal: 5
+
+Iteration number: 1195
+Edge removed: (4941, 5933)
+Number of communities after edge removal: 5
+
+Iteration number: 1196
+Edge removed: (1225, 2854)
+Number of communities after edge removal: 5
+
+Iteration number: 1197
+Edge removed: (689, 4957)
+Number of communities after edge removal: 5
+
+Iteration number: 1198
+Edge removed: (2840, 5060)
+Number of communities after edge removal: 5
+
+Iteration number: 1199
+Edge removed: (5060, 6095)
+Number of communities after edge removal: 5
+
+Iteration number: 1200
+Edge removed: (833, 7172)
+Number of communities after edge removal: 5
+
+Iteration number: 1201
+Edge removed: (199, 4929)
+Number of communities after edge removal: 5
+
+Iteration number: 1202
+Edge removed: (7, 7589)
+Number of communities after edge removal: 5
+
+Iteration number: 1203
+Edge removed: (1756, 6232)
+Number of communities after edge removal: 5
+
+Iteration number: 1204
+Edge removed: (1106, 2327)
+Number of communities after edge removal: 5
+
+Iteration number: 1205
+Edge removed: (5060, 7089)
+Number of communities after edge removal: 5
+
+Iteration number: 1206
+Edge removed: (5060, 6940)
+Number of communities after edge removal: 5
+
+Iteration number: 1207
+Edge removed: (3, 5060)
+Number of communities after edge removal: 5
+
+Iteration number: 1208
+Edge removed: (2913, 3267)
+Number of communities after edge removal: 5
+
+Iteration number: 1209
+Edge removed: (3064, 3637)
+Number of communities after edge removal: 5
+
+Iteration number: 1210
+Edge removed: (913, 2680)
+Number of communities after edge removal: 5
+
+Iteration number: 1211
+Edge removed: (2138, 4941)
+Number of communities after edge removal: 5
+
+Iteration number: 1212
+Edge removed: (2710, 4941)
+Number of communities after edge removal: 5
+
+Iteration number: 1213
+Edge removed: (414, 5319)
+Number of communities after edge removal: 5
+
+Iteration number: 1214
+Edge removed: (2742, 4682)
+Number of communities after edge removal: 5
+
+Iteration number: 1215
+Edge removed: (4795, 5447)
+Number of communities after edge removal: 5
+
+Iteration number: 1216
+Edge removed: (651, 6293)
+Number of communities after edge removal: 5
+
+Iteration number: 1217
+Edge removed: (4811, 5619)
+Number of communities after edge removal: 5
+
+Iteration number: 1218
+Edge removed: (5531, 7292)
+Number of communities after edge removal: 5
+
+Iteration number: 1219
+Edge removed: (1126, 5120)
+Number of communities after edge removal: 5
+
+Iteration number: 1220
+Edge removed: (1229, 4009)
+Number of communities after edge removal: 5
+
+Iteration number: 1221
+Edge removed: (1824, 2776)
+Number of communities after edge removal: 6
+
+Modularity: 0.7199742471560424
+
+Iteration number: 1222
+Edge removed: (3450, 4946)
+Number of communities after edge removal: 6
+
+Iteration number: 1223
+Edge removed: (543, 2637)
+Number of communities after edge removal: 6
+
+Iteration number: 1224
+Edge removed: (4013, 6621)
+Number of communities after edge removal: 6
+
+Iteration number: 1225
+Edge removed: (4114, 4785)
+Number of communities after edge removal: 6
+
+Iteration number: 1226
+Edge removed: (2980, 3130)
+Number of communities after edge removal: 6
+
+Iteration number: 1227
+Edge removed: (3509, 5370)
+Number of communities after edge removal: 6
+
+Iteration number: 1228
+Edge removed: (4986, 6891)
+Number of communities after edge removal: 6
+
+Iteration number: 1229
+Edge removed: (244, 6280)
+Number of communities after edge removal: 6
+
+Iteration number: 1230
+Edge removed: (3130, 4039)
+Number of communities after edge removal: 6
+
+Iteration number: 1231
+Edge removed: (2259, 6219)
+Number of communities after edge removal: 6
+
+Iteration number: 1232
+Edge removed: (5370, 5461)
+Number of communities after edge removal: 6
+
+Iteration number: 1233
+Edge removed: (3948, 5461)
+Number of communities after edge removal: 6
+
+Iteration number: 1234
+Edge removed: (2024, 3130)
+Number of communities after edge removal: 6
+
+Iteration number: 1235
+Edge removed: (3882, 5334)
+Number of communities after edge removal: 6
+
+Iteration number: 1236
+Edge removed: (28, 4900)
+Number of communities after edge removal: 6
+
+Iteration number: 1237
+Edge removed: (3130, 7507)
+Number of communities after edge removal: 6
+
+Iteration number: 1238
+Edge removed: (1606, 7226)
+Number of communities after edge removal: 6
+
+Iteration number: 1239
+Edge removed: (5963, 7226)
+Number of communities after edge removal: 6
+
+Iteration number: 1240
+Edge removed: (743, 2349)
+Number of communities after edge removal: 6
+
+Iteration number: 1241
+Edge removed: (1207, 5111)
+Number of communities after edge removal: 6
+
+Iteration number: 1242
+Edge removed: (6023, 6519)
+Number of communities after edge removal: 6
+
+Iteration number: 1243
+Edge removed: (1947, 7123)
+Number of communities after edge removal: 6
+
+Iteration number: 1244
+Edge removed: (2510, 2597)
+Number of communities after edge removal: 6
+
+Iteration number: 1245
+Edge removed: (4309, 4507)
+Number of communities after edge removal: 6
+
+Iteration number: 1246
+Edge removed: (271, 6514)
+Number of communities after edge removal: 6
+
+Iteration number: 1247
+Edge removed: (4296, 6108)
+Number of communities after edge removal: 6
+
+Iteration number: 1248
+Edge removed: (4398, 7237)
+Number of communities after edge removal: 6
+
+Iteration number: 1249
+Edge removed: (3044, 4607)
+Number of communities after edge removal: 6
+
+Iteration number: 1250
+Edge removed: (1233, 5388)
+Number of communities after edge removal: 6
+
+Iteration number: 1251
+Edge removed: (103, 7507)
+Number of communities after edge removal: 6
+
+Iteration number: 1252
+Edge removed: (3461, 7090)
+Number of communities after edge removal: 6
+
+Iteration number: 1253
+Edge removed: (1947, 4309)
+Number of communities after edge removal: 6
+
+Iteration number: 1254
+Edge removed: (3679, 5717)
+Number of communities after edge removal: 6
+
+Iteration number: 1255
+Edge removed: (3679, 7379)
+Number of communities after edge removal: 6
+
+Iteration number: 1256
+Edge removed: (2390, 6945)
+Number of communities after edge removal: 6
+
+Iteration number: 1257
+Edge removed: (4034, 6077)
+Number of communities after edge removal: 6
+
+Iteration number: 1258
+Edge removed: (743, 3986)
+Number of communities after edge removal: 6
+
+Iteration number: 1259
+Edge removed: (3986, 4563)
+Number of communities after edge removal: 6
+
+Iteration number: 1260
+Edge removed: (2390, 7537)
+Number of communities after edge removal: 6
+
+Iteration number: 1261
+Edge removed: (398, 1316)
+Number of communities after edge removal: 6
+
+Iteration number: 1262
+Edge removed: (211, 3869)
+Number of communities after edge removal: 6
+
+Iteration number: 1263
+Edge removed: (5121, 5334)
+Number of communities after edge removal: 6
+
+Iteration number: 1264
+Edge removed: (647, 5121)
+Number of communities after edge removal: 6
+
+Iteration number: 1265
+Edge removed: (1207, 6554)
+Number of communities after edge removal: 6
+
+Iteration number: 1266
+Edge removed: (2818, 4461)
+Number of communities after edge removal: 6
+
+Iteration number: 1267
+Edge removed: (500, 6803)
+Number of communities after edge removal: 6
+
+Iteration number: 1268
+Edge removed: (4785, 6583)
+Number of communities after edge removal: 6
+
+Iteration number: 1269
+Edge removed: (2060, 3044)
+Number of communities after edge removal: 6
+
+Iteration number: 1270
+Edge removed: (5200, 7517)
+Number of communities after edge removal: 6
+
+Iteration number: 1271
+Edge removed: (3038, 6706)
+Number of communities after edge removal: 6
+
+Iteration number: 1272
+Edge removed: (1947, 3945)
+Number of communities after edge removal: 6
+
+Iteration number: 1273
+Edge removed: (2435, 3705)
+Number of communities after edge removal: 6
+
+Iteration number: 1274
+Edge removed: (1207, 6023)
+Number of communities after edge removal: 6
+
+Iteration number: 1275
+Edge removed: (2814, 6168)
+Number of communities after edge removal: 6
+
+Iteration number: 1276
+Edge removed: (3047, 6895)
+Number of communities after edge removal: 6
+
+Iteration number: 1277
+Edge removed: (3614, 6851)
+Number of communities after edge removal: 6
+
+Iteration number: 1278
+Edge removed: (1946, 4034)
+Number of communities after edge removal: 6
+
+Iteration number: 1279
+Edge removed: (3327, 5854)
+Number of communities after edge removal: 6
+
+Iteration number: 1280
+Edge removed: (1373, 3614)
+Number of communities after edge removal: 6
+
+Iteration number: 1281
+Edge removed: (3192, 4908)
+Number of communities after edge removal: 6
+
+Iteration number: 1282
+Edge removed: (842, 5793)
+Number of communities after edge removal: 6
+
+Iteration number: 1283
+Edge removed: (3009, 3705)
+Number of communities after edge removal: 6
+
+Iteration number: 1284
+Edge removed: (633, 851)
+Number of communities after edge removal: 6
+
+Iteration number: 1285
+Edge removed: (1074, 6788)
+Number of communities after edge removal: 6
+
+Iteration number: 1286
+Edge removed: (3617, 4900)
+Number of communities after edge removal: 6
+
+Iteration number: 1287
+Edge removed: (5759, 6583)
+Number of communities after edge removal: 6
+
+Iteration number: 1288
+Edge removed: (3556, 6146)
+Number of communities after edge removal: 6
+
+Iteration number: 1289
+Edge removed: (4467, 6583)
+Number of communities after edge removal: 6
+
+Iteration number: 1290
+Edge removed: (1141, 5793)
+Number of communities after edge removal: 6
+
+Iteration number: 1291
+Edge removed: (5793, 7463)
+Number of communities after edge removal: 6
+
+Iteration number: 1292
+Edge removed: (1595, 7339)
+Number of communities after edge removal: 6
+
+Iteration number: 1293
+Edge removed: (4365, 4575)
+Number of communities after edge removal: 6
+
+Iteration number: 1294
+Edge removed: (7270, 7339)
+Number of communities after edge removal: 6
+
+Iteration number: 1295
+Edge removed: (3239, 5717)
+Number of communities after edge removal: 6
+
+Iteration number: 1296
+Edge removed: (358, 5416)
+Number of communities after edge removal: 6
+
+Iteration number: 1297
+Edge removed: (2286, 4086)
+Number of communities after edge removal: 6
+
+Iteration number: 1298
+Edge removed: (416, 3509)
+Number of communities after edge removal: 6
+
+Iteration number: 1299
+Edge removed: (4108, 5380)
+Number of communities after edge removal: 6
+
+Iteration number: 1300
+Edge removed: (2746, 7246)
+Number of communities after edge removal: 6
+
+Iteration number: 1301
+Edge removed: (4575, 4894)
+Number of communities after edge removal: 6
+
+Iteration number: 1302
+Edge removed: (2556, 3327)
+Number of communities after edge removal: 6
+
+Iteration number: 1303
+Edge removed: (502, 2418)
+Number of communities after edge removal: 6
+
+Iteration number: 1304
+Edge removed: (3614, 5775)
+Number of communities after edge removal: 6
+
+Iteration number: 1305
+Edge removed: (2942, 7198)
+Number of communities after edge removal: 6
+
+Iteration number: 1306
+Edge removed: (1618, 4607)
+Number of communities after edge removal: 6
+
+Iteration number: 1307
+Edge removed: (1208, 4303)
+Number of communities after edge removal: 6
+
+Iteration number: 1308
+Edge removed: (974, 1328)
+Number of communities after edge removal: 6
+
+Iteration number: 1309
+Edge removed: (1618, 1622)
+Number of communities after edge removal: 6
+
+Iteration number: 1310
+Edge removed: (1681, 1846)
+Number of communities after edge removal: 6
+
+Iteration number: 1311
+Edge removed: (318, 1348)
+Number of communities after edge removal: 6
+
+Iteration number: 1312
+Edge removed: (5327, 5664)
+Number of communities after edge removal: 6
+
+Iteration number: 1313
+Edge removed: (1618, 2841)
+Number of communities after edge removal: 6
+
+Iteration number: 1314
+Edge removed: (1325, 7442)
+Number of communities after edge removal: 6
+
+Iteration number: 1315
+Edge removed: (436, 4239)
+Number of communities after edge removal: 6
+
+Iteration number: 1316
+Edge removed: (1618, 2366)
+Number of communities after edge removal: 6
+
+Iteration number: 1317
+Edge removed: (2141, 6096)
+Number of communities after edge removal: 6
+
+Iteration number: 1318
+Edge removed: (102, 1495)
+Number of communities after edge removal: 6
+
+Iteration number: 1319
+Edge removed: (2417, 5817)
+Number of communities after edge removal: 6
+
+Iteration number: 1320
+Edge removed: (2548, 7532)
+Number of communities after edge removal: 6
+
+Iteration number: 1321
+Edge removed: (4135, 6250)
+Number of communities after edge removal: 6
+
+Iteration number: 1322
+Edge removed: (1814, 4977)
+Number of communities after edge removal: 6
+
+Iteration number: 1323
+Edge removed: (3327, 6051)
+Number of communities after edge removal: 6
+
+Iteration number: 1324
+Edge removed: (1618, 4321)
+Number of communities after edge removal: 6
+
+Iteration number: 1325
+Edge removed: (1739, 7442)
+Number of communities after edge removal: 6
+
+Iteration number: 1326
+Edge removed: (1618, 6139)
+Number of communities after edge removal: 6
+
+Iteration number: 1327
+Edge removed: (2280, 5489)
+Number of communities after edge removal: 6
+
+Iteration number: 1328
+Edge removed: (1618, 6197)
+Number of communities after edge removal: 6
+
+Iteration number: 1329
+Edge removed: (569, 1618)
+Number of communities after edge removal: 6
+
+Iteration number: 1330
+Edge removed: (6978, 7322)
+Number of communities after edge removal: 6
+
+Iteration number: 1331
+Edge removed: (2030, 4039)
+Number of communities after edge removal: 6
+
+Iteration number: 1332
+Edge removed: (3327, 7442)
+Number of communities after edge removal: 6
+
+Iteration number: 1333
+Edge removed: (1966, 3613)
+Number of communities after edge removal: 6
+
+Iteration number: 1334
+Edge removed: (4245, 4469)
+Number of communities after edge removal: 7
+
+Modularity: 0.7642072944401326
+
+Iteration number: 1335
+Edge removed: (2265, 7014)
+Number of communities after edge removal: 7
+
+Iteration number: 1336
+Edge removed: (891, 2600)
+Number of communities after edge removal: 7
+
+Iteration number: 1337
+Edge removed: (891, 7199)
+Number of communities after edge removal: 7
+
+Iteration number: 1338
+Edge removed: (998, 4723)
+Number of communities after edge removal: 7
+
+Iteration number: 1339
+Edge removed: (2265, 6500)
+Number of communities after edge removal: 7
+
+Iteration number: 1340
+Edge removed: (3926, 4356)
+Number of communities after edge removal: 7
+
+Iteration number: 1341
+Edge removed: (600, 3584)
+Number of communities after edge removal: 7
+
+Iteration number: 1342
+Edge removed: (4356, 4924)
+Number of communities after edge removal: 7
+
+Iteration number: 1343
+Edge removed: (34, 4408)
+Number of communities after edge removal: 7
+
+Iteration number: 1344
+Edge removed: (2465, 4994)
+Number of communities after edge removal: 7
+
+Iteration number: 1345
+Edge removed: (891, 4082)
+Number of communities after edge removal: 7
+
+Iteration number: 1346
+Edge removed: (3584, 6255)
+Number of communities after edge removal: 7
+
+Iteration number: 1347
+Edge removed: (3674, 6020)
+Number of communities after edge removal: 7
+
+Iteration number: 1348
+Edge removed: (4717, 4973)
+Number of communities after edge removal: 7
+
+Iteration number: 1349
+Edge removed: (2730, 6255)
+Number of communities after edge removal: 7
+
+Iteration number: 1350
+Edge removed: (5188, 6174)
+Number of communities after edge removal: 7
+
+Iteration number: 1351
+Edge removed: (891, 6191)
+Number of communities after edge removal: 7
+
+Iteration number: 1352
+Edge removed: (259, 672)
+Number of communities after edge removal: 7
+
+Iteration number: 1353
+Edge removed: (1762, 4356)
+Number of communities after edge removal: 7
+
+Iteration number: 1354
+Edge removed: (1288, 2504)
+Number of communities after edge removal: 8
+
+Modularity: 0.7749252051579265
+
+Iteration number: 1355
+Edge removed: (2961, 7084)
+Number of communities after edge removal: 8
+
+Iteration number: 1356
+Edge removed: (4356, 4447)
+Number of communities after edge removal: 8
+
+Iteration number: 1357
+Edge removed: (1963, 4356)
+Number of communities after edge removal: 8
+
+Iteration number: 1358
+Edge removed: (4356, 7076)
+Number of communities after edge removal: 9
+
+Modularity: 0.7789240766352256
+
+Iteration number: 1359
+Edge removed: (3450, 5476)
+Number of communities after edge removal: 9
+
+Iteration number: 1360
+Edge removed: (5534, 7591)
+Number of communities after edge removal: 9
+
+Iteration number: 1361
+Edge removed: (3039, 4811)
+Number of communities after edge removal: 9
+
+Iteration number: 1362
+Edge removed: (630, 6241)
+Number of communities after edge removal: 9
+
+Iteration number: 1363
+Edge removed: (2337, 6337)
+Number of communities after edge removal: 9
+
+Iteration number: 1364
+Edge removed: (5259, 5404)
+Number of communities after edge removal: 9
+
+Iteration number: 1365
+Edge removed: (4130, 7028)
+Number of communities after edge removal: 9
+
+Iteration number: 1366
+Edge removed: (711, 5034)
+Number of communities after edge removal: 9
+
+Iteration number: 1367
+Edge removed: (2337, 5226)
+Number of communities after edge removal: 9
+
+Iteration number: 1368
+Edge removed: (4946, 5687)
+Number of communities after edge removal: 9
+
+Iteration number: 1369
+Edge removed: (3330, 6259)
+Number of communities after edge removal: 9
+
+Iteration number: 1370
+Edge removed: (2966, 6088)
+Number of communities after edge removal: 9
+
+Iteration number: 1371
+Edge removed: (2337, 6556)
+Number of communities after edge removal: 9
+
+Iteration number: 1372
+Edge removed: (2337, 3700)
+Number of communities after edge removal: 9
+
+Iteration number: 1373
+Edge removed: (3641, 4130)
+Number of communities after edge removal: 9
+
+Iteration number: 1374
+Edge removed: (4946, 7165)
+Number of communities after edge removal: 9
+
+Iteration number: 1375
+Edge removed: (3789, 4839)
+Number of communities after edge removal: 9
+
+Iteration number: 1376
+Edge removed: (3181, 4946)
+Number of communities after edge removal: 9
+
+Iteration number: 1377
+Edge removed: (454, 6259)
+Number of communities after edge removal: 9
+
+Iteration number: 1378
+Edge removed: (1741, 6259)
+Number of communities after edge removal: 9
+
+Iteration number: 1379
+Edge removed: (6088, 6617)
+Number of communities after edge removal: 9
+
+Iteration number: 1380
+Edge removed: (518, 3610)
+Number of communities after edge removal: 9
+
+Iteration number: 1381
+Edge removed: (1741, 7513)
+Number of communities after edge removal: 9
+
+Iteration number: 1382
+Edge removed: (1741, 3052)
+Number of communities after edge removal: 9
+
+Iteration number: 1383
+Edge removed: (2589, 6120)
+Number of communities after edge removal: 9
+
+Iteration number: 1384
+Edge removed: (3199, 6088)
+Number of communities after edge removal: 9
+
+Iteration number: 1385
+Edge removed: (2171, 6556)
+Number of communities after edge removal: 9
+
+Iteration number: 1386
+Edge removed: (6088, 6905)
+Number of communities after edge removal: 9
+
+Iteration number: 1387
+Edge removed: (3993, 4555)
+Number of communities after edge removal: 9
+
+Iteration number: 1388
+Edge removed: (4811, 7446)
+Number of communities after edge removal: 9
+
+Iteration number: 1389
+Edge removed: (2902, 3955)
+Number of communities after edge removal: 9
+
+Iteration number: 1390
+Edge removed: (462, 6018)
+Number of communities after edge removal: 9
+
+Iteration number: 1391
+Edge removed: (4057, 6909)
+Number of communities after edge removal: 9
+
+Iteration number: 1392
+Edge removed: (6315, 6561)
+Number of communities after edge removal: 9
+
+Iteration number: 1393
+Edge removed: (1425, 2966)
+Number of communities after edge removal: 9
+
+Iteration number: 1394
+Edge removed: (3265, 6190)
+Number of communities after edge removal: 9
+
+Iteration number: 1395
+Edge removed: (4344, 6905)
+Number of communities after edge removal: 9
+
+Iteration number: 1396
+Edge removed: (703, 7580)
+Number of communities after edge removal: 9
+
+Iteration number: 1397
+Edge removed: (518, 2902)
+Number of communities after edge removal: 9
+
+Iteration number: 1398
+Edge removed: (1053, 2902)
+Number of communities after edge removal: 9
+
+Iteration number: 1399
+Edge removed: (5226, 6556)
+Number of communities after edge removal: 9
+
+Iteration number: 1400
+Edge removed: (2717, 6088)
+Number of communities after edge removal: 9
+
+Iteration number: 1401
+Edge removed: (6083, 6556)
+Number of communities after edge removal: 9
+
+Iteration number: 1402
+Edge removed: (1077, 3439)
+Number of communities after edge removal: 9
+
+Iteration number: 1403
+Edge removed: (5127, 6774)
+Number of communities after edge removal: 9
+
+Iteration number: 1404
+Edge removed: (2749, 4839)
+Number of communities after edge removal: 9
+
+Iteration number: 1405
+Edge removed: (3021, 6120)
+Number of communities after edge removal: 9
+
+Iteration number: 1406
+Edge removed: (3021, 6556)
+Number of communities after edge removal: 9
+
+Iteration number: 1407
+Edge removed: (3624, 6120)
+Number of communities after edge removal: 9
+
+Iteration number: 1408
+Edge removed: (2902, 5340)
+Number of communities after edge removal: 9
+
+Iteration number: 1409
+Edge removed: (651, 7212)
+Number of communities after edge removal: 9
+
+Iteration number: 1410
+Edge removed: (2050, 2680)
+Number of communities after edge removal: 9
+
+Iteration number: 1411
+Edge removed: (2560, 7459)
+Number of communities after edge removal: 9
+
+Iteration number: 1412
+Edge removed: (60, 4344)
+Number of communities after edge removal: 9
+
+Iteration number: 1413
+Edge removed: (2560, 2940)
+Number of communities after edge removal: 9
+
+Iteration number: 1414
+Edge removed: (644, 7320)
+Number of communities after edge removal: 10
+
+Modularity: 0.7842985226930318
+
+Iteration number: 1415
+Edge removed: (5643, 6101)
+Number of communities after edge removal: 10
+
+Iteration number: 1416
+Edge removed: (524, 2566)
+Number of communities after edge removal: 10
+
+Iteration number: 1417
+Edge removed: (1937, 5578)
+Number of communities after edge removal: 10
+
+Iteration number: 1418
+Edge removed: (2713, 4811)
+Number of communities after edge removal: 10
+
+Iteration number: 1419
+Edge removed: (2510, 4299)
+Number of communities after edge removal: 11
+
+Modularity: 0.7845267017097307
+
+Iteration number: 1420
+Edge removed: (110, 5725)
+Number of communities after edge removal: 11
+
+Iteration number: 1421
+Edge removed: (2805, 2995)
+Number of communities after edge removal: 11
+
+Iteration number: 1422
+Edge removed: (2775, 3450)
+Number of communities after edge removal: 11
+
+Iteration number: 1423
+Edge removed: (2775, 5127)
+Number of communities after edge removal: 11
+
+Iteration number: 1424
+Edge removed: (3450, 6999)
+Number of communities after edge removal: 11
+
+Iteration number: 1425
+Edge removed: (374, 7602)
+Number of communities after edge removal: 11
+
+Iteration number: 1426
+Edge removed: (374, 2775)
+Number of communities after edge removal: 11
+
+Iteration number: 1427
+Edge removed: (374, 6999)
+Number of communities after edge removal: 11
+
+Iteration number: 1428
+Edge removed: (2775, 2805)
+Number of communities after edge removal: 11
+
+Iteration number: 1429
+Edge removed: (3181, 4284)
+Number of communities after edge removal: 11
+
+Iteration number: 1430
+Edge removed: (4183, 5513)
+Number of communities after edge removal: 11
+
+Iteration number: 1431
+Edge removed: (1700, 2775)
+Number of communities after edge removal: 11
+
+Iteration number: 1432
+Edge removed: (6999, 7160)
+Number of communities after edge removal: 11
+
+Iteration number: 1433
+Edge removed: (204, 4183)
+Number of communities after edge removal: 11
+
+Iteration number: 1434
+Edge removed: (833, 6537)
+Number of communities after edge removal: 11
+
+Iteration number: 1435
+Edge removed: (171, 374)
+Number of communities after edge removal: 11
+
+Iteration number: 1436
+Edge removed: (1723, 6537)
+Number of communities after edge removal: 12
+
+Modularity: 0.785201669757917
+
+Iteration number: 1437
+Edge removed: (1937, 6323)
+Number of communities after edge removal: 12
+
+Iteration number: 1438
+Edge removed: (1677, 1937)
+Number of communities after edge removal: 12
+
+Iteration number: 1439
+Edge removed: (313, 3293)
+Number of communities after edge removal: 12
+
+Iteration number: 1440
+Edge removed: (313, 4328)
+Number of communities after edge removal: 12
+
+Iteration number: 1441
+Edge removed: (4609, 4800)
+Number of communities after edge removal: 12
+
+Iteration number: 1442
+Edge removed: (704, 4609)
+Number of communities after edge removal: 12
+
+Iteration number: 1443
+Edge removed: (2351, 3112)
+Number of communities after edge removal: 13
+
+Modularity: 0.7858495973083076
+
+Iteration number: 1444
+Edge removed: (3360, 4785)
+Number of communities after edge removal: 13
+
+Iteration number: 1445
+Edge removed: (3530, 5680)
+Number of communities after edge removal: 13
+
+Iteration number: 1446
+Edge removed: (1312, 4602)
+Number of communities after edge removal: 13
+
+Iteration number: 1447
+Edge removed: (1856, 3530)
+Number of communities after edge removal: 13
+
+Iteration number: 1448
+Edge removed: (3530, 3991)
+Number of communities after edge removal: 13
+
+Iteration number: 1449
+Edge removed: (1222, 2498)
+Number of communities after edge removal: 13
+
+Iteration number: 1450
+Edge removed: (2510, 4632)
+Number of communities after edge removal: 13
+
+Iteration number: 1451
+Edge removed: (1005, 1509)
+Number of communities after edge removal: 13
+
+Iteration number: 1452
+Edge removed: (3056, 3584)
+Number of communities after edge removal: 13
+
+Iteration number: 1453
+Edge removed: (2001, 5274)
+Number of communities after edge removal: 13
+
+Iteration number: 1454
+Edge removed: (2376, 5580)
+Number of communities after edge removal: 13
+
+Iteration number: 1455
+Edge removed: (5127, 6272)
+Number of communities after edge removal: 13
+
+Iteration number: 1456
+Edge removed: (524, 3470)
+Number of communities after edge removal: 13
+
+Iteration number: 1457
+Edge removed: (524, 3279)
+Number of communities after edge removal: 13
+
+Iteration number: 1458
+Edge removed: (3103, 7001)
+Number of communities after edge removal: 13
+
+Iteration number: 1459
+Edge removed: (1677, 4931)
+Number of communities after edge removal: 13
+
+Iteration number: 1460
+Edge removed: (1509, 1677)
+Number of communities after edge removal: 13
+
+Iteration number: 1461
+Edge removed: (110, 1875)
+Number of communities after edge removal: 13
+
+Iteration number: 1462
+Edge removed: (6217, 6446)
+Number of communities after edge removal: 13
+
+Iteration number: 1463
+Edge removed: (5578, 6217)
+Number of communities after edge removal: 13
+
+Iteration number: 1464
+Edge removed: (6101, 6812)
+Number of communities after edge removal: 13
+
+Iteration number: 1465
+Edge removed: (524, 3647)
+Number of communities after edge removal: 13
+
+Iteration number: 1466
+Edge removed: (1149, 1677)
+Number of communities after edge removal: 13
+
+Iteration number: 1467
+Edge removed: (4230, 7100)
+Number of communities after edge removal: 13
+
+Iteration number: 1468
+Edge removed: (54, 2615)
+Number of communities after edge removal: 13
+
+Iteration number: 1469
+Edge removed: (110, 5242)
+Number of communities after edge removal: 13
+
+Iteration number: 1470
+Edge removed: (4811, 5557)
+Number of communities after edge removal: 13
+
+Iteration number: 1471
+Edge removed: (3450, 5441)
+Number of communities after edge removal: 13
+
+Iteration number: 1472
+Edge removed: (3530, 4892)
+Number of communities after edge removal: 13
+
+Iteration number: 1473
+Edge removed: (3530, 3771)
+Number of communities after edge removal: 13
+
+Iteration number: 1474
+Edge removed: (1384, 3530)
+Number of communities after edge removal: 13
+
+Iteration number: 1475
+Edge removed: (3530, 5706)
+Number of communities after edge removal: 13
+
+Iteration number: 1476
+Edge removed: (4152, 5274)
+Number of communities after edge removal: 13
+
+Iteration number: 1477
+Edge removed: (3530, 4085)
+Number of communities after edge removal: 13
+
+Iteration number: 1478
+Edge removed: (4790, 7199)
+Number of communities after edge removal: 13
+
+Iteration number: 1479
+Edge removed: (2081, 7188)
+Number of communities after edge removal: 13
+
+Iteration number: 1480
+Edge removed: (7106, 7188)
+Number of communities after edge removal: 13
+
+Iteration number: 1481
+Edge removed: (4790, 7424)
+Number of communities after edge removal: 14
+
+Modularity: 0.7861398865648854
+
+Iteration number: 1482
+Edge removed: (3991, 4811)
+Number of communities after edge removal: 14
+
+Iteration number: 1483
+Edge removed: (1956, 1958)
+Number of communities after edge removal: 14
+
+Iteration number: 1484
+Edge removed: (1312, 5127)
+Number of communities after edge removal: 14
+
+Iteration number: 1485
+Edge removed: (3666, 4811)
+Number of communities after edge removal: 14
+
+Iteration number: 1486
+Edge removed: (3888, 4811)
+Number of communities after edge removal: 14
+
+Iteration number: 1487
+Edge removed: (4811, 4864)
+Number of communities after edge removal: 14
+
+Iteration number: 1488
+Edge removed: (4257, 4811)
+Number of communities after edge removal: 14
+
+Iteration number: 1489
+Edge removed: (1677, 3336)
+Number of communities after edge removal: 14
+
+Iteration number: 1490
+Edge removed: (3039, 5127)
+Number of communities after edge removal: 14
+
+Iteration number: 1491
+Edge removed: (3039, 3450)
+Number of communities after edge removal: 14
+
+Iteration number: 1492
+Edge removed: (3450, 5394)
+Number of communities after edge removal: 14
+
+Iteration number: 1493
+Edge removed: (3450, 5706)
+Number of communities after edge removal: 14
+
+Iteration number: 1494
+Edge removed: (3450, 5646)
+Number of communities after edge removal: 14
+
+Iteration number: 1495
+Edge removed: (5578, 6818)
+Number of communities after edge removal: 14
+
+Iteration number: 1496
+Edge removed: (5578, 6092)
+Number of communities after edge removal: 14
+
+Iteration number: 1497
+Edge removed: (5463, 6217)
+Number of communities after edge removal: 14
+
+Iteration number: 1498
+Edge removed: (1875, 6001)
+Number of communities after edge removal: 14
+
+Iteration number: 1499
+Edge removed: (2492, 5578)
+Number of communities after edge removal: 14
+
+Iteration number: 1500
+Edge removed: (110, 4624)
+Number of communities after edge removal: 14
+
+Iteration number: 1501
+Edge removed: (3571, 7001)
+Number of communities after edge removal: 14
+
+Iteration number: 1502
+Edge removed: (1933, 3571)
+Number of communities after edge removal: 14
+
+Iteration number: 1503
+Edge removed: (5578, 6810)
+Number of communities after edge removal: 14
+
+Iteration number: 1504
+Edge removed: (418, 1956)
+Number of communities after edge removal: 14
+
+Iteration number: 1505
+Edge removed: (550, 1933)
+Number of communities after edge removal: 14
+
+Iteration number: 1506
+Edge removed: (5578, 5683)
+Number of communities after edge removal: 14
+
+Iteration number: 1507
+Edge removed: (6818, 7416)
+Number of communities after edge removal: 14
+
+Iteration number: 1508
+Edge removed: (110, 3024)
+Number of communities after edge removal: 14
+
+Iteration number: 1509
+Edge removed: (985, 2615)
+Number of communities after edge removal: 14
+
+Iteration number: 1510
+Edge removed: (1937, 7199)
+Number of communities after edge removal: 14
+
+Iteration number: 1511
+Edge removed: (1222, 2001)
+Number of communities after edge removal: 14
+
+Iteration number: 1512
+Edge removed: (1222, 5158)
+Number of communities after edge removal: 14
+
+Iteration number: 1513
+Edge removed: (2475, 3039)
+Number of communities after edge removal: 14
+
+Iteration number: 1514
+Edge removed: (1, 1222)
+Number of communities after edge removal: 14
+
+Iteration number: 1515
+Edge removed: (122, 4426)
+Number of communities after edge removal: 14
+
+Iteration number: 1516
+Edge removed: (1849, 5680)
+Number of communities after edge removal: 14
+
+Iteration number: 1517
+Edge removed: (2705, 3873)
+Number of communities after edge removal: 14
+
+Iteration number: 1518
+Edge removed: (2140, 4194)
+Number of communities after edge removal: 14
+
+Iteration number: 1519
+Edge removed: (3642, 5341)
+Number of communities after edge removal: 14
+
+Iteration number: 1520
+Edge removed: (424, 2439)
+Number of communities after edge removal: 15
+
+Modularity: 0.7863435975977845
+
+Iteration number: 1521
+Edge removed: (3550, 7416)
+Number of communities after edge removal: 15
+
+Iteration number: 1522
+Edge removed: (421, 3651)
+Number of communities after edge removal: 15
+
+Iteration number: 1523
+Edge removed: (1452, 5578)
+Number of communities after edge removal: 15
+
+Iteration number: 1524
+Edge removed: (2850, 5578)
+Number of communities after edge removal: 15
+
+Iteration number: 1525
+Edge removed: (543, 5758)
+Number of communities after edge removal: 15
+
+Iteration number: 1526
+Edge removed: (543, 6720)
+Number of communities after edge removal: 15
+
+Iteration number: 1527
+Edge removed: (1488, 3584)
+Number of communities after edge removal: 15
+
+Iteration number: 1528
+Edge removed: (3584, 5643)
+Number of communities after edge removal: 15
+
+Iteration number: 1529
+Edge removed: (361, 3584)
+Number of communities after edge removal: 15
+
+Iteration number: 1530
+Edge removed: (4356, 4888)
+Number of communities after edge removal: 15
+
+Iteration number: 1531
+Edge removed: (543, 5346)
+Number of communities after edge removal: 15
+
+Iteration number: 1532
+Edge removed: (810, 7346)
+Number of communities after edge removal: 15
+
+Iteration number: 1533
+Edge removed: (2711, 2850)
+Number of communities after edge removal: 15
+
+Iteration number: 1534
+Edge removed: (3584, 7060)
+Number of communities after edge removal: 15
+
+Iteration number: 1535
+Edge removed: (4423, 5095)
+Number of communities after edge removal: 15
+
+Iteration number: 1536
+Edge removed: (2730, 4356)
+Number of communities after edge removal: 15
+
+Iteration number: 1537
+Edge removed: (4356, 5318)
+Number of communities after edge removal: 15
+
+Iteration number: 1538
+Edge removed: (2711, 2976)
+Number of communities after edge removal: 15
+
+Iteration number: 1539
+Edge removed: (2499, 3584)
+Number of communities after edge removal: 15
+
+Iteration number: 1540
+Edge removed: (3584, 4875)
+Number of communities after edge removal: 15
+
+Iteration number: 1541
+Edge removed: (1055, 2730)
+Number of communities after edge removal: 15
+
+Iteration number: 1542
+Edge removed: (2401, 6440)
+Number of communities after edge removal: 15
+
+Iteration number: 1543
+Edge removed: (2850, 6731)
+Number of communities after edge removal: 15
+
+Iteration number: 1544
+Edge removed: (2741, 4356)
+Number of communities after edge removal: 15
+
+Iteration number: 1545
+Edge removed: (3115, 4356)
+Number of communities after edge removal: 15
+
+Iteration number: 1546
+Edge removed: (1452, 2711)
+Number of communities after edge removal: 15
+
+Iteration number: 1547
+Edge removed: (2711, 2917)
+Number of communities after edge removal: 15
+
+Iteration number: 1548
+Edge removed: (2674, 2962)
+Number of communities after edge removal: 15
+
+Iteration number: 1549
+Edge removed: (2730, 3550)
+Number of communities after edge removal: 15
+
+Iteration number: 1550
+Edge removed: (1439, 4591)
+Number of communities after edge removal: 15
+
+Iteration number: 1551
+Edge removed: (837, 1942)
+Number of communities after edge removal: 15
+
+Iteration number: 1552
+Edge removed: (1452, 6731)
+Number of communities after edge removal: 16
+
+Modularity: 0.790748897185625
+
+Iteration number: 1553
+Edge removed: (3530, 4254)
+Number of communities after edge removal: 16
+
+Iteration number: 1554
+Edge removed: (1376, 3450)
+Number of communities after edge removal: 16
+
+Iteration number: 1555
+Edge removed: (131, 6716)
+Number of communities after edge removal: 16
+
+Iteration number: 1556
+Edge removed: (5514, 6101)
+Number of communities after edge removal: 16
+
+Iteration number: 1557
+Edge removed: (1506, 2019)
+Number of communities after edge removal: 16
+
+Iteration number: 1558
+Edge removed: (938, 2019)
+Number of communities after edge removal: 17
+
+Modularity: 0.7908541400395085
+
+Iteration number: 1559
+Edge removed: (5047, 5463)
+Number of communities after edge removal: 17
+
+Iteration number: 1560
+Edge removed: (2995, 6272)
+Number of communities after edge removal: 17
+
+Iteration number: 1561
+Edge removed: (711, 6272)
+Number of communities after edge removal: 17
+
+Iteration number: 1562
+Edge removed: (109, 3039)
+Number of communities after edge removal: 17
+
+Iteration number: 1563
+Edge removed: (421, 916)
+Number of communities after edge removal: 17
+
+Iteration number: 1564
+Edge removed: (3317, 6241)
+Number of communities after edge removal: 17
+
+Iteration number: 1565
+Edge removed: (5287, 5949)
+Number of communities after edge removal: 17
+
+Iteration number: 1566
+Edge removed: (5394, 5476)
+Number of communities after edge removal: 17
+
+Iteration number: 1567
+Edge removed: (3309, 6262)
+Number of communities after edge removal: 17
+
+Iteration number: 1568
+Edge removed: (916, 5949)
+Number of communities after edge removal: 17
+
+Iteration number: 1569
+Edge removed: (260, 5680)
+Number of communities after edge removal: 17
+
+Iteration number: 1570
+Edge removed: (2001, 5287)
+Number of communities after edge removal: 17
+
+Iteration number: 1571
+Edge removed: (5844, 6506)
+Number of communities after edge removal: 17
+
+Iteration number: 1572
+Edge removed: (5394, 7412)
+Number of communities after edge removal: 17
+
+Iteration number: 1573
+Edge removed: (5394, 7483)
+Number of communities after edge removal: 17
+
+Iteration number: 1574
+Edge removed: (6127, 6241)
+Number of communities after edge removal: 17
+
+Iteration number: 1575
+Edge removed: (2705, 6481)
+Number of communities after edge removal: 17
+
+Iteration number: 1576
+Edge removed: (3880, 3966)
+Number of communities after edge removal: 17
+
+Iteration number: 1577
+Edge removed: (5844, 7308)
+Number of communities after edge removal: 17
+
+Iteration number: 1578
+Edge removed: (4157, 5127)
+Number of communities after edge removal: 17
+
+Iteration number: 1579
+Edge removed: (7030, 7078)
+Number of communities after edge removal: 17
+
+Iteration number: 1580
+Edge removed: (4962, 5754)
+Number of communities after edge removal: 17
+
+Iteration number: 1581
+Edge removed: (2001, 4847)
+Number of communities after edge removal: 17
+
+Iteration number: 1582
+Edge removed: (1095, 1376)
+Number of communities after edge removal: 17
+
+Iteration number: 1583
+Edge removed: (122, 5835)
+Number of communities after edge removal: 17
+
+Iteration number: 1584
+Edge removed: (2386, 3317)
+Number of communities after edge removal: 17
+
+Iteration number: 1585
+Edge removed: (671, 3585)
+Number of communities after edge removal: 17
+
+Iteration number: 1586
+Edge removed: (5754, 6127)
+Number of communities after edge removal: 17
+
+Iteration number: 1587
+Edge removed: (3803, 7030)
+Number of communities after edge removal: 17
+
+Iteration number: 1588
+Edge removed: (634, 7502)
+Number of communities after edge removal: 17
+
+Iteration number: 1589
+Edge removed: (5126, 5680)
+Number of communities after edge removal: 17
+
+Iteration number: 1590
+Edge removed: (4963, 5680)
+Number of communities after edge removal: 17
+
+Iteration number: 1591
+Edge removed: (5230, 7280)
+Number of communities after edge removal: 17
+
+Iteration number: 1592
+Edge removed: (4419, 4602)
+Number of communities after edge removal: 17
+
+Iteration number: 1593
+Edge removed: (4602, 5249)
+Number of communities after edge removal: 17
+
+Iteration number: 1594
+Edge removed: (3574, 7078)
+Number of communities after edge removal: 17
+
+Iteration number: 1595
+Edge removed: (1193, 2514)
+Number of communities after edge removal: 17
+
+Iteration number: 1596
+Edge removed: (3379, 7146)
+Number of communities after edge removal: 17
+
+Iteration number: 1597
+Edge removed: (4892, 6647)
+Number of communities after edge removal: 17
+
+Iteration number: 1598
+Edge removed: (217, 5547)
+Number of communities after edge removal: 17
+
+Iteration number: 1599
+Edge removed: (3260, 6493)
+Number of communities after edge removal: 17
+
+Iteration number: 1600
+Edge removed: (483, 4811)
+Number of communities after edge removal: 17
+
+Iteration number: 1601
+Edge removed: (4684, 6163)
+Number of communities after edge removal: 17
+
+Iteration number: 1602
+Edge removed: (4004, 4868)
+Number of communities after edge removal: 17
+
+Iteration number: 1603
+Edge removed: (6549, 7432)
+Number of communities after edge removal: 17
+
+Iteration number: 1604
+Edge removed: (5521, 5833)
+Number of communities after edge removal: 17
+
+Iteration number: 1605
+Edge removed: (2562, 3966)
+Number of communities after edge removal: 17
+
+Iteration number: 1606
+Edge removed: (1238, 4914)
+Number of communities after edge removal: 17
+
+Iteration number: 1607
+Edge removed: (873, 3803)
+Number of communities after edge removal: 17
+
+Iteration number: 1608
+Edge removed: (1767, 3064)
+Number of communities after edge removal: 17
+
+Iteration number: 1609
+Edge removed: (2477, 6549)
+Number of communities after edge removal: 17
+
+Iteration number: 1610
+Edge removed: (531, 2439)
+Number of communities after edge removal: 18
+
+Modularity: 0.7937899540589094
+
+Iteration number: 1611
+Edge removed: (3400, 4785)
+Number of communities after edge removal: 18
+
+Iteration number: 1612
+Edge removed: (1271, 4785)
+Number of communities after edge removal: 18
+
+Iteration number: 1613
+Edge removed: (4785, 7224)
+Number of communities after edge removal: 18
+
+Iteration number: 1614
+Edge removed: (3571, 7199)
+Number of communities after edge removal: 18
+
+Iteration number: 1615
+Edge removed: (4248, 6001)
+Number of communities after edge removal: 18
+
+Iteration number: 1616
+Edge removed: (314, 2790)
+Number of communities after edge removal: 18
+
+Iteration number: 1617
+Edge removed: (3350, 6546)
+Number of communities after edge removal: 18
+
+Iteration number: 1618
+Edge removed: (524, 2885)
+Number of communities after edge removal: 18
+
+Iteration number: 1619
+Edge removed: (1685, 7001)
+Number of communities after edge removal: 18
+
+Iteration number: 1620
+Edge removed: (3389, 7001)
+Number of communities after edge removal: 18
+
+Iteration number: 1621
+Edge removed: (6812, 7225)
+Number of communities after edge removal: 18
+
+Iteration number: 1622
+Edge removed: (1830, 4666)
+Number of communities after edge removal: 18
+
+Iteration number: 1623
+Edge removed: (766, 7199)
+Number of communities after edge removal: 18
+
+Iteration number: 1624
+Edge removed: (2422, 7199)
+Number of communities after edge removal: 18
+
+Iteration number: 1625
+Edge removed: (1464, 1506)
+Number of communities after edge removal: 18
+
+Iteration number: 1626
+Edge removed: (1464, 3565)
+Number of communities after edge removal: 18
+
+Iteration number: 1627
+Edge removed: (6785, 7225)
+Number of communities after edge removal: 18
+
+Iteration number: 1628
+Edge removed: (1933, 4572)
+Number of communities after edge removal: 18
+
+Iteration number: 1629
+Edge removed: (2037, 3324)
+Number of communities after edge removal: 18
+
+Iteration number: 1630
+Edge removed: (6217, 6273)
+Number of communities after edge removal: 18
+
+Iteration number: 1631
+Edge removed: (1509, 7476)
+Number of communities after edge removal: 18
+
+Iteration number: 1632
+Edge removed: (866, 7383)
+Number of communities after edge removal: 18
+
+Iteration number: 1633
+Edge removed: (2889, 7001)
+Number of communities after edge removal: 18
+
+Iteration number: 1634
+Edge removed: (3502, 7565)
+Number of communities after edge removal: 18
+
+Iteration number: 1635
+Edge removed: (2835, 5848)
+Number of communities after edge removal: 18
+
+Iteration number: 1636
+Edge removed: (1794, 2889)
+Number of communities after edge removal: 18
+
+Iteration number: 1637
+Edge removed: (1509, 1627)
+Number of communities after edge removal: 18
+
+Iteration number: 1638
+Edge removed: (4947, 7001)
+Number of communities after edge removal: 18
+
+Iteration number: 1639
+Edge removed: (1509, 6882)
+Number of communities after edge removal: 18
+
+Iteration number: 1640
+Edge removed: (4259, 6323)
+Number of communities after edge removal: 18
+
+Iteration number: 1641
+Edge removed: (3647, 4899)
+Number of communities after edge removal: 18
+
+Iteration number: 1642
+Edge removed: (2982, 3647)
+Number of communities after edge removal: 18
+
+Iteration number: 1643
+Edge removed: (85, 6126)
+Number of communities after edge removal: 18
+
+Iteration number: 1644
+Edge removed: (2356, 7001)
+Number of communities after edge removal: 18
+
+Iteration number: 1645
+Edge removed: (866, 4455)
+Number of communities after edge removal: 18
+
+Iteration number: 1646
+Edge removed: (3390, 5443)
+Number of communities after edge removal: 18
+
+Iteration number: 1647
+Edge removed: (3080, 4432)
+Number of communities after edge removal: 18
+
+Iteration number: 1648
+Edge removed: (1933, 4455)
+Number of communities after edge removal: 18
+
+Iteration number: 1649
+Edge removed: (4356, 6524)
+Number of communities after edge removal: 18
+
+Iteration number: 1650
+Edge removed: (2085, 3324)
+Number of communities after edge removal: 18
+
+Iteration number: 1651
+Edge removed: (3647, 6380)
+Number of communities after edge removal: 18
+
+Iteration number: 1652
+Edge removed: (3399, 6175)
+Number of communities after edge removal: 18
+
+Iteration number: 1653
+Edge removed: (4455, 5047)
+Number of communities after edge removal: 18
+
+Iteration number: 1654
+Edge removed: (5455, 6074)
+Number of communities after edge removal: 18
+
+Iteration number: 1655
+Edge removed: (4780, 7452)
+Number of communities after edge removal: 18
+
+Iteration number: 1656
+Edge removed: (599, 5643)
+Number of communities after edge removal: 18
+
+Iteration number: 1657
+Edge removed: (1902, 4931)
+Number of communities after edge removal: 18
+
+Iteration number: 1658
+Edge removed: (1776, 4455)
+Number of communities after edge removal: 18
+
+Iteration number: 1659
+Edge removed: (1958, 3678)
+Number of communities after edge removal: 18
+
+Iteration number: 1660
+Edge removed: (1850, 5383)
+Number of communities after edge removal: 18
+
+Iteration number: 1661
+Edge removed: (3559, 5514)
+Number of communities after edge removal: 18
+
+Iteration number: 1662
+Edge removed: (524, 4031)
+Number of communities after edge removal: 18
+
+Iteration number: 1663
+Edge removed: (524, 640)
+Number of communities after edge removal: 18
+
+Iteration number: 1664
+Edge removed: (5466, 5795)
+Number of communities after edge removal: 18
+
+Iteration number: 1665
+Edge removed: (524, 5047)
+Number of communities after edge removal: 18
+
+Iteration number: 1666
+Edge removed: (1510, 4396)
+Number of communities after edge removal: 18
+
+Iteration number: 1667
+Edge removed: (1933, 3672)
+Number of communities after edge removal: 18
+
+Iteration number: 1668
+Edge removed: (2085, 6252)
+Number of communities after edge removal: 18
+
+Iteration number: 1669
+Edge removed: (524, 4305)
+Number of communities after edge removal: 18
+
+Iteration number: 1670
+Edge removed: (5110, 7141)
+Number of communities after edge removal: 18
+
+Iteration number: 1671
+Edge removed: (1016, 7199)
+Number of communities after edge removal: 18
+
+Iteration number: 1672
+Edge removed: (985, 7199)
+Number of communities after edge removal: 18
+
+Iteration number: 1673
+Edge removed: (2617, 5653)
+Number of communities after edge removal: 18
+
+Iteration number: 1674
+Edge removed: (4455, 7406)
+Number of communities after edge removal: 18
+
+Iteration number: 1675
+Edge removed: (3811, 4356)
+Number of communities after edge removal: 18
+
+Iteration number: 1676
+Edge removed: (1011, 4356)
+Number of communities after edge removal: 18
+
+Iteration number: 1677
+Edge removed: (3559, 7029)
+Number of communities after edge removal: 18
+
+Iteration number: 1678
+Edge removed: (1447, 4432)
+Number of communities after edge removal: 18
+
+Iteration number: 1679
+Edge removed: (2015, 4432)
+Number of communities after edge removal: 18
+
+Iteration number: 1680
+Edge removed: (640, 4131)
+Number of communities after edge removal: 18
+
+Iteration number: 1681
+Edge removed: (4460, 5047)
+Number of communities after edge removal: 18
+
+Iteration number: 1682
+Edge removed: (866, 1902)
+Number of communities after edge removal: 18
+
+Iteration number: 1683
+Edge removed: (4356, 7219)
+Number of communities after edge removal: 18
+
+Iteration number: 1684
+Edge removed: (2615, 5478)
+Number of communities after edge removal: 18
+
+Iteration number: 1685
+Edge removed: (640, 5848)
+Number of communities after edge removal: 18
+
+Iteration number: 1686
+Edge removed: (1509, 5643)
+Number of communities after edge removal: 18
+
+Iteration number: 1687
+Edge removed: (1933, 6074)
+Number of communities after edge removal: 18
+
+Iteration number: 1688
+Edge removed: (1902, 1933)
+Number of communities after edge removal: 18
+
+Iteration number: 1689
+Edge removed: (524, 3399)
+Number of communities after edge removal: 18
+
+Iteration number: 1690
+Edge removed: (524, 1776)
+Number of communities after edge removal: 18
+
+Iteration number: 1691
+Edge removed: (524, 2970)
+Number of communities after edge removal: 18
+
+Iteration number: 1692
+Edge removed: (1029, 1506)
+Number of communities after edge removal: 18
+
+Iteration number: 1693
+Edge removed: (970, 5795)
+Number of communities after edge removal: 18
+
+Iteration number: 1694
+Edge removed: (1850, 4031)
+Number of communities after edge removal: 18
+
+Iteration number: 1695
+Edge removed: (4869, 6565)
+Number of communities after edge removal: 18
+
+Iteration number: 1696
+Edge removed: (2159, 3502)
+Number of communities after edge removal: 18
+
+Iteration number: 1697
+Edge removed: (5732, 6298)
+Number of communities after edge removal: 18
+
+Iteration number: 1698
+Edge removed: (187, 1468)
+Number of communities after edge removal: 18
+
+Iteration number: 1699
+Edge removed: (3399, 6074)
+Number of communities after edge removal: 18
+
+Iteration number: 1700
+Edge removed: (4723, 7565)
+Number of communities after edge removal: 18
+
+Iteration number: 1701
+Edge removed: (5047, 5449)
+Number of communities after edge removal: 18
+
+Iteration number: 1702
+Edge removed: (6252, 7106)
+Number of communities after edge removal: 18
+
+Iteration number: 1703
+Edge removed: (2422, 5400)
+Number of communities after edge removal: 18
+
+Iteration number: 1704
+Edge removed: (4356, 4423)
+Number of communities after edge removal: 18
+
+Iteration number: 1705
+Edge removed: (3399, 3678)
+Number of communities after edge removal: 18
+
+Iteration number: 1706
+Edge removed: (1902, 3399)
+Number of communities after edge removal: 18
+
+Iteration number: 1707
+Edge removed: (1699, 1902)
+Number of communities after edge removal: 18
+
+Iteration number: 1708
+Edge removed: (2401, 5047)
+Number of communities after edge removal: 18
+
+Iteration number: 1709
+Edge removed: (5047, 6047)
+Number of communities after edge removal: 18
+
+Iteration number: 1710
+Edge removed: (5047, 6074)
+Number of communities after edge removal: 18
+
+Iteration number: 1711
+Edge removed: (1902, 5047)
+Number of communities after edge removal: 18
+
+Iteration number: 1712
+Edge removed: (640, 1937)
+Number of communities after edge removal: 18
+
+Iteration number: 1713
+Edge removed: (3399, 6842)
+Number of communities after edge removal: 18
+
+Iteration number: 1714
+Edge removed: (1468, 4455)
+Number of communities after edge removal: 18
+
+Iteration number: 1715
+Edge removed: (1902, 5683)
+Number of communities after edge removal: 18
+
+Iteration number: 1716
+Edge removed: (1902, 7406)
+Number of communities after edge removal: 18
+
+Iteration number: 1717
+Edge removed: (640, 1902)
+Number of communities after edge removal: 18
+
+Iteration number: 1718
+Edge removed: (1776, 1902)
+Number of communities after edge removal: 18
+
+Iteration number: 1719
+Edge removed: (3877, 4180)
+Number of communities after edge removal: 18
+
+Iteration number: 1720
+Edge removed: (640, 6074)
+Number of communities after edge removal: 18
+
+Iteration number: 1721
+Edge removed: (640, 6047)
+Number of communities after edge removal: 18
+
+Iteration number: 1722
+Edge removed: (640, 3678)
+Number of communities after edge removal: 18
+
+Iteration number: 1723
+Edge removed: (1776, 6074)
+Number of communities after edge removal: 18
+
+Iteration number: 1724
+Edge removed: (1776, 6047)
+Number of communities after edge removal: 18
+
+Iteration number: 1725
+Edge removed: (2889, 6772)
+Number of communities after edge removal: 18
+
+Iteration number: 1726
+Edge removed: (2183, 4723)
+Number of communities after edge removal: 18
+
+Iteration number: 1727
+Edge removed: (2265, 4521)
+Number of communities after edge removal: 18
+
+Iteration number: 1728
+Edge removed: (999, 1468)
+Number of communities after edge removal: 18
+
+Iteration number: 1729
+Edge removed: (6047, 6249)
+Number of communities after edge removal: 18
+
+Iteration number: 1730
+Edge removed: (3678, 6249)
+Number of communities after edge removal: 18
+
+Iteration number: 1731
+Edge removed: (1468, 7476)
+Number of communities after edge removal: 18
+
+Iteration number: 1732
+Edge removed: (572, 7199)
+Number of communities after edge removal: 18
+
+Iteration number: 1733
+Edge removed: (2561, 6001)
+Number of communities after edge removal: 18
+
+Iteration number: 1734
+Edge removed: (1509, 4259)
+Number of communities after edge removal: 18
+
+Iteration number: 1735
+Edge removed: (1929, 7106)
+Number of communities after edge removal: 18
+
+Iteration number: 1736
+Edge removed: (2615, 4156)
+Number of communities after edge removal: 18
+
+Iteration number: 1737
+Edge removed: (5745, 6249)
+Number of communities after edge removal: 18
+
+Iteration number: 1738
+Edge removed: (1468, 6074)
+Number of communities after edge removal: 18
+
+Iteration number: 1739
+Edge removed: (1468, 6047)
+Number of communities after edge removal: 18
+
+Iteration number: 1740
+Edge removed: (1468, 3678)
+Number of communities after edge removal: 18
+
+Iteration number: 1741
+Edge removed: (5047, 5686)
+Number of communities after edge removal: 18
+
+Iteration number: 1742
+Edge removed: (5544, 6174)
+Number of communities after edge removal: 18
+
+Iteration number: 1743
+Edge removed: (4480, 4988)
+Number of communities after edge removal: 18
+
+Iteration number: 1744
+Edge removed: (283, 7155)
+Number of communities after edge removal: 18
+
+Iteration number: 1745
+Edge removed: (5642, 5972)
+Number of communities after edge removal: 18
+
+Iteration number: 1746
+Edge removed: (2122, 6052)
+Number of communities after edge removal: 18
+
+Iteration number: 1747
+Edge removed: (2389, 7199)
+Number of communities after edge removal: 18
+
+Iteration number: 1748
+Edge removed: (1029, 6252)
+Number of communities after edge removal: 18
+
+Iteration number: 1749
+Edge removed: (1055, 4356)
+Number of communities after edge removal: 18
+
+Iteration number: 1750
+Edge removed: (988, 4356)
+Number of communities after edge removal: 18
+
+Iteration number: 1751
+Edge removed: (5643, 6866)
+Number of communities after edge removal: 18
+
+Iteration number: 1752
+Edge removed: (4031, 7106)
+Number of communities after edge removal: 18
+
+Iteration number: 1753
+Edge removed: (6752, 7512)
+Number of communities after edge removal: 18
+
+Iteration number: 1754
+Edge removed: (5110, 6274)
+Number of communities after edge removal: 18
+
+Iteration number: 1755
+Edge removed: (2267, 4617)
+Number of communities after edge removal: 18
+
+Iteration number: 1756
+Edge removed: (85, 7001)
+Number of communities after edge removal: 18
+
+Iteration number: 1757
+Edge removed: (2587, 2615)
+Number of communities after edge removal: 18
+
+Iteration number: 1758
+Edge removed: (85, 4899)
+Number of communities after edge removal: 18
+
+Iteration number: 1759
+Edge removed: (2709, 5643)
+Number of communities after edge removal: 18
+
+Iteration number: 1760
+Edge removed: (4259, 5391)
+Number of communities after edge removal: 18
+
+Iteration number: 1761
+Edge removed: (673, 2267)
+Number of communities after edge removal: 18
+
+Iteration number: 1762
+Edge removed: (1055, 6159)
+Number of communities after edge removal: 18
+
+Iteration number: 1763
+Edge removed: (5390, 7243)
+Number of communities after edge removal: 18
+
+Iteration number: 1764
+Edge removed: (5267, 5723)
+Number of communities after edge removal: 18
+
+Iteration number: 1765
+Edge removed: (6320, 7411)
+Number of communities after edge removal: 19
+
+Modularity: 0.8091291630642201
+
+Iteration number: 1766
+Edge removed: (2510, 4844)
+Number of communities after edge removal: 19
+
+Iteration number: 1767
+Edge removed: (3530, 3751)
+Number of communities after edge removal: 19
+
+Iteration number: 1768
+Edge removed: (3530, 3737)
+Number of communities after edge removal: 19
+
+Iteration number: 1769
+Edge removed: (1312, 5274)
+Number of communities after edge removal: 19
+
+Iteration number: 1770
+Edge removed: (3418, 3530)
+Number of communities after edge removal: 19
+
+Iteration number: 1771
+Edge removed: (3530, 6946)
+Number of communities after edge removal: 19
+
+Iteration number: 1772
+Edge removed: (3530, 5274)
+Number of communities after edge removal: 19
+
+Iteration number: 1773
+Edge removed: (6101, 7100)
+Number of communities after edge removal: 19
+
+Iteration number: 1774
+Edge removed: (2473, 3450)
+Number of communities after edge removal: 19
+
+Iteration number: 1775
+Edge removed: (2844, 4811)
+Number of communities after edge removal: 19
+
+Iteration number: 1776
+Edge removed: (933, 3530)
+Number of communities after edge removal: 19
+
+Iteration number: 1777
+Edge removed: (933, 5127)
+Number of communities after edge removal: 19
+
+Iteration number: 1778
+Edge removed: (1856, 4811)
+Number of communities after edge removal: 19
+
+Iteration number: 1779
+Edge removed: (3039, 5274)
+Number of communities after edge removal: 19
+
+Iteration number: 1780
+Edge removed: (54, 1464)
+Number of communities after edge removal: 19
+
+Iteration number: 1781
+Edge removed: (3038, 5159)
+Number of communities after edge removal: 19
+
+Iteration number: 1782
+Edge removed: (3751, 5127)
+Number of communities after edge removal: 19
+
+Iteration number: 1783
+Edge removed: (1665, 4785)
+Number of communities after edge removal: 19
+
+Iteration number: 1784
+Edge removed: (881, 1677)
+Number of communities after edge removal: 19
+
+Iteration number: 1785
+Edge removed: (6200, 6252)
+Number of communities after edge removal: 19
+
+Iteration number: 1786
+Edge removed: (2626, 6252)
+Number of communities after edge removal: 19
+
+Iteration number: 1787
+Edge removed: (3530, 3589)
+Number of communities after edge removal: 19
+
+Iteration number: 1788
+Edge removed: (1265, 1795)
+Number of communities after edge removal: 19
+
+Iteration number: 1789
+Edge removed: (1376, 3073)
+Number of communities after edge removal: 19
+
+Iteration number: 1790
+Edge removed: (2707, 5461)
+Number of communities after edge removal: 19
+
+Iteration number: 1791
+Edge removed: (6630, 7225)
+Number of communities after edge removal: 19
+
+Iteration number: 1792
+Edge removed: (4408, 6101)
+Number of communities after edge removal: 19
+
+Iteration number: 1793
+Edge removed: (4408, 7100)
+Number of communities after edge removal: 19
+
+Iteration number: 1794
+Edge removed: (85, 5753)
+Number of communities after edge removal: 19
+
+Iteration number: 1795
+Edge removed: (2809, 4408)
+Number of communities after edge removal: 20
+
+Modularity: 0.8091740359082806
+
+Iteration number: 1796
+Edge removed: (2914, 4811)
+Number of communities after edge removal: 20
+
+Iteration number: 1797
+Edge removed: (1329, 4811)
+Number of communities after edge removal: 20
+
+Iteration number: 1798
+Edge removed: (4464, 4844)
+Number of communities after edge removal: 21
+
+Modularity: 0.8092094095924398
+
+Iteration number: 1799
+Edge removed: (4152, 4811)
+Number of communities after edge removal: 21
+
+Iteration number: 1800
+Edge removed: (166, 7024)
+Number of communities after edge removal: 21
+
+Iteration number: 1801
+Edge removed: (3470, 6101)
+Number of communities after edge removal: 21
+
+Iteration number: 1802
+Edge removed: (3103, 7100)
+Number of communities after edge removal: 21
+
+Iteration number: 1803
+Edge removed: (1799, 7098)
+Number of communities after edge removal: 21
+
+Iteration number: 1804
+Edge removed: (1799, 4023)
+Number of communities after edge removal: 21
+
+Iteration number: 1805
+Edge removed: (379, 3530)
+Number of communities after edge removal: 21
+
+Iteration number: 1806
+Edge removed: (221, 379)
+Number of communities after edge removal: 22
+
+Modularity: 0.8092251162842289
+
+Iteration number: 1807
+Edge removed: (5127, 6946)
+Number of communities after edge removal: 22
+
+Iteration number: 1808
+Edge removed: (3450, 5274)
+Number of communities after edge removal: 22
+
+Iteration number: 1809
+Edge removed: (700, 3827)
+Number of communities after edge removal: 23
+
+Modularity: 0.8092497698667003
+
+Iteration number: 1810
+Edge removed: (4393, 6316)
+Number of communities after edge removal: 23
+
+Iteration number: 1811
+Edge removed: (3945, 6316)
+Number of communities after edge removal: 23
+
+Iteration number: 1812
+Edge removed: (3107, 6432)
+Number of communities after edge removal: 24
+
+Modularity: 0.809282777329464
+
+Iteration number: 1813
+Edge removed: (1376, 5274)
+Number of communities after edge removal: 24
+
+Iteration number: 1814
+Edge removed: (3418, 5294)
+Number of communities after edge removal: 24
+
+Iteration number: 1815
+Edge removed: (2759, 4000)
+Number of communities after edge removal: 24
+
+Iteration number: 1816
+Edge removed: (3873, 7032)
+Number of communities after edge removal: 24
+
+Iteration number: 1817
+Edge removed: (3360, 6519)
+Number of communities after edge removal: 24
+
+Iteration number: 1818
+Edge removed: (4561, 4785)
+Number of communities after edge removal: 24
+
+Iteration number: 1819
+Edge removed: (3453, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1820
+Edge removed: (1312, 7595)
+Number of communities after edge removal: 24
+
+Iteration number: 1821
+Edge removed: (5274, 6946)
+Number of communities after edge removal: 24
+
+Iteration number: 1822
+Edge removed: (2994, 6946)
+Number of communities after edge removal: 24
+
+Iteration number: 1823
+Edge removed: (1698, 4257)
+Number of communities after edge removal: 24
+
+Iteration number: 1824
+Edge removed: (4811, 5868)
+Number of communities after edge removal: 24
+
+Iteration number: 1825
+Edge removed: (4811, 5422)
+Number of communities after edge removal: 24
+
+Iteration number: 1826
+Edge removed: (4811, 4892)
+Number of communities after edge removal: 24
+
+Iteration number: 1827
+Edge removed: (4811, 5194)
+Number of communities after edge removal: 24
+
+Iteration number: 1828
+Edge removed: (4735, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1829
+Edge removed: (4811, 5914)
+Number of communities after edge removal: 24
+
+Iteration number: 1830
+Edge removed: (2376, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1831
+Edge removed: (848, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1832
+Edge removed: (2297, 2583)
+Number of communities after edge removal: 24
+
+Iteration number: 1833
+Edge removed: (2171, 3039)
+Number of communities after edge removal: 24
+
+Iteration number: 1834
+Edge removed: (3380, 3751)
+Number of communities after edge removal: 24
+
+Iteration number: 1835
+Edge removed: (4221, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1836
+Edge removed: (3241, 7332)
+Number of communities after edge removal: 24
+
+Iteration number: 1837
+Edge removed: (942, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1838
+Edge removed: (5127, 6463)
+Number of communities after edge removal: 24
+
+Iteration number: 1839
+Edge removed: (4811, 5441)
+Number of communities after edge removal: 24
+
+Iteration number: 1840
+Edge removed: (3610, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1841
+Edge removed: (4811, 6966)
+Number of communities after edge removal: 24
+
+Iteration number: 1842
+Edge removed: (1168, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1843
+Edge removed: (1404, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1844
+Edge removed: (4811, 6576)
+Number of communities after edge removal: 24
+
+Iteration number: 1845
+Edge removed: (1312, 1818)
+Number of communities after edge removal: 24
+
+Iteration number: 1846
+Edge removed: (1062, 2926)
+Number of communities after edge removal: 24
+
+Iteration number: 1847
+Edge removed: (4811, 6368)
+Number of communities after edge removal: 24
+
+Iteration number: 1848
+Edge removed: (3357, 6463)
+Number of communities after edge removal: 24
+
+Iteration number: 1849
+Edge removed: (4811, 5631)
+Number of communities after edge removal: 24
+
+Iteration number: 1850
+Edge removed: (3073, 6177)
+Number of communities after edge removal: 24
+
+Iteration number: 1851
+Edge removed: (2589, 3758)
+Number of communities after edge removal: 24
+
+Iteration number: 1852
+Edge removed: (1376, 6676)
+Number of communities after edge removal: 24
+
+Iteration number: 1853
+Edge removed: (2914, 7378)
+Number of communities after edge removal: 24
+
+Iteration number: 1854
+Edge removed: (5273, 6258)
+Number of communities after edge removal: 24
+
+Iteration number: 1855
+Edge removed: (3530, 7413)
+Number of communities after edge removal: 24
+
+Iteration number: 1856
+Edge removed: (4659, 4811)
+Number of communities after edge removal: 24
+
+Iteration number: 1857
+Edge removed: (3800, 6816)
+Number of communities after edge removal: 24
+
+Iteration number: 1858
+Edge removed: (2463, 3737)
+Number of communities after edge removal: 24
+
+Iteration number: 1859
+Edge removed: (2539, 3610)
+Number of communities after edge removal: 24
+
+Iteration number: 1860
+Edge removed: (5406, 6286)
+Number of communities after edge removal: 24
+
+Iteration number: 1861
+Edge removed: (3762, 4221)
+Number of communities after edge removal: 24
+
+Iteration number: 1862
+Edge removed: (1576, 2171)
+Number of communities after edge removal: 24
+
+Iteration number: 1863
+Edge removed: (2022, 6617)
+Number of communities after edge removal: 24
+
+Iteration number: 1864
+Edge removed: (2196, 3425)
+Number of communities after edge removal: 24
+
+Iteration number: 1865
+Edge removed: (735, 3073)
+Number of communities after edge removal: 24
+
+Iteration number: 1866
+Edge removed: (2247, 6676)
+Number of communities after edge removal: 24
+
+Iteration number: 1867
+Edge removed: (4811, 6493)
+Number of communities after edge removal: 24
+
+Iteration number: 1868
+Edge removed: (1648, 3277)
+Number of communities after edge removal: 24
+
+Iteration number: 1869
+Edge removed: (1148, 5595)
+Number of communities after edge removal: 24
+
+Iteration number: 1870
+Edge removed: (2463, 4080)
+Number of communities after edge removal: 24
+
+Iteration number: 1871
+Edge removed: (4093, 6177)
+Number of communities after edge removal: 24
+
+Iteration number: 1872
+Edge removed: (4221, 7455)
+Number of communities after edge removal: 24
+
+Iteration number: 1873
+Edge removed: (2022, 5837)
+Number of communities after edge removal: 24
+
+Iteration number: 1874
+Edge removed: (6493, 7053)
+Number of communities after edge removal: 25
+
+Modularity: 0.8084767307042529
