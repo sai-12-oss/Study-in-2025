@@ -1,4 +1,4 @@
-2
+4
 S -> AB;A -> a;B -> BC| b;C -> c
 PQ:a QR:b RT:c
 P
@@ -7,3 +7,11 @@ S -> AB;A -> a;B -> BC| b;C -> c
 PQ:a QR:c RT:b
 P
 T
+S -> AB| BC;A -> BA| a;B -> CC| b;C -> AB| a
+PQ:b QR:a RS:a ST:b TW:a
+P
+W
+S -> AB| BC;A -> BA| a;B -> CC| b;C -> AB| a
+PQ:b QR:b RS:a ST:b TW:a
+P
+W
