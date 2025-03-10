@@ -34,7 +34,7 @@ def main(input_file, output_file):
             dst = edge[1]
             label = edge[3]
             graph.add_edge(src, dst, label)
-        print(graph.get_edges())
+        print(cfg.parse_productions(cfg_productions))
         reachable = check_reachability(cfg, graph, start_vertex, end_vertex)
         results.append('Yes' if reachable else 'No')
     

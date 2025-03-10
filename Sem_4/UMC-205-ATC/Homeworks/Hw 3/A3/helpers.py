@@ -14,12 +14,13 @@ class CFG:
             bodies1 = body.split('|')
             bodies = []
             for b in bodies1:
-                bodies = b.strip().split()
+                bodies.append(b.strip().split())
             if head not in production_dict:
                 production_dict[head] = []
-            production_dict[head] = bodies
+            production_dict[head].extend(bodies)  # Add the bodies to the list for the current head
         return production_dict
-        
+
+
 class Graph:
     def __init__(self):
         self.adjacency_list = {}
@@ -31,4 +32,3 @@ class Graph:
 
     def get_edges(self):
         return self.adjacency_list
-        
