@@ -1,4 +1,44 @@
-4
+12
+S -> AB; A -> CD| a; B -> EF| b; C -> c; D -> d; E -> g; F -> h
+XY:a YZ:b ZW:c WX:d XU:e UV:f VW:g
+X
+W
+S -> AB; A -> BC| a; B -> DE| b; C -> f; D -> g; E -> h
+PQ:a QR:c RS:b ST:d PU:e UV:f VW:g WX:h
+P
+T
+S -> XY; X -> AB| C; Y -> DE| d; A -> E| a; B -> F| b; C -> G| c; D -> H| e
+LM:a MN:b NO:c OP:d LQ:e QR:f RS:g ST:h
+L
+P
+S -> AB; A -> CD| E; B -> FG| b; C -> H| c; D -> I| d; E -> J| e; F -> K| f; G -> L| g
+VW:a WX:b XY:c YZ:d VU:e UV:f WT:g TX:h
+V
+Z
+S -> AB; A -> CD| EF; B -> GH| b; C -> IJ| i; D -> KL| k; E -> MN| m; F -> OP| o; G -> QR| q; H -> ST| s
+AB:a BC:b CD:c DE:d AC:e BD:f CE:g DF:h
+A
+E
+S -> XY; X -> AB| C; Y -> DE| d; A -> E| a; B -> F| b; C -> G| c; D -> H| e
+JK:a KL:b LM:c MN:d JQ:e QR:f RS:g ST:h
+J
+N
+S -> AB; A -> BC| D; B -> EF| G; C -> HI| J; D -> KL| M; E -> NO| P; F -> QR| S; G -> TU| V
+ST:a TU:b UV:c VW:d SU:e UT:f VX:g WY:h
+S
+W
+S -> AB; A -> CD| E; B -> FG| b; C -> HI| c; D -> JK| d; E -> LM| e; F -> NO| f; G -> PQ| g; H -> RS| h
+OP:a PQ:b QR:c RS:d OR:e PS:f QT:g RW:h
+O
+S
+S -> AB; A -> CD| a; B -> EF| b; C -> GH| c; D -> IJ| d; E -> KL| e; F -> MN| f; G -> OP| g; H -> QR| h
+XY:a YZ:b ZW:c WX:d XP:e PQ:f QR:g RS:h
+X
+W
+S -> AB; A -> BC| D; B -> EF| G; C -> HI| J; D -> KL| M; E -> NO| P; F -> QR| S; G -> TU| V
+LM:a MN:b NO:c OP:d LP:e MQ:f NR:g OS:h
+L
+P
 S -> AB;A -> a;B -> BC| b;C -> c
 PQ:a QR:b RT:c
 P
@@ -7,11 +47,3 @@ S -> AB;A -> a;B -> BC| b;C -> c
 PQ:a QR:c RT:b
 P
 T
-S -> AB| BC;A -> BA| a;B -> CC| b;C -> AB| a
-PQ:b QR:a RS:a ST:b TW:a
-P
-W
-S -> AB| BC;A -> BA| a;B -> CC| b;C -> AB| a
-PQ:b QR:b RS:a ST:b TW:a
-P
-W
