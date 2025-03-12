@@ -68,8 +68,6 @@ def check_reachability(cfg, graph, start_vertex, end_vertex):
     # print(f"\nFinal Check: ({start_vertex}, {end_vertex}) has 'S': {result}")
     return result
 
-    return False
-
 def read_input(file_path):
     with open(file_path, 'r') as file:
         num_inputs = int(file.readline().strip())
