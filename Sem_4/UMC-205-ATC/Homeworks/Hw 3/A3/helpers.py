@@ -6,17 +6,24 @@ class CFG:
 
     def parse_productions(self, productions):
         production_dict = {}
+        if not productions.strip():  # Handle empty input
+            return production_dict
         for production in productions.split(';'):
+            production = production.strip()
+            if not production or '->' not in production:  # Skip empty or invalid productions
+                continue
             head, body = production.split('->')
             head = head.strip()
             bodies1 = body.split('|')
             bodies = []
             for b in bodies1:
                 b = b.strip()
-                bodies.append(list(b))  # Split into individual characters
-            if head not in production_dict:
-                production_dict[head] = []
-            production_dict[head].extend(bodies)
+                if b:  # Skip empty bodies
+                    bodies.append(list(b))  # Split into individual characters
+            if head and bodies:  # Only add valid productions
+                if head not in production_dict:
+                    production_dict[head] = []
+                production_dict[head].extend(bodies)
         return production_dict
 
 class Graph:

@@ -2,23 +2,23 @@ from helpers import CFG
 from helpers import Graph
 
 def check_reachability(cfg, graph, start_vertex, end_vertex):
-    # step-1 : get all the productions and arrange them into terminals and non-terminals 
-    terminals = {}
-    non_terminals = {}
+    # step-1 : get all the productions and arrange them into terminal_pairs and non-terminal_pairs 
+    terminal_pairs = {}
+    non_terminal_pairs = {}
     for nt,productions in cfg.productions.items():
         for production in productions:
             if len(production) == 1:
                 label = production[0]
-                if label not in terminals:
-                    terminals[label] = set()
-                terminals[label].add(nt)
+                if label not in terminal_pairs:
+                    terminal_pairs[label] = set()
+                terminal_pairs[label].add(nt)
             elif len(production) == 2:
                 X,Y = production[0],production[1]
-                if (X,Y) not in non_terminals:
-                    non_terminals[(X,Y)] = set()
-                non_terminals[(X,Y)].add(nt)
-    # print(f"Terminals: {terminals}")
-    # print(f"Non-Terminals: {non_terminals}")
+                if (X,Y) not in non_terminal_pairs:
+                    non_terminal_pairs[(X,Y)] = set()
+                non_terminal_pairs[(X,Y)].add(nt)
+    # print(f"Terminal_pairs: {terminal_pairs}")
+    # print(f"Non-terminal_pairs: {non_terminal-pairs}")
     # step-2 : Create the Solver table 
     Solvable = {}
     nodes = set()
@@ -30,8 +30,8 @@ def check_reachability(cfg, graph, start_vertex, end_vertex):
             if (source,distance) not in Solvable:
                 Solvable[(source,distance)] = set()
             # step-3 : Add non-termianls for single edges 
-            if label in terminals:
-                Solvable[(source,distance)].update(terminals[label])
+            if label in terminal_pairs:
+                Solvable[(source,distance)].update(terminal_pairs[label])
     # print("Initial Solvable Table:")
     # for (u, v), nt_set in sorted(Solvable.items()):
     #     print(f"({u}, {v}): {sorted(nt_set)}")
@@ -47,13 +47,13 @@ def check_reachability(cfg, graph, start_vertex, end_vertex):
                     if (u,w) in Solvable and (w,v) in Solvable:
                         X_set = Solvable[(u,w)]
                         Y_set = Solvable[(w,v)]
-                        for X in X_set:
-                            for Y in Y_set:
-                                if (X,Y) in non_terminals:
-                                    Z_set = non_terminals[(X,Y)]
+                        for X in X_set.copy(): # as we dont want it to get updated everytime 
+                            for Y in Y_set.copy():
+                                if (X,Y) in non_terminal_pairs:
+                                    Z_set = non_terminal_pairs[(X,Y)]
                                     if (u,v) not in Solvable:
                                         Solvable[(u,v)] = set()
-                                        # Add new non-terminals to (u,v)
+                                        # Add new non-terminal_pairs to (u,v)
                                     new_additions = Z_set - Solvable[(u,v)]
                                     if new_additions:
                                         Solvable[(u,v)].update(new_additions)
@@ -91,20 +91,19 @@ def main(input_file, output_file):
     for cfg_productions, graph_data, start_vertex, end_vertex in inputs:
         cfg = CFG(cfg_productions)
         graph = Graph()
-        edge_data = graph_data.split(' ')
-        for edge in edge_data:
-            src = edge[0]
-            dst = edge[1]
-            label = edge[3]
-            graph.add_edge(src, dst, label)
-        print(cfg.parse_productions(cfg_productions))
+        if graph_data.strip():  # Ensure non-empty after stripping
+            edge_data = [e for e in graph_data.split(' ') if e]  # Filter out empty strings
+            for edge in edge_data:
+                src = edge[0]
+                dst = edge[1]
+                label = edge[3]
+                graph.add_edge(src, dst, label)
         reachable = check_reachability(cfg, graph, start_vertex, end_vertex)
-        results.append('Yes' if reachable else 'No')
-    
+        results.append('YES' if reachable else 'NO')
     write_output(output_file, results)
 
 if __name__ == "__main__":
-    input_file = 'input.txt'
-    output_file = 'output.txt'
+    input_file = 'input-2.txt'
+    output_file = 'output-2.txt'
     main(input_file, output_file)
 
