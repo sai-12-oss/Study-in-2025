@@ -103,7 +103,7 @@ def main(input_file, output_file):
     write_output(output_file, results)
 
 if __name__ == "__main__":
-    input_file = 'input-2.txt'
-    output_file = 'output-2.txt'
+    input_file = 'input.txt'
+    output_file = 'output.txt'
     main(input_file, output_file)
 
